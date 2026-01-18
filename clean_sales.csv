@@ -1,0 +1,1201 @@
+﻿TransactionID,TransactionDate,CustomerID,CustomerName,Gender,Age,City,State,ProductName,Category,SubCategory,Quantity,Price,PaymentMode,OrderStatus
+TXN100000,13-08-2025,CUST1003,Samaira Subramanian,Female,41,Delhi,Delhi,Wooden Table,Furniture,Table,5,12000,Cash,Delivered
+TXN100001,2025/01/31,CUST1262,Siya Andra,Male,59,Delhi,Delhi,Wooden Table,Furniture,Table,3,12000,Cash,Returned
+TXN100002,2025/08/10,CUST1653,Ishaan Lala,Female,36,Pune,Maharashtra,iPhone 14,Electronics,Mobile,1,65000,Credit Card,Returned
+TXN100003,19-12-2025,CUST1254,Seher Raman,Female,58,Kolkata,West Bengal,Sony Headphones,Electronics,Accessories,4,5000,UPI,Returned
+TXN100004,01-05-2025,CUST1749,Trisha Buch,Female,57,Chennai,Tamil Nadu,Nike Shoes,Fashion,Footwear,1,4500,UPI,Delivered
+TXN100005,2025/08/03,CUST1692,Shalv Boase,Female,40,Mumbai,Maharashtra,Nike Shoes,Fashion,Footwear,4,4500,UPI,Returned
+TXN100006,22-05-2025,CUST1645,Samar Karnik,Female,21,Mumbai,Maharashtra,iPhone 14,Electronics,Mobile,3,65000,Credit Card,Delivered
+TXN100007,2025/07/05,CUST1173,Hansh Chaudhuri,Female,43,Delhi,Delhi,Nike Shoes,Fashion,Footwear,4,4500,Debit Card,Returned
+TXN100008,2025/05/12,CUST1343,Pihu Bawa,Female,43,Hyderabad,Telangana,Adidas T-Shirt,Fashion,Clothing,3,1800,Debit Card,Delivered
+TXN100009,24-05-2025,CUST1049,Chirag Banik,Female,60,Kolkata,West Bengal,HP Laptop,Electronics,Laptop,1,72000,Debit Card,Returned
+TXN100010,2025/07/25,CUST1034,Advik Khalsa,Female,19,Bengaluru,Karnataka,Adidas T-Shirt,Fashion,Clothing,4,1800,Debit Card,Delivered
+TXN100011,2025/07/20,CUST1819,Eshani Divan,Male,50,Kolkata,West Bengal,Wooden Table,Furniture,Table,2,12000,Cash,Delivered
+TXN100012,2025/02/20,CUST1216,Hrishita Yadav,Male,22,Pune,Maharashtra,Nike Shoes,Fashion,Footwear,2,4500,UPI,Delivered
+TXN100013,2025/12/05,CUST1539,Umang Rajan,Female,44,Hyderabad,Telangana,Adidas T-Shirt,Fashion,Clothing,5,1800,UPI,Returned
+TXN100014,2025/03/16,CUST1894,Navya Kapadia,Male,26,Pune,Maharashtra,HP Laptop,Electronics,Laptop,1,72000,UPI,Cancelled
+TXN100015,2025/05/13,CUST1952,Kaira Bumb,Male,53,Mumbai,Maharashtra,Nike Shoes,Fashion,Footwear,5,4500,Credit Card,Returned
+TXN100016,2025/08/21,CUST1121,Suhana Arora,Female,59,Delhi,Delhi,Sony Headphones,Electronics,Accessories,3,5000,Cash,Cancelled
+TXN100017,02-04-2025,CUST1082,Advika Khanna,Male,19,Kolkata,West Bengal,Adidas T-Shirt,Fashion,Clothing,5,1800,Debit Card,Cancelled
+TXN100018,2025/09/21,CUST1191,Badal Bhatti,Female,35,Delhi,Delhi,Wooden Table,Furniture,Table,4,12000,Debit Card,Delivered
+TXN100019,10-06-2025,CUST1780,Nishith Gill,Male,27,Mumbai,Maharashtra,iPhone 14,Electronics,Mobile,4,65000,Credit Card,Cancelled
+TXN100020,2025/07/08,CUST1272,Miraya Jain,Female,40,Hyderabad,Telangana,HP Laptop,Electronics,Laptop,1,72000,Credit Card,Returned
+TXN100021,2025/06/25,CUST1780,Tejas Swamy,Female,30,Delhi,Delhi,Wooden Table,Furniture,Table,4,12000,UPI,Delivered
+TXN100022,2025/08/23,CUST1321,Anya Mall,Female,25,Kolkata,West Bengal,HP Laptop,Electronics,Laptop,4,72000,UPI,Delivered
+TXN100023,2025/07/07,CUST1023,Miraya Kaul,Male,37,Kolkata,West Bengal,Wooden Table,Furniture,Table,5,12000,Cash,Returned
+TXN100024,2025/01/10,CUST1348,Ayesha Iyer,Male,37,Delhi,Delhi,Nike Shoes,Fashion,Footwear,5,4500,Debit Card,Delivered
+TXN100025,15-07-2025,CUST1705,Taimur Sama,Male,20,Hyderabad,Telangana,Wooden Table,Furniture,Table,5,12000,UPI,Cancelled
+TXN100026,26-12-2025,CUST1385,Renee Ratti,Male,45,Hyderabad,Telangana,HP Laptop,Electronics,Laptop,3,72000,UPI,Returned
+TXN100027,06-11-2025,CUST1603,Vedika Raja,Male,37,Delhi,Delhi,Adidas T-Shirt,Fashion,Clothing,5,1800,UPI,Delivered
+TXN100028,2025/02/05,CUST1146,Reyansh Vyas,Male,37,Chennai,Tamil Nadu,Samsung Galaxy S22,Electronics,Mobile,1,58000,Credit Card,Cancelled
+TXN100029,2025/01/21,CUST1503,Amani Sen,Male,49,Chennai,Tamil Nadu,Wooden Table,Furniture,Table,3,12000,Cash,Returned
+TXN100030,2025/12/19,CUST1668,Kartik Bala,Male,19,Kolkata,West Bengal,HP Laptop,Electronics,Laptop,4,72000,Cash,Cancelled
+TXN100031,2025/09/14,CUST1866,Badal Kade,Female,36,Pune,Maharashtra,Sony Headphones,Electronics,Accessories,1,5000,Debit Card,Delivered
+TXN100032,2025/03/13,CUST1810,Sana Aurora,Male,60,Bengaluru,Karnataka,Sony Headphones,Electronics,Accessories,5,5000,Cash,Returned
+TXN100033,20-05-2025,CUST1382,Rati Rana,Female,56,Kolkata,West Bengal,Adidas T-Shirt,Fashion,Clothing,5,1800,UPI,Cancelled
+TXN100034,20-06-2025,CUST1350,Jayesh Sant,Male,57,Kolkata,West Bengal,Adidas T-Shirt,Fashion,Clothing,2,1800,Credit Card,Returned
+TXN100035,27-10-2025,CUST1287,Vritika Ramachandran,Female,35,Bengaluru,Karnataka,Nike Shoes,Fashion,Footwear,2,4500,UPI,Cancelled
+TXN100036,2025/06/08,CUST1115,Ayesha Tiwari,Male,36,Pune,Maharashtra,Nike Shoes,Fashion,Footwear,1,4500,Debit Card,Returned
+TXN100037,2025/12/23,CUST1458,Yashvi Din,Male,53,Pune,Maharashtra,Samsung Galaxy S22,Electronics,Mobile,2,58000,UPI,Returned
+TXN100038,29-05-2025,CUST1012,Zara Keer,Male,23,Delhi,Delhi,iPhone 14,Electronics,Mobile,2,65000,Credit Card,Returned
+TXN100039,03-12-2025,CUST1363,Arhaan Gade,Male,51,Bengaluru,Karnataka,iPhone 14,Electronics,Mobile,5,65000,Credit Card,Delivered
+TXN100040,30-01-2025,CUST1019,Anahita D’Alia,Female,46,Pune,Maharashtra,Nike Shoes,Fashion,Footwear,1,4500,Cash,Delivered
+TXN100041,17-09-2025,CUST1745,Prerak Sarin,Male,49,Mumbai,Maharashtra,Nike Shoes,Fashion,Footwear,2,4500,Cash,Delivered
+TXN100042,15-02-2025,CUST1902,Tushar Varkey,Male,52,Pune,Maharashtra,Nike Shoes,Fashion,Footwear,5,4500,Debit Card,Cancelled
+TXN100043,2025/06/10,CUST1428,Mohanlal Sastry,Female,20,Pune,Maharashtra,Adidas T-Shirt,Fashion,Clothing,4,1800,Debit Card,Delivered
+TXN100044,2025/09/24,CUST1641,Indranil Gulati,Male,58,Chennai,Tamil Nadu,Nike Shoes,Fashion,Footwear,2,4500,UPI,Cancelled
+TXN100045,08-08-2025,CUST1215,Shray Shere,Male,31,Mumbai,Maharashtra,HP Laptop,Electronics,Laptop,3,72000,Debit Card,Returned
+TXN100046,19-07-2025,CUST1407,Mehul Ganesan,Female,58,Mumbai,Maharashtra,Samsung Galaxy S22,Electronics,Mobile,5,58000,Debit Card,Returned
+TXN100047,2025/08/20,CUST1846,Rhea Kala,Female,49,Pune,Maharashtra,HP Laptop,Electronics,Laptop,1,72000,UPI,Delivered
+TXN100048,10-04-2025,CUST1542,Nirvi Borde,Female,58,Chennai,Tamil Nadu,Wooden Table,Furniture,Table,2,12000,UPI,Returned
+TXN100049,2025/10/29,CUST1361,Misha Vora,Male,51,Chennai,Tamil Nadu,Samsung Galaxy S22,Electronics,Mobile,5,58000,Credit Card,Cancelled
+TXN100050,18-11-2025,CUST1318,Krish Wason,Male,37,Bengaluru,Karnataka,Nike Shoes,Fashion,Footwear,5,4500,Cash,Delivered
+TXN100051,15-07-2025,CUST1899,Umang Hayer,Female,44,Hyderabad,Telangana,iPhone 14,Electronics,Mobile,4,65000,Credit Card,Returned
+TXN100052,23-11-2025,CUST1438,Kavya Chander,Female,34,Chennai,Tamil Nadu,Nike Shoes,Fashion,Footwear,2,4500,Cash,Cancelled
+TXN100053,2025/10/15,CUST1201,Zaina Malhotra,Male,34,Kolkata,West Bengal,Nike Shoes,Fashion,Footwear,4,4500,UPI,Returned
+TXN100054,2025/02/26,CUST1591,Sahil Karan,Male,31,Bengaluru,Karnataka,Samsung Galaxy S22,Electronics,Mobile,2,58000,Debit Card,Returned
+TXN100055,2025/04/05,CUST1674,Shayak Kibe,Male,51,Hyderabad,Telangana,Sony Headphones,Electronics,Accessories,3,5000,Credit Card,Delivered
+TXN100056,2025/07/10,CUST1539,Badal Dhar,Male,53,Bengaluru,Karnataka,Nike Shoes,Fashion,Footwear,5,4500,Credit Card,Cancelled
+TXN100057,04-04-2025,CUST1167,Abram Balakrishnan,Male,57,Pune,Maharashtra,iPhone 14,Electronics,Mobile,5,65000,Credit Card,Cancelled
+TXN100058,19-06-2025,CUST1591,Miraya Bir,Female,20,Kolkata,West Bengal,Adidas T-Shirt,Fashion,Clothing,5,1800,Credit Card,Delivered
+TXN100059,2025/07/21,CUST1626,Lakshay Bhasin,Female,55,Mumbai,Maharashtra,Wooden Table,Furniture,Table,3,12000,UPI,Delivered
+TXN100060,09-01-2025,CUST1387,Yasmin Buch,Male,54,Hyderabad,Telangana,Wooden Table,Furniture,Table,1,12000,Credit Card,Returned
+TXN100061,28-07-2025,CUST1235,Priyansh Choudhury,Male,50,Bengaluru,Karnataka,Adidas T-Shirt,Fashion,Clothing,3,1800,Credit Card,Delivered
+TXN100062,2025/12/01,CUST1196,Jayan Sabharwal,Female,53,Bengaluru,Karnataka,iPhone 14,Electronics,Mobile,5,65000,Credit Card,Returned
+TXN100063,25-07-2025,CUST1215,Aarav Jani,Male,40,Hyderabad,Telangana,Samsung Galaxy S22,Electronics,Mobile,5,58000,Debit Card,Returned
+TXN100064,24-09-2025,CUST1184,Charvi Toor,Female,29,Pune,Maharashtra,Wooden Table,Furniture,Table,4,12000,Cash,Returned
+TXN100065,2025/03/01,CUST1920,Hiran Borah,Male,28,Pune,Maharashtra,HP Laptop,Electronics,Laptop,3,72000,Credit Card,Cancelled
+TXN100066,03-05-2025,CUST1537,Ryan Gokhale,Male,60,Hyderabad,Telangana,Nike Shoes,Fashion,Footwear,4,4500,Debit Card,Delivered
+TXN100067,2025/06/17,CUST1483,Zain Korpal,Female,51,Bengaluru,Karnataka,Nike Shoes,Fashion,Footwear,1,4500,Cash,Delivered
+TXN100068,2025/12/28,CUST1641,Inaaya  Konda,Male,26,Delhi,Delhi,Adidas T-Shirt,Fashion,Clothing,3,1800,Credit Card,Delivered
+TXN100069,2025/01/26,CUST1846,Ivana Mani,Male,24,Hyderabad,Telangana,Wooden Table,Furniture,Table,3,12000,Cash,Returned
+TXN100070,12-12-2025,CUST1580,Vanya Aurora,Female,20,Bengaluru,Karnataka,Nike Shoes,Fashion,Footwear,4,4500,UPI,Cancelled
+TXN100071,30-01-2025,CUST1029,Anya Karnik,Female,27,Delhi,Delhi,Wooden Table,Furniture,Table,2,12000,Debit Card,Delivered
+TXN100072,10-11-2025,CUST1362,Hiran Dara,Male,23,Kolkata,West Bengal,iPhone 14,Electronics,Mobile,5,65000,Debit Card,Delivered
+TXN100073,08-10-2025,CUST1060,Ehsaan Tak,Male,51,Kolkata,West Bengal,Wooden Table,Furniture,Table,1,12000,Cash,Delivered
+TXN100074,2025/11/06,CUST1211,Shaan Golla,Male,34,Chennai,Tamil Nadu,Samsung Galaxy S22,Electronics,Mobile,2,58000,Credit Card,Returned
+TXN100075,11-02-2025,CUST1679,Sumer Sule,Female,29,Pune,Maharashtra,Samsung Galaxy S22,Electronics,Mobile,4,58000,UPI,Returned
+TXN100076,2025/04/29,CUST1476,Siya Sagar,Female,55,Mumbai,Maharashtra,HP Laptop,Electronics,Laptop,3,72000,Credit Card,Delivered
+TXN100077,2025/08/26,CUST1741,Nitara Sagar,Male,49,Mumbai,Maharashtra,Wooden Table,Furniture,Table,3,12000,Cash,Delivered
+TXN100078,26-10-2025,CUST1070,Dharmajan Choudhry,Male,29,Bengaluru,Karnataka,Wooden Table,Furniture,Table,2,12000,Credit Card,Cancelled
+TXN100079,03-04-2025,CUST1400,Ryan Dey,Male,24,Delhi,Delhi,Wooden Table,Furniture,Table,5,12000,Debit Card,Cancelled
+TXN100080,01-12-2025,CUST1502,Jayan Yohannan,Male,31,Pune,Maharashtra,iPhone 14,Electronics,Mobile,5,65000,Credit Card,Delivered
+TXN100081,20-12-2025,CUST1225,Aarna Dash,Female,22,Bengaluru,Karnataka,Nike Shoes,Fashion,Footwear,5,4500,Cash,Cancelled
+TXN100082,28-11-2025,CUST1469,Damini Kulkarni,Female,52,Delhi,Delhi,HP Laptop,Electronics,Laptop,3,72000,Credit Card,Delivered
+TXN100083,27-08-2025,CUST1651,Manjari Suri,Male,18,Hyderabad,Telangana,Wooden Table,Furniture,Table,2,12000,Credit Card,Cancelled
+TXN100084,2025/08/02,CUST1427,Shanaya Sem,Male,59,Bengaluru,Karnataka,HP Laptop,Electronics,Laptop,2,72000,Debit Card,Returned
+TXN100085,2025/04/08,CUST1446,Gatik Chandran,Female,30,Hyderabad,Telangana,Samsung Galaxy S22,Electronics,Mobile,1,58000,Cash,Returned
+TXN100086,10-04-2025,CUST1411,Mishti Kalla,Male,42,Delhi,Delhi,Nike Shoes,Fashion,Footwear,2,4500,UPI,Returned
+TXN100087,17-02-2025,CUST1763,Advika Brar,Female,52,Mumbai,Maharashtra,Adidas T-Shirt,Fashion,Clothing,5,1800,Cash,Cancelled
+TXN100088,2025/09/05,CUST1563,Baiju Bahl,Female,46,Mumbai,Maharashtra,iPhone 14,Electronics,Mobile,4,65000,UPI,Delivered
+TXN100089,07-06-2025,CUST1202,Manikya Dutt,Female,27,Delhi,Delhi,HP Laptop,Electronics,Laptop,4,72000,Cash,Delivered
+TXN100090,29-07-2025,CUST1914,Nayantara Rajagopal,Male,59,Hyderabad,Telangana,HP Laptop,Electronics,Laptop,4,72000,Debit Card,Returned
+TXN100091,2025/03/27,CUST1486,Nirvi Basak,Male,47,Delhi,Delhi,Samsung Galaxy S22,Electronics,Mobile,5,58000,Debit Card,Returned
+TXN100092,09-03-2025,CUST1700,Uthkarsh Kale,Male,53,Hyderabad,Telangana,iPhone 14,Electronics,Mobile,3,65000,Cash,Delivered
+TXN100093,2025/02/08,CUST1139,Divyansh Dixit,Female,46,Chennai,Tamil Nadu,iPhone 14,Electronics,Mobile,4,65000,Cash,Cancelled
+TXN100094,14-01-2025,CUST1911,Navya Aggarwal,Female,19,Bengaluru,Karnataka,Adidas T-Shirt,Fashion,Clothing,4,1800,Debit Card,Returned
+TXN100095,2025/11/04,CUST1379,Aarna Jani,Female,26,Hyderabad,Telangana,HP Laptop,Electronics,Laptop,1,72000,Credit Card,Cancelled
+TXN100096,2025/06/29,CUST1661,Kartik Zachariah,Male,42,Pune,Maharashtra,iPhone 14,Electronics,Mobile,3,65000,Debit Card,Returned
+TXN100097,25-05-2025,CUST1754,Akarsh Garg,Female,39,Bengaluru,Karnataka,HP Laptop,Electronics,Laptop,4,72000,Debit Card,Cancelled
+TXN100098,28-10-2025,CUST1175,Amani Bumb,Female,28,Chennai,Tamil Nadu,Adidas T-Shirt,Fashion,Clothing,3,1800,Cash,Delivered
+TXN100099,2025/02/26,CUST1329,Akarsh Mand,Female,46,Hyderabad,Telangana,iPhone 14,Electronics,Mobile,4,65000,Debit Card,Returned
+TXN100100,2026/01/04,CUST1641,Prerak Dora,Female,33,Pune,Maharashtra,Wooden Table,Furniture,Table,5,12000,Cash,Delivered
+TXN100101,2025/12/05,CUST1362,Nirvi Sastry,Female,60,Mumbai,Maharashtra,Wooden Table,Furniture,Table,1,12000,Debit Card,Delivered
+TXN100102,2025/09/03,CUST1392,Damini Bhatt,Female,33,Delhi,Delhi,iPhone 14,Electronics,Mobile,4,65000,Credit Card,Cancelled
+TXN100103,2025/04/04,CUST1497,Raunak Chanda,Female,21,Hyderabad,Telangana,Sony Headphones,Electronics,Accessories,4,5000,Debit Card,Delivered
+TXN100104,2025/03/10,CUST1302,Saksham Saha,Male,41,Bengaluru,Karnataka,iPhone 14,Electronics,Mobile,1,65000,UPI,Returned
+TXN100105,2025/12/13,CUST1857,Purab Sami,Female,54,Kolkata,West Bengal,Wooden Table,Furniture,Table,5,12000,Debit Card,Delivered
+TXN100106,15-12-2025,CUST1164,Indranil Vasa,Female,54,Kolkata,West Bengal,Wooden Table,Furniture,Table,2,12000,Credit Card,Returned
+TXN100107,18-03-2025,CUST1775,Advika Bajwa,Female,48,Delhi,Delhi,Adidas T-Shirt,Fashion,Clothing,4,1800,UPI,Cancelled
+TXN100108,2025/10/11,CUST1019,Vanya Subramanian,Female,34,Pune,Maharashtra,Wooden Table,Furniture,Table,5,12000,Credit Card,Cancelled
+TXN100109,2025/01/18,CUST1240,Ivan Kibe,Female,47,Mumbai,Maharashtra,Sony Headphones,Electronics,Accessories,2,5000,Debit Card,Cancelled
+TXN100110,03-07-2025,CUST1388,Zara Madan,Female,34,Pune,Maharashtra,iPhone 14,Electronics,Mobile,5,65000,UPI,Delivered
+TXN100111,23-03-2025,CUST1331,Prerak Wadhwa,Female,54,Kolkata,West Bengal,iPhone 14,Electronics,Mobile,5,65000,UPI,Cancelled
+TXN100112,11-06-2025,CUST1493,Jivin Karnik,Male,57,Hyderabad,Telangana,iPhone 14,Electronics,Mobile,3,65000,Debit Card,Cancelled
+TXN100113,26-02-2025,CUST1800,Hansh Bali,Female,53,Pune,Maharashtra,Sony Headphones,Electronics,Accessories,5,5000,Credit Card,Cancelled
+TXN100114,13-07-2025,CUST1432,Riaan Gill,Male,37,Bengaluru,Karnataka,Samsung Galaxy S22,Electronics,Mobile,1,58000,Debit Card,Cancelled
+TXN100115,30-06-2025,CUST1103,Dishani Balakrishnan,Male,21,Bengaluru,Karnataka,Sony Headphones,Electronics,Accessories,3,5000,Credit Card,Delivered
+TXN100116,09-01-2025,CUST1222,Onkar Korpal,Female,26,Chennai,Tamil Nadu,iPhone 14,Electronics,Mobile,3,65000,Cash,Delivered
+TXN100117,13-04-2025,CUST1345,Himmat Buch,Male,59,Chennai,Tamil Nadu,HP Laptop,Electronics,Laptop,1,72000,Cash,Delivered
+TXN100118,2025/08/29,CUST1378,Damini Mammen,Male,45,Hyderabad,Telangana,Sony Headphones,Electronics,Accessories,2,5000,Debit Card,Cancelled
+TXN100119,2025/11/04,CUST1733,Trisha Bawa,Male,44,Chennai,Tamil Nadu,Wooden Table,Furniture,Table,3,12000,Cash,Returned
+TXN100120,2025/07/13,CUST1341,Sumer Thaman,Male,29,Bengaluru,Karnataka,iPhone 14,Electronics,Mobile,2,65000,Cash,Delivered
+TXN100121,01-01-2026,CUST1579,Madhav Dugal,Female,58,Pune,Maharashtra,Samsung Galaxy S22,Electronics,Mobile,2,58000,Debit Card,Returned
+TXN100122,18-10-2025,CUST1629,Advika Baria,Female,20,Bengaluru,Karnataka,Wooden Table,Furniture,Table,2,12000,Credit Card,Returned
+TXN100123,03-09-2025,CUST1563,Gokul Guha,Female,50,Kolkata,West Bengal,Adidas T-Shirt,Fashion,Clothing,3,1800,UPI,Returned
+TXN100124,2025/09/24,CUST1719,Ishita Behl,Male,20,Kolkata,West Bengal,Wooden Table,Furniture,Table,5,12000,UPI,Cancelled
+TXN100125,2025/02/11,CUST1023,Suhana Upadhyay,Male,42,Delhi,Delhi,Nike Shoes,Fashion,Footwear,4,4500,Credit Card,Delivered
+TXN100126,2025/07/31,CUST1932,Mannat Barad,Female,24,Pune,Maharashtra,HP Laptop,Electronics,Laptop,3,72000,Credit Card,Returned
+TXN100127,20-04-2025,CUST1212,Aayush Cheema,Male,40,Mumbai,Maharashtra,Wooden Table,Furniture,Table,3,12000,UPI,Cancelled
+TXN100128,01-08-2025,CUST1643,Zeeshan Tata,Male,18,Delhi,Delhi,Sony Headphones,Electronics,Accessories,4,5000,Cash,Delivered
+TXN100129,31-01-2025,CUST1018,Advika Ganguly,Male,23,Bengaluru,Karnataka,Samsung Galaxy S22,Electronics,Mobile,5,58000,UPI,Cancelled
+TXN100130,11-08-2025,CUST1404,Abram Jain,Male,34,Chennai,Tamil Nadu,Adidas T-Shirt,Fashion,Clothing,3,1800,Cash,Delivered
+TXN100131,02-03-2025,CUST1816,Nayantara Sanghvi,Female,45,Hyderabad,Telangana,Sony Headphones,Electronics,Accessories,2,5000,UPI,Returned
+TXN100132,19-09-2025,CUST1164,Yuvaan Brar,Female,26,Bengaluru,Karnataka,Nike Shoes,Fashion,Footwear,3,4500,Credit Card,Delivered
+TXN100133,02-01-2026,CUST1434,Tiya Kamdar,Female,37,Pune,Maharashtra,Samsung Galaxy S22,Electronics,Mobile,2,58000,UPI,Cancelled
+TXN100134,19-09-2025,CUST1556,Vritika Joshi,Female,33,Bengaluru,Karnataka,Nike Shoes,Fashion,Footwear,2,4500,Debit Card,Cancelled
+TXN100135,2025/10/20,CUST1611,Krish Dubey,Male,47,Chennai,Tamil Nadu,iPhone 14,Electronics,Mobile,1,65000,Cash,Returned
+TXN100136,26-01-2025,CUST1091,Suhana Chana,Male,43,Pune,Maharashtra,Wooden Table,Furniture,Table,4,12000,Debit Card,Returned
+TXN100137,2025/02/21,CUST1913,Ishaan Mangat,Female,51,Delhi,Delhi,Sony Headphones,Electronics,Accessories,3,5000,Debit Card,Cancelled
+TXN100138,05-09-2025,CUST1640,Shanaya Deshpande,Male,43,Mumbai,Maharashtra,iPhone 14,Electronics,Mobile,4,65000,Credit Card,Returned
+TXN100139,2025/09/26,CUST1772,Charvi Soni,Male,30,Chennai,Tamil Nadu,Sony Headphones,Electronics,Accessories,3,5000,Cash,Returned
+TXN100140,2025/07/03,CUST1564,Dhanuk Chandra,Female,51,Hyderabad,Telangana,Samsung Galaxy S22,Electronics,Mobile,4,58000,Credit Card,Cancelled
+TXN100141,04-04-2025,CUST1404,Samiha Mani,Male,24,Kolkata,West Bengal,Adidas T-Shirt,Fashion,Clothing,2,1800,Cash,Returned
+TXN100142,28-03-2025,CUST1179,Ivan Rout,Female,32,Delhi,Delhi,iPhone 14,Electronics,Mobile,1,65000,UPI,Returned
+TXN100143,2026/01/03,CUST1470,Dishani Yadav,Female,54,Delhi,Delhi,Adidas T-Shirt,Fashion,Clothing,5,1800,Debit Card,Cancelled
+TXN100144,2025/04/11,CUST1889,Sara Sane,Female,54,Delhi,Delhi,Samsung Galaxy S22,Electronics,Mobile,1,58000,Debit Card,Cancelled
+TXN100145,21-10-2025,CUST1358,Alisha Sahota,Female,53,Bengaluru,Karnataka,iPhone 14,Electronics,Mobile,2,65000,Debit Card,Delivered
+TXN100146,12-03-2025,CUST1441,Ivan Balay,Female,22,Chennai,Tamil Nadu,Wooden Table,Furniture,Table,3,12000,Debit Card,Returned
+TXN100147,2025/04/06,CUST1109,Divij Mander,Female,53,Mumbai,Maharashtra,HP Laptop,Electronics,Laptop,5,72000,Debit Card,Returned
+TXN100148,2025/04/26,CUST1075,Mishti Sabharwal,Male,19,Kolkata,West Bengal,Nike Shoes,Fashion,Footwear,1,4500,UPI,Cancelled
+TXN100149,17-03-2025,CUST1728,Mamooty Wadhwa,Male,54,Delhi,Delhi,Samsung Galaxy S22,Electronics,Mobile,1,58000,Cash,Delivered
+TXN100150,11-06-2025,CUST1918,Shray Hora,Female,22,Delhi,Delhi,Nike Shoes,Fashion,Footwear,1,4500,Cash,Cancelled
+TXN100151,06-08-2025,CUST1425,Emir Mangat,Female,25,Bengaluru,Karnataka,Sony Headphones,Electronics,Accessories,3,5000,Credit Card,Cancelled
+TXN100152,2025/03/07,CUST1483,Samarth Khatri,Male,35,Hyderabad,Telangana,Adidas T-Shirt,Fashion,Clothing,5,1800,UPI,Returned
+TXN100153,2025/09/21,CUST1452,Sana Jayaraman,Male,24,Delhi,Delhi,Nike Shoes,Fashion,Footwear,4,4500,UPI,Cancelled
+TXN100154,2025/06/04,CUST1470,Hunar Dhar,Female,38,Mumbai,Maharashtra,Nike Shoes,Fashion,Footwear,2,4500,UPI,Returned
+TXN100155,16-06-2025,CUST1988,Farhan Keer,Male,55,Pune,Maharashtra,iPhone 14,Electronics,Mobile,5,65000,Cash,Delivered
+TXN100156,2025/05/12,CUST1257,Lakshay Rastogi,Male,31,Pune,Maharashtra,Nike Shoes,Fashion,Footwear,5,4500,Credit Card,Cancelled
+TXN100157,05-07-2025,CUST1161,Riaan Loyal,Male,35,Chennai,Tamil Nadu,Sony Headphones,Electronics,Accessories,4,5000,Credit Card,Cancelled
+TXN100158,01-06-2025,CUST1258,Sahil Baria,Male,56,Mumbai,Maharashtra,Nike Shoes,Fashion,Footwear,2,4500,Debit Card,Delivered
+TXN100159,2025/11/23,CUST1626,Akarsh Subramaniam,Female,21,Hyderabad,Telangana,Adidas T-Shirt,Fashion,Clothing,3,1800,UPI,Cancelled
+TXN100160,06-08-2025,CUST1970,Oorja Upadhyay,Female,23,Bengaluru,Karnataka,Samsung Galaxy S22,Electronics,Mobile,2,58000,Credit Card,Returned
+TXN100161,17-01-2025,CUST1915,Advika Kala,Male,23,Hyderabad,Telangana,Samsung Galaxy S22,Electronics,Mobile,2,58000,Cash,Delivered
+TXN100162,2025/06/22,CUST1233,Kanav Upadhyay,Male,26,Chennai,Tamil Nadu,Samsung Galaxy S22,Electronics,Mobile,4,58000,Debit Card,Delivered
+TXN100163,09-10-2025,CUST1343,Madhup Chad,Female,23,Mumbai,Maharashtra,Samsung Galaxy S22,Electronics,Mobile,5,58000,Credit Card,Cancelled
+TXN100164,2025/11/20,CUST1674,Seher Rajagopalan,Female,22,Mumbai,Maharashtra,Wooden Table,Furniture,Table,3,12000,UPI,Returned
+TXN100165,2025/04/13,CUST1902,Nishith Chandra,Female,36,Pune,Maharashtra,Wooden Table,Furniture,Table,3,12000,Debit Card,Delivered
+TXN100166,2025/02/25,CUST1126,Shamik Kapadia,Male,27,Bengaluru,Karnataka,Adidas T-Shirt,Fashion,Clothing,1,1800,UPI,Returned
+TXN100167,26-05-2025,CUST1403,Seher Bansal,Female,43,Mumbai,Maharashtra,Sony Headphones,Electronics,Accessories,5,5000,Cash,Returned
+TXN100168,26-07-2025,CUST1713,Abram Suresh,Male,29,Bengaluru,Karnataka,Sony Headphones,Electronics,Accessories,4,5000,Debit Card,Cancelled
+TXN100169,2025/05/27,CUST1645,Ishaan Kata,Female,59,Mumbai,Maharashtra,Nike Shoes,Fashion,Footwear,3,4500,UPI,Cancelled
+TXN100170,2025/01/04,CUST1902,Kiara Salvi,Female,33,Mumbai,Maharashtra,HP Laptop,Electronics,Laptop,5,72000,Debit Card,Delivered
+TXN100171,21-10-2025,CUST1615,Anahita Bhatnagar,Male,21,Kolkata,West Bengal,Nike Shoes,Fashion,Footwear,3,4500,Credit Card,Returned
+TXN100172,21-09-2025,CUST1621,Zeeshan Wali,Male,45,Chennai,Tamil Nadu,Wooden Table,Furniture,Table,1,12000,UPI,Returned
+TXN100173,12-12-2025,CUST1952,Sana Mane,Male,22,Delhi,Delhi,iPhone 14,Electronics,Mobile,1,65000,Credit Card,Delivered
+TXN100174,16-05-2025,CUST1334,Mohanlal Sankar,Male,28,Pune,Maharashtra,Nike Shoes,Fashion,Footwear,2,4500,Credit Card,Delivered
+TXN100175,2025/06/28,CUST1620,Vaibhav Dada,Female,55,Chennai,Tamil Nadu,Adidas T-Shirt,Fashion,Clothing,2,1800,UPI,Cancelled
+TXN100176,2025/05/29,CUST1624,Dhruv Datta,Male,51,Pune,Maharashtra,Wooden Table,Furniture,Table,1,12000,Credit Card,Cancelled
+TXN100177,2025/12/04,CUST1240,Oorja Konda,Female,54,Pune,Maharashtra,HP Laptop,Electronics,Laptop,2,72000,Credit Card,Delivered
+TXN100178,2025/12/13,CUST1715,Ahana  Sethi,Female,42,Mumbai,Maharashtra,Samsung Galaxy S22,Electronics,Mobile,3,58000,Debit Card,Returned
+TXN100179,16-02-2025,CUST1358,Vidur Bhargava,Male,47,Delhi,Delhi,iPhone 14,Electronics,Mobile,4,65000,UPI,Returned
+TXN100180,06-05-2025,CUST1569,Amira Kota,Male,25,Pune,Maharashtra,Wooden Table,Furniture,Table,3,12000,UPI,Delivered
+TXN100181,04-08-2025,CUST1018,Raunak Devi,Female,21,Kolkata,West Bengal,Adidas T-Shirt,Fashion,Clothing,1,1800,Cash,Delivered
+TXN100182,2025/05/05,CUST1902,Arhaan Tara,Female,21,Bengaluru,Karnataka,Wooden Table,Furniture,Table,1,12000,UPI,Delivered
+TXN100183,2025/12/27,CUST1486,Amira Sengupta,Male,19,Chennai,Tamil Nadu,Wooden Table,Furniture,Table,5,12000,Cash,Cancelled
+TXN100184,30-06-2025,CUST1378,Lagan Mannan,Female,50,Chennai,Tamil Nadu,HP Laptop,Electronics,Laptop,2,72000,Cash,Delivered
+TXN100185,15-07-2025,CUST1114,Prisha Dani,Male,21,Chennai,Tamil Nadu,Adidas T-Shirt,Fashion,Clothing,3,1800,Debit Card,Returned
+TXN100186,03-10-2025,CUST1210,Ahana  Talwar,Male,41,Pune,Maharashtra,HP Laptop,Electronics,Laptop,2,72000,Cash,Returned
+TXN100187,10-02-2025,CUST1151,Himmat Kaur,Female,56,Hyderabad,Telangana,HP Laptop,Electronics,Laptop,5,72000,Cash,Returned
+TXN100188,2025/01/21,CUST1983,Yashvi Tank,Male,48,Delhi,Delhi,Adidas T-Shirt,Fashion,Clothing,1,1800,Cash,Delivered
+TXN100189,22-08-2025,CUST1977,Amira Kara,Female,51,Chennai,Tamil Nadu,Sony Headphones,Electronics,Accessories,1,5000,Cash,Returned
+TXN100190,23-07-2025,CUST1781,Trisha Gandhi,Male,48,Pune,Maharashtra,Adidas T-Shirt,Fashion,Clothing,4,1800,Credit Card,Delivered
+TXN100191,2025/10/22,CUST1521,Tara Dhingra,Male,30,Hyderabad,Telangana,iPhone 14,Electronics,Mobile,2,65000,Cash,Cancelled
+TXN100192,26-04-2025,CUST1726,Anahita Bhalla,Male,34,Pune,Maharashtra,Adidas T-Shirt,Fashion,Clothing,5,1800,Credit Card,Cancelled
+TXN100193,2025/05/23,CUST1520,Hunar Bahl,Male,19,Chennai,Tamil Nadu,iPhone 14,Electronics,Mobile,4,65000,UPI,Returned
+TXN100194,29-01-2025,CUST1331,Zain Sibal,Male,32,Chennai,Tamil Nadu,Samsung Galaxy S22,Electronics,Mobile,3,58000,UPI,Cancelled
+TXN100195,2025/11/01,CUST1664,Lavanya Trivedi,Female,39,Chennai,Tamil Nadu,Samsung Galaxy S22,Electronics,Mobile,2,58000,Cash,Delivered
+TXN100196,2025/02/17,CUST1175,Kanav Rama,Male,30,Hyderabad,Telangana,Adidas T-Shirt,Fashion,Clothing,1,1800,Debit Card,Returned
+TXN100197,01-12-2025,CUST1678,Hunar Chaudhry,Male,41,Kolkata,West Bengal,HP Laptop,Electronics,Laptop,1,72000,UPI,Returned
+TXN100198,2026/01/03,CUST1015,Jayan Varkey,Male,38,Hyderabad,Telangana,Adidas T-Shirt,Fashion,Clothing,4,1800,Credit Card,Returned
+TXN100199,2025/05/16,CUST1523,Inaaya  Sabharwal,Female,45,Kolkata,West Bengal,Wooden Table,Furniture,Table,1,12000,UPI,Cancelled
+TXN100200,11-11-2025,CUST1778,Hridaan Dewan,Male,52,Delhi,Delhi,iPhone 14,Electronics,Mobile,5,65000,Debit Card,Cancelled
+TXN100201,25-12-2025,CUST1289,Kavya Konda,Female,50,Mumbai,Maharashtra,HP Laptop,Electronics,Laptop,1,72000,UPI,Delivered
+TXN100202,2025/07/09,CUST1601,Ranbir Ray,Male,60,Bengaluru,Karnataka,Adidas T-Shirt,Fashion,Clothing,2,1800,UPI,Cancelled
+TXN100203,10-12-2025,CUST1414,Yuvaan Kunda,Female,39,Mumbai,Maharashtra,Samsung Galaxy S22,Electronics,Mobile,1,58000,Debit Card,Returned
+TXN100204,31-07-2025,CUST1227,Alisha Khatri,Male,40,Chennai,Tamil Nadu,Sony Headphones,Electronics,Accessories,5,5000,Cash,Delivered
+TXN100205,19-06-2025,CUST1432,Kismat Shah,Male,38,Chennai,Tamil Nadu,Samsung Galaxy S22,Electronics,Mobile,1,58000,Cash,Returned
+TXN100206,25-05-2025,CUST1963,Suhana Sama,Male,56,Delhi,Delhi,Adidas T-Shirt,Fashion,Clothing,5,1800,Debit Card,Delivered
+TXN100207,11-01-2025,CUST1095,Azad Hari,Female,50,Pune,Maharashtra,Samsung Galaxy S22,Electronics,Mobile,4,58000,Debit Card,Delivered
+TXN100208,2025/05/13,CUST1077,Dhanush Som,Male,48,Kolkata,West Bengal,Nike Shoes,Fashion,Footwear,5,4500,Cash,Cancelled
+TXN100209,11-09-2025,CUST1477,Baiju Kothari,Female,27,Hyderabad,Telangana,Sony Headphones,Electronics,Accessories,3,5000,UPI,Cancelled
+TXN100210,14-03-2025,CUST1541,Jivika Chad,Female,48,Hyderabad,Telangana,Sony Headphones,Electronics,Accessories,1,5000,Debit Card,Returned
+TXN100211,11-09-2025,CUST1809,Rhea Loyal,Male,53,Chennai,Tamil Nadu,HP Laptop,Electronics,Laptop,5,72000,Credit Card,Returned
+TXN100212,2025/12/05,CUST1673,Advika Bath,Female,28,Kolkata,West Bengal,iPhone 14,Electronics,Mobile,4,65000,UPI,Cancelled
+TXN100213,2025/03/18,CUST1496,Samar Shukla,Female,40,Bengaluru,Karnataka,Sony Headphones,Electronics,Accessories,1,5000,Debit Card,Returned
+TXN100214,23-04-2025,CUST1213,Nitya Tak,Male,47,Mumbai,Maharashtra,Samsung Galaxy S22,Electronics,Mobile,3,58000,Debit Card,Returned
+TXN100215,2025/05/13,CUST1121,Zain Kannan,Female,60,Mumbai,Maharashtra,Sony Headphones,Electronics,Accessories,4,5000,Cash,Delivered
+TXN100216,18-03-2025,CUST1652,Vivaan Gandhi,Male,49,Mumbai,Maharashtra,iPhone 14,Electronics,Mobile,2,65000,Debit Card,Delivered
+TXN100217,23-02-2025,CUST1652,Zara Ganguly,Male,46,Delhi,Delhi,Wooden Table,Furniture,Table,2,12000,UPI,Delivered
+TXN100218,20-09-2025,CUST1412,Biju Karan,Female,41,Mumbai,Maharashtra,Adidas T-Shirt,Fashion,Clothing,5,1800,Cash,Returned
+TXN100219,2025/08/31,CUST1177,Nishith Gara,Female,53,Delhi,Delhi,Sony Headphones,Electronics,Accessories,2,5000,Debit Card,Cancelled
+TXN100220,2025/09/27,CUST1431,Advika Rajan,Male,39,Mumbai,Maharashtra,Sony Headphones,Electronics,Accessories,5,5000,Cash,Delivered
+TXN100221,19-07-2025,CUST1561,Raghav Chanda,Male,37,Hyderabad,Telangana,Adidas T-Shirt,Fashion,Clothing,3,1800,Cash,Delivered
+TXN100222,02-09-2025,CUST1389,Kanav Varty,Male,20,Delhi,Delhi,iPhone 14,Electronics,Mobile,2,65000,Credit Card,Cancelled
+TXN100223,24-09-2025,CUST1697,Yakshit Divan,Male,37,Delhi,Delhi,Adidas T-Shirt,Fashion,Clothing,2,1800,Cash,Returned
+TXN100224,19-06-2025,CUST1288,Vaibhav Sarna,Female,53,Kolkata,West Bengal,Nike Shoes,Fashion,Footwear,5,4500,Credit Card,Delivered
+TXN100225,2025/09/05,CUST1955,Jhanvi Dewan,Female,53,Pune,Maharashtra,iPhone 14,Electronics,Mobile,1,65000,UPI,Cancelled
+TXN100226,28-12-2025,CUST1255,Anay Dass,Female,51,Kolkata,West Bengal,Wooden Table,Furniture,Table,4,12000,Debit Card,Delivered
+TXN100227,11-03-2025,CUST1935,Aarush Bora,Female,56,Pune,Maharashtra,Samsung Galaxy S22,Electronics,Mobile,1,58000,Debit Card,Delivered
+TXN100228,2025/04/18,CUST1875,Advik Dyal,Female,58,Kolkata,West Bengal,iPhone 14,Electronics,Mobile,3,65000,Credit Card,Returned
+TXN100229,2025/07/19,CUST1461,Lagan Behl,Male,56,Hyderabad,Telangana,HP Laptop,Electronics,Laptop,4,72000,Debit Card,Cancelled
+TXN100230,10-11-2025,CUST1963,Stuvan Chaudhry,Female,28,Hyderabad,Telangana,Samsung Galaxy S22,Electronics,Mobile,3,58000,Debit Card,Delivered
+TXN100231,16-02-2025,CUST1786,Alisha Malhotra,Female,57,Kolkata,West Bengal,Sony Headphones,Electronics,Accessories,4,5000,Cash,Delivered
+TXN100232,2025/11/18,CUST1009,Arnav Choudhary,Female,23,Delhi,Delhi,Nike Shoes,Fashion,Footwear,3,4500,Cash,Cancelled
+TXN100233,2025/03/14,CUST1811,Rania Jhaveri,Male,22,Bengaluru,Karnataka,Adidas T-Shirt,Fashion,Clothing,4,1800,Credit Card,Cancelled
+TXN100234,2025/08/14,CUST1011,Farhan Dhar,Male,18,Hyderabad,Telangana,HP Laptop,Electronics,Laptop,5,72000,Cash,Returned
+TXN100235,2025/10/21,CUST1694,Ehsaan Thakur,Female,54,Hyderabad,Telangana,Wooden Table,Furniture,Table,3,12000,Debit Card,Delivered
+TXN100236,09-05-2025,CUST1635,Samarth Kari,Female,27,Delhi,Delhi,Wooden Table,Furniture,Table,1,12000,Debit Card,Returned
+TXN100237,11-02-2025,CUST1616,Kiaan Sunder,Male,48,Hyderabad,Telangana,HP Laptop,Electronics,Laptop,4,72000,Cash,Returned
+TXN100238,2025/09/24,CUST1198,Nitara Bhasin,Male,20,Delhi,Delhi,HP Laptop,Electronics,Laptop,1,72000,UPI,Returned
+TXN100239,18-01-2025,CUST1466,Biju Sangha,Male,56,Kolkata,West Bengal,Wooden Table,Furniture,Table,2,12000,UPI,Cancelled
+TXN100240,2025/07/26,CUST1476,Divyansh Mandal,Male,41,Delhi,Delhi,Adidas T-Shirt,Fashion,Clothing,5,1800,UPI,Returned
+TXN100241,05-08-2025,CUST1858,Tarini Wadhwa,Male,19,Mumbai,Maharashtra,Samsung Galaxy S22,Electronics,Mobile,1,58000,Credit Card,Delivered
+TXN100242,06-05-2025,CUST1582,Shaan Sane,Male,36,Chennai,Tamil Nadu,Nike Shoes,Fashion,Footwear,2,4500,UPI,Returned
+TXN100243,26-03-2025,CUST1936,Stuvan Amble,Female,38,Delhi,Delhi,Wooden Table,Furniture,Table,4,12000,Debit Card,Delivered
+TXN100244,2025/04/23,CUST1776,Pranay Hegde,Male,20,Mumbai,Maharashtra,Sony Headphones,Electronics,Accessories,2,5000,Cash,Delivered
+TXN100245,22-08-2025,CUST1976,Tejas Dixit,Female,21,Chennai,Tamil Nadu,Nike Shoes,Fashion,Footwear,4,4500,Cash,Delivered
+TXN100246,08-08-2025,CUST1830,Farhan Mand,Female,32,Hyderabad,Telangana,Wooden Table,Furniture,Table,4,12000,Debit Card,Delivered
+TXN100247,11-08-2025,CUST1846,Lakshit Srinivasan,Female,33,Pune,Maharashtra,Samsung Galaxy S22,Electronics,Mobile,1,58000,UPI,Returned
+TXN100248,04-11-2025,CUST1081,Anya Shroff,Female,52,Bengaluru,Karnataka,Adidas T-Shirt,Fashion,Clothing,2,1800,Credit Card,Delivered
+TXN100249,20-07-2025,CUST1043,Rati Bail,Male,48,Pune,Maharashtra,Samsung Galaxy S22,Electronics,Mobile,1,58000,Debit Card,Returned
+TXN100250,17-01-2025,CUST1357,Samar Batta,Female,56,Delhi,Delhi,Adidas T-Shirt,Fashion,Clothing,4,1800,Cash,Cancelled
+TXN100251,27-03-2025,CUST1438,Madhav Sehgal,Male,19,Mumbai,Maharashtra,Sony Headphones,Electronics,Accessories,5,5000,Cash,Returned
+TXN100252,2025/08/02,CUST1044,Amani Vig,Female,33,Bengaluru,Karnataka,iPhone 14,Electronics,Mobile,2,65000,Credit Card,Returned
+TXN100253,2025/02/12,CUST1368,Jivin Wali,Female,54,Bengaluru,Karnataka,HP Laptop,Electronics,Laptop,3,72000,Cash,Cancelled
+TXN100254,2025/09/09,CUST1156,Ivan Borde,Male,49,Bengaluru,Karnataka,Sony Headphones,Electronics,Accessories,1,5000,Credit Card,Returned
+TXN100255,26-05-2025,CUST1173,Rasha Choudhury,Male,59,Delhi,Delhi,Nike Shoes,Fashion,Footwear,3,4500,UPI,Cancelled
+TXN100256,21-09-2025,CUST1615,Abram Chada,Male,22,Pune,Maharashtra,Nike Shoes,Fashion,Footwear,5,4500,Credit Card,Returned
+TXN100257,2025/08/19,CUST1808,Nirvaan Kale,Male,36,Chennai,Tamil Nadu,Adidas T-Shirt,Fashion,Clothing,5,1800,Cash,Returned
+TXN100258,2025/03/01,CUST1631,Aaryahi Verma,Male,52,Mumbai,Maharashtra,Sony Headphones,Electronics,Accessories,3,5000,Credit Card,Returned
+TXN100259,2025/10/30,CUST1373,Kimaya Bhardwaj,Male,25,Chennai,Tamil Nadu,Sony Headphones,Electronics,Accessories,1,5000,Cash,Returned
+TXN100260,2025/04/11,CUST1715,Sara Grover,Female,47,Pune,Maharashtra,Wooden Table,Furniture,Table,1,12000,Credit Card,Returned
+TXN100261,2025/11/23,CUST1740,Divit Dhingra,Male,30,Hyderabad,Telangana,Samsung Galaxy S22,Electronics,Mobile,1,58000,Credit Card,Returned
+TXN100262,2025/07/03,CUST1436,Farhan Ratta,Female,57,Kolkata,West Bengal,Nike Shoes,Fashion,Footwear,4,4500,Credit Card,Cancelled
+TXN100263,16-10-2025,CUST1903,Aaina Tella,Male,59,Chennai,Tamil Nadu,Wooden Table,Furniture,Table,5,12000,Debit Card,Cancelled
+TXN100264,25-10-2025,CUST1846,Piya Majumdar,Female,24,Bengaluru,Karnataka,Nike Shoes,Fashion,Footwear,2,4500,Credit Card,Cancelled
+TXN100265,20-03-2025,CUST1402,Neelofar Aurora,Female,56,Mumbai,Maharashtra,HP Laptop,Electronics,Laptop,1,72000,Debit Card,Delivered
+TXN100266,23-11-2025,CUST1606,Ishita Konda,Female,29,Chennai,Tamil Nadu,Nike Shoes,Fashion,Footwear,2,4500,Debit Card,Cancelled
+TXN100267,01-12-2025,CUST1222,Renee Ramesh,Female,58,Chennai,Tamil Nadu,iPhone 14,Electronics,Mobile,1,65000,Credit Card,Delivered
+TXN100268,21-07-2025,CUST1914,Kabir Bakshi,Male,43,Mumbai,Maharashtra,HP Laptop,Electronics,Laptop,4,72000,Cash,Returned
+TXN100269,2025/05/07,CUST1936,Dishani Krishna,Female,45,Mumbai,Maharashtra,Adidas T-Shirt,Fashion,Clothing,3,1800,Credit Card,Returned
+TXN100270,2025/03/20,CUST1895,Advika Hari,Male,25,Bengaluru,Karnataka,iPhone 14,Electronics,Mobile,1,65000,Credit Card,Cancelled
+TXN100271,2025/02/11,CUST1501,Nirvaan Bose,Female,52,Mumbai,Maharashtra,Wooden Table,Furniture,Table,5,12000,UPI,Cancelled
+TXN100272,01-11-2025,CUST1491,Yuvaan Goda,Male,60,Mumbai,Maharashtra,Sony Headphones,Electronics,Accessories,1,5000,Credit Card,Cancelled
+TXN100273,2025/11/22,CUST1523,Inaaya  Bhattacharyya,Male,38,Kolkata,West Bengal,iPhone 14,Electronics,Mobile,3,65000,Cash,Returned
+TXN100274,25-02-2025,CUST1152,Vritika Vasa,Male,58,Mumbai,Maharashtra,Nike Shoes,Fashion,Footwear,5,4500,Cash,Returned
+TXN100275,2025/08/25,CUST1767,Yasmin Bhavsar,Female,27,Chennai,Tamil Nadu,Nike Shoes,Fashion,Footwear,2,4500,Debit Card,Delivered
+TXN100276,06-09-2025,CUST1336,Keya Deshmukh,Female,33,Bengaluru,Karnataka,iPhone 14,Electronics,Mobile,4,65000,Cash,Returned
+TXN100277,18-05-2025,CUST1225,Abram Kalla,Male,27,Hyderabad,Telangana,Wooden Table,Furniture,Table,3,12000,Debit Card,Returned
+TXN100278,2025/08/11,CUST1351,Abram Iyer,Female,41,Mumbai,Maharashtra,HP Laptop,Electronics,Laptop,4,72000,Debit Card,Returned
+TXN100279,22-12-2025,CUST1532,Chirag Chanda,Male,20,Pune,Maharashtra,Wooden Table,Furniture,Table,5,12000,UPI,Cancelled
+TXN100280,2025/09/17,CUST1400,Elakshi Shroff,Male,22,Chennai,Tamil Nadu,iPhone 14,Electronics,Mobile,4,65000,Cash,Returned
+TXN100281,21-06-2025,CUST1265,Shamik Sanghvi,Female,41,Delhi,Delhi,Nike Shoes,Fashion,Footwear,3,4500,UPI,Cancelled
+TXN100282,2025/12/21,CUST1866,Ishita Gupta,Male,24,Mumbai,Maharashtra,Nike Shoes,Fashion,Footwear,4,4500,Debit Card,Delivered
+TXN100283,2025/04/04,CUST1110,Zeeshan Batta,Male,57,Mumbai,Maharashtra,Nike Shoes,Fashion,Footwear,2,4500,Debit Card,Delivered
+TXN100284,2025/10/16,CUST1780,Akarsh Sodhi,Male,40,Delhi,Delhi,iPhone 14,Electronics,Mobile,2,65000,Cash,Delivered
+TXN100285,19-08-2025,CUST1837,Chirag Hari,Male,31,Mumbai,Maharashtra,iPhone 14,Electronics,Mobile,1,65000,Debit Card,Returned
+TXN100286,22-10-2025,CUST1886,Bhamini Deshpande,Female,47,Chennai,Tamil Nadu,iPhone 14,Electronics,Mobile,2,65000,Credit Card,Returned
+TXN100287,19-02-2025,CUST1833,Arnav Ray,Male,32,Delhi,Delhi,Wooden Table,Furniture,Table,1,12000,Credit Card,Returned
+TXN100288,2025/10/14,CUST1475,Prerak Gandhi,Male,26,Mumbai,Maharashtra,Samsung Galaxy S22,Electronics,Mobile,3,58000,Debit Card,Cancelled
+TXN100289,05-08-2025,CUST1364,Nitara Ganguly,Male,46,Pune,Maharashtra,Sony Headphones,Electronics,Accessories,5,5000,UPI,Cancelled
+TXN100290,24-01-2025,CUST1892,Neysa De,Male,19,Hyderabad,Telangana,Sony Headphones,Electronics,Accessories,4,5000,Cash,Cancelled
+TXN100291,24-07-2025,CUST1570,Dharmajan Dalal,Male,29,Delhi,Delhi,Adidas T-Shirt,Fashion,Clothing,4,1800,Cash,Delivered
+TXN100292,2025/03/07,CUST1369,Damini Ravel,Male,26,Kolkata,West Bengal,iPhone 14,Electronics,Mobile,3,65000,UPI,Cancelled
+TXN100293,01-03-2025,CUST1882,Vedika Agrawal,Female,48,Chennai,Tamil Nadu,Nike Shoes,Fashion,Footwear,1,4500,Cash,Delivered
+TXN100294,23-09-2025,CUST1212,Taran Swaminathan,Female,53,Pune,Maharashtra,HP Laptop,Electronics,Laptop,1,72000,Cash,Cancelled
+TXN100295,2025/08/22,CUST1579,Sana Ramanathan,Male,19,Mumbai,Maharashtra,Wooden Table,Furniture,Table,2,12000,UPI,Cancelled
+TXN100296,2025/08/18,CUST1410,Elakshi Chatterjee,Female,27,Delhi,Delhi,Samsung Galaxy S22,Electronics,Mobile,5,58000,UPI,Returned
+TXN100297,2025/10/09,CUST1888,Amira Amble,Male,44,Bengaluru,Karnataka,Sony Headphones,Electronics,Accessories,2,5000,Debit Card,Delivered
+TXN100298,2025/03/28,CUST1583,Vedika Sama,Male,51,Bengaluru,Karnataka,Sony Headphones,Electronics,Accessories,1,5000,Debit Card,Returned
+TXN100299,2025/04/13,CUST1693,Jayesh Bhatia,Female,58,Kolkata,West Bengal,Nike Shoes,Fashion,Footwear,2,4500,Credit Card,Returned
+TXN100300,11-09-2025,CUST1800,Krish Sabharwal,Female,27,Hyderabad,Telangana,HP Laptop,Electronics,Laptop,4,72000,Debit Card,Returned
+TXN100301,2025/08/04,CUST1973,Vivaan Bava,Male,45,Chennai,Tamil Nadu,iPhone 14,Electronics,Mobile,5,65000,Debit Card,Delivered
+TXN100302,2025/02/12,CUST1433,Nakul Verma,Male,42,Chennai,Tamil Nadu,Wooden Table,Furniture,Table,5,12000,Cash,Delivered
+TXN100303,29-08-2025,CUST1152,Lagan Dyal,Male,26,Chennai,Tamil Nadu,Samsung Galaxy S22,Electronics,Mobile,4,58000,Cash,Returned
+TXN100304,19-06-2025,CUST1014,Umang Bahl,Male,33,Hyderabad,Telangana,iPhone 14,Electronics,Mobile,4,65000,Debit Card,Cancelled
+TXN100305,2025/06/13,CUST1252,Aarush Bawa,Female,37,Hyderabad,Telangana,Adidas T-Shirt,Fashion,Clothing,2,1800,Credit Card,Delivered
+TXN100306,2025/07/22,CUST1538,Miraya Dugar,Female,56,Kolkata,West Bengal,iPhone 14,Electronics,Mobile,1,65000,Debit Card,Returned
+TXN100307,2025/07/14,CUST1368,Dhanuk Dara,Male,33,Bengaluru,Karnataka,Adidas T-Shirt,Fashion,Clothing,3,1800,UPI,Delivered
+TXN100308,19-07-2025,CUST1470,Anika Mand,Male,60,Pune,Maharashtra,Wooden Table,Furniture,Table,3,12000,Cash,Returned
+TXN100309,30-11-2025,CUST1384,Zain Dasgupta,Female,18,Bengaluru,Karnataka,Adidas T-Shirt,Fashion,Clothing,1,1800,Cash,Returned
+TXN100310,2025/06/17,CUST1835,Taimur Sha,Male,27,Pune,Maharashtra,HP Laptop,Electronics,Laptop,5,72000,UPI,Returned
+TXN100311,2025/03/06,CUST1505,Nirvi Mall,Male,35,Pune,Maharashtra,Samsung Galaxy S22,Electronics,Mobile,5,58000,Cash,Returned
+TXN100312,27-11-2025,CUST1263,Shanaya Setty,Male,54,Chennai,Tamil Nadu,iPhone 14,Electronics,Mobile,4,65000,Cash,Returned
+TXN100313,02-05-2025,CUST1417,Samaira Dora,Male,25,Kolkata,West Bengal,HP Laptop,Electronics,Laptop,2,72000,Cash,Returned
+TXN100314,19-07-2025,CUST1342,Tushar Dhar,Female,39,Hyderabad,Telangana,iPhone 14,Electronics,Mobile,5,65000,Cash,Delivered
+TXN100315,2025/09/01,CUST1434,Mehul Cheema,Male,27,Pune,Maharashtra,Samsung Galaxy S22,Electronics,Mobile,5,58000,Cash,Returned
+TXN100316,2025/11/23,CUST1736,Ranbir Sahni,Female,41,Bengaluru,Karnataka,Nike Shoes,Fashion,Footwear,5,4500,Debit Card,Returned
+TXN100317,11-05-2025,CUST1692,Nirvi Koshy,Male,33,Delhi,Delhi,Adidas T-Shirt,Fashion,Clothing,4,1800,UPI,Delivered
+TXN100318,2025/11/10,CUST1434,Arnav Venkataraman,Male,45,Delhi,Delhi,iPhone 14,Electronics,Mobile,5,65000,UPI,Returned
+TXN100319,2025/06/08,CUST1084,Devansh Mandal,Male,30,Chennai,Tamil Nadu,Adidas T-Shirt,Fashion,Clothing,2,1800,Debit Card,Cancelled
+TXN100320,10-08-2025,CUST1006,Miraan Rao,Female,27,Hyderabad,Telangana,Nike Shoes,Fashion,Footwear,2,4500,Credit Card,Cancelled
+TXN100321,24-03-2025,CUST1060,Keya Chokshi,Male,19,Kolkata,West Bengal,Nike Shoes,Fashion,Footwear,5,4500,Cash,Returned
+TXN100322,30-10-2025,CUST1587,Yasmin Shan,Male,49,Hyderabad,Telangana,Adidas T-Shirt,Fashion,Clothing,2,1800,Debit Card,Cancelled
+TXN100323,2025/06/26,CUST1699,Nayantara Zacharia,Male,21,Mumbai,Maharashtra,Sony Headphones,Electronics,Accessories,4,5000,UPI,Returned
+TXN100324,2025/06/22,CUST1612,Vardaniya Virk,Female,46,Mumbai,Maharashtra,Wooden Table,Furniture,Table,1,12000,UPI,Returned
+TXN100325,26-10-2025,CUST1879,Biju Kapadia,Male,55,Chennai,Tamil Nadu,iPhone 14,Electronics,Mobile,1,65000,Credit Card,Cancelled
+TXN100326,10-07-2025,CUST1055,Krish Shah,Male,49,Bengaluru,Karnataka,HP Laptop,Electronics,Laptop,2,72000,UPI,Returned
+TXN100327,2025/12/18,CUST1063,Aaryahi Banik,Male,55,Kolkata,West Bengal,Samsung Galaxy S22,Electronics,Mobile,4,58000,UPI,Delivered
+TXN100328,30-09-2025,CUST1720,Tiya Kurian,Male,59,Delhi,Delhi,Nike Shoes,Fashion,Footwear,1,4500,Debit Card,Returned
+TXN100329,10-12-2025,CUST1709,Yasmin Gera,Female,23,Pune,Maharashtra,Nike Shoes,Fashion,Footwear,1,4500,Debit Card,Delivered
+TXN100330,19-03-2025,CUST1578,Divyansh Ramesh,Male,27,Pune,Maharashtra,Sony Headphones,Electronics,Accessories,3,5000,Cash,Returned
+TXN100331,19-02-2025,CUST1685,Renee Borra,Male,35,Delhi,Delhi,Nike Shoes,Fashion,Footwear,4,4500,Cash,Returned
+TXN100332,25-05-2025,CUST1649,Anya Agrawal,Male,36,Chennai,Tamil Nadu,Samsung Galaxy S22,Electronics,Mobile,5,58000,UPI,Returned
+TXN100333,25-09-2025,CUST1355,Nishith Trivedi,Female,38,Delhi,Delhi,Samsung Galaxy S22,Electronics,Mobile,5,58000,Credit Card,Delivered
+TXN100334,20-04-2025,CUST1936,Sumer Dar,Female,49,Mumbai,Maharashtra,HP Laptop,Electronics,Laptop,1,72000,Credit Card,Delivered
+TXN100335,2025/04/27,CUST1257,Damini Devi,Female,47,Mumbai,Maharashtra,Sony Headphones,Electronics,Accessories,5,5000,Debit Card,Returned
+TXN100336,2025/08/15,CUST1383,Dhruv Gopal,Male,42,Bengaluru,Karnataka,HP Laptop,Electronics,Laptop,2,72000,UPI,Delivered
+TXN100337,2025/03/29,CUST1651,Aaina Garg,Male,60,Bengaluru,Karnataka,Adidas T-Shirt,Fashion,Clothing,1,1800,UPI,Cancelled
+TXN100338,04-02-2025,CUST1310,Bhamini Kara,Female,33,Bengaluru,Karnataka,Samsung Galaxy S22,Electronics,Mobile,3,58000,UPI,Returned
+TXN100339,30-11-2025,CUST1963,Nirvaan Rattan,Male,50,Kolkata,West Bengal,iPhone 14,Electronics,Mobile,4,65000,UPI,Cancelled
+TXN100340,2025/06/27,CUST1807,Mahika Sama,Male,42,Hyderabad,Telangana,iPhone 14,Electronics,Mobile,4,65000,Debit Card,Returned
+TXN100341,2025/07/03,CUST1916,Abram Hari,Female,54,Mumbai,Maharashtra,Adidas T-Shirt,Fashion,Clothing,2,1800,Debit Card,Returned
+TXN100342,01-01-2026,CUST1302,Yasmin Borde,Male,47,Chennai,Tamil Nadu,Adidas T-Shirt,Fashion,Clothing,2,1800,UPI,Delivered
+TXN100343,2026/01/03,CUST1926,Jivika Tank,Female,51,Pune,Maharashtra,HP Laptop,Electronics,Laptop,1,72000,Cash,Returned
+TXN100344,14-03-2025,CUST1054,Sana Devi,Male,38,Delhi,Delhi,Adidas T-Shirt,Fashion,Clothing,1,1800,Cash,Cancelled
+TXN100345,24-12-2025,CUST1435,Zara Kala,Male,53,Delhi,Delhi,HP Laptop,Electronics,Laptop,5,72000,Debit Card,Delivered
+TXN100346,2025/09/06,CUST1729,Tiya Master,Female,30,Pune,Maharashtra,Adidas T-Shirt,Fashion,Clothing,2,1800,Credit Card,Delivered
+TXN100347,13-06-2025,CUST1689,Manjari Bhandari,Female,28,Kolkata,West Bengal,Nike Shoes,Fashion,Footwear,4,4500,Cash,Delivered
+TXN100348,01-08-2025,CUST1861,Neysa Sule,Male,55,Chennai,Tamil Nadu,Samsung Galaxy S22,Electronics,Mobile,2,58000,Cash,Cancelled
+TXN100349,24-08-2025,CUST1323,Taran Chokshi,Male,48,Pune,Maharashtra,Wooden Table,Furniture,Table,2,12000,Credit Card,Returned
+TXN100350,2025/06/07,CUST1705,Ishita Soni,Female,57,Kolkata,West Bengal,Nike Shoes,Fashion,Footwear,1,4500,UPI,Returned
+TXN100351,2025/08/02,CUST1130,Kimaya Mani,Male,37,Kolkata,West Bengal,Adidas T-Shirt,Fashion,Clothing,4,1800,UPI,Cancelled
+TXN100352,14-02-2025,CUST1317,Divit Handa,Female,52,Pune,Maharashtra,iPhone 14,Electronics,Mobile,2,65000,Cash,Cancelled
+TXN100353,2025/05/17,CUST1377,Kaira Rau,Female,53,Pune,Maharashtra,iPhone 14,Electronics,Mobile,3,65000,Credit Card,Cancelled
+TXN100354,2025/08/10,CUST1443,Pranay Mammen,Male,52,Kolkata,West Bengal,Samsung Galaxy S22,Electronics,Mobile,4,58000,Cash,Delivered
+TXN100355,2025/04/26,CUST1139,Devansh Chawla,Male,41,Delhi,Delhi,Nike Shoes,Fashion,Footwear,3,4500,Debit Card,Delivered
+TXN100356,2025/11/20,CUST1429,Krish Bhattacharyya,Female,44,Chennai,Tamil Nadu,Sony Headphones,Electronics,Accessories,3,5000,UPI,Returned
+TXN100357,04-03-2025,CUST1417,Nakul Aggarwal,Female,28,Delhi,Delhi,Nike Shoes,Fashion,Footwear,1,4500,Credit Card,Delivered
+TXN100358,2025/01/06,CUST1513,Jivin Bhagat,Male,46,Bengaluru,Karnataka,Nike Shoes,Fashion,Footwear,3,4500,Credit Card,Cancelled
+TXN100359,2025/02/10,CUST1131,Himmat Mani,Male,60,Pune,Maharashtra,HP Laptop,Electronics,Laptop,2,72000,Cash,Returned
+TXN100360,2025/08/25,CUST1499,Chirag Sharaf,Female,32,Bengaluru,Karnataka,Wooden Table,Furniture,Table,1,12000,Cash,Delivered
+TXN100361,06-02-2025,CUST1881,Zoya Korpal,Female,55,Mumbai,Maharashtra,Adidas T-Shirt,Fashion,Clothing,3,1800,Debit Card,Cancelled
+TXN100362,23-08-2025,CUST1848,Darshit Walia,Female,60,Bengaluru,Karnataka,Nike Shoes,Fashion,Footwear,4,4500,Debit Card,Returned
+TXN100363,03-04-2025,CUST1329,Kartik Bala,Female,30,Hyderabad,Telangana,Nike Shoes,Fashion,Footwear,1,4500,Credit Card,Cancelled
+TXN100364,29-07-2025,CUST1349,Indrans Singhal,Female,24,Delhi,Delhi,Sony Headphones,Electronics,Accessories,3,5000,Credit Card,Returned
+TXN100365,2025/02/06,CUST1344,Arnav Vora,Female,30,Delhi,Delhi,Adidas T-Shirt,Fashion,Clothing,5,1800,Credit Card,Returned
+TXN100366,05-08-2025,CUST1422,Yuvraj  Bumb,Male,30,Hyderabad,Telangana,Wooden Table,Furniture,Table,5,12000,Credit Card,Delivered
+TXN100367,2025/07/28,CUST1022,Riaan Wason,Male,18,Mumbai,Maharashtra,Wooden Table,Furniture,Table,3,12000,Debit Card,Cancelled
+TXN100368,17-09-2025,CUST1657,Mishti Karpe,Male,27,Pune,Maharashtra,Adidas T-Shirt,Fashion,Clothing,5,1800,Credit Card,Delivered
+TXN100369,2025/11/06,CUST1498,Prerak Roy,Female,45,Chennai,Tamil Nadu,Adidas T-Shirt,Fashion,Clothing,5,1800,Credit Card,Delivered
+TXN100370,2025/07/23,CUST1840,Alia Vohra,Male,49,Pune,Maharashtra,iPhone 14,Electronics,Mobile,1,65000,UPI,Delivered
+TXN100371,2025/07/02,CUST1251,Kanav Iyer,Female,57,Chennai,Tamil Nadu,Adidas T-Shirt,Fashion,Clothing,3,1800,Credit Card,Returned
+TXN100372,2025/01/09,CUST1831,Kavya Mandal,Male,18,Bengaluru,Karnataka,Adidas T-Shirt,Fashion,Clothing,2,1800,Debit Card,Delivered
+TXN100373,2025/06/13,CUST1160,Mohanlal Shan,Female,24,Hyderabad,Telangana,Sony Headphones,Electronics,Accessories,4,5000,Credit Card,Returned
+TXN100374,2025/05/24,CUST1331,Kimaya Banik,Female,19,Mumbai,Maharashtra,iPhone 14,Electronics,Mobile,3,65000,UPI,Returned
+TXN100375,2025/07/20,CUST1234,Aarna Bala,Female,57,Bengaluru,Karnataka,HP Laptop,Electronics,Laptop,2,72000,UPI,Delivered
+TXN100376,27-05-2025,CUST1413,Aradhya Uppal,Female,19,Bengaluru,Karnataka,Samsung Galaxy S22,Electronics,Mobile,4,58000,Cash,Returned
+TXN100377,26-02-2025,CUST1524,Hansh Ratti,Male,56,Delhi,Delhi,iPhone 14,Electronics,Mobile,3,65000,Debit Card,Cancelled
+TXN100378,2025/06/06,CUST1528,Purab Bhavsar,Male,20,Hyderabad,Telangana,Samsung Galaxy S22,Electronics,Mobile,5,58000,UPI,Returned
+TXN100379,2025/08/15,CUST1382,Charvi Contractor,Female,42,Pune,Maharashtra,Wooden Table,Furniture,Table,3,12000,UPI,Cancelled
+TXN100380,2025/08/11,CUST1453,Vanya Sundaram,Male,25,Delhi,Delhi,Nike Shoes,Fashion,Footwear,4,4500,Debit Card,Cancelled
+TXN100381,2025/04/17,CUST1277,Oorja Wadhwa,Male,51,Delhi,Delhi,iPhone 14,Electronics,Mobile,4,65000,UPI,Delivered
+TXN100382,25-07-2025,CUST1639,Azad Ghose,Female,40,Mumbai,Maharashtra,Samsung Galaxy S22,Electronics,Mobile,2,58000,Credit Card,Delivered
+TXN100383,2025/01/30,CUST1954,Krish Maharaj,Male,19,Chennai,Tamil Nadu,Adidas T-Shirt,Fashion,Clothing,5,1800,Cash,Delivered
+TXN100384,20-04-2025,CUST1996,Vivaan Thakur,Male,47,Chennai,Tamil Nadu,Nike Shoes,Fashion,Footwear,4,4500,Cash,Delivered
+TXN100385,06-03-2025,CUST1381,Onkar Dass,Female,39,Mumbai,Maharashtra,HP Laptop,Electronics,Laptop,4,72000,Credit Card,Cancelled
+TXN100386,2025/05/29,CUST1086,Anika Chaudhry,Female,53,Kolkata,West Bengal,Adidas T-Shirt,Fashion,Clothing,3,1800,UPI,Cancelled
+TXN100387,2025/02/21,CUST1095,Priyansh Mand,Male,43,Delhi,Delhi,HP Laptop,Electronics,Laptop,3,72000,UPI,Cancelled
+TXN100388,2025/09/30,CUST1730,Indranil Ramaswamy,Female,41,Bengaluru,Karnataka,Sony Headphones,Electronics,Accessories,1,5000,Debit Card,Cancelled
+TXN100389,15-11-2025,CUST1650,Farhan Thaman,Female,42,Pune,Maharashtra,HP Laptop,Electronics,Laptop,2,72000,Cash,Delivered
+TXN100390,2025/06/17,CUST1486,Mehul Johal,Female,33,Delhi,Delhi,Nike Shoes,Fashion,Footwear,1,4500,UPI,Delivered
+TXN100391,2025/02/10,CUST1877,Drishya Divan,Female,19,Chennai,Tamil Nadu,Samsung Galaxy S22,Electronics,Mobile,1,58000,Cash,Delivered
+TXN100392,29-06-2025,CUST1609,Reyansh Sen,Female,45,Delhi,Delhi,HP Laptop,Electronics,Laptop,5,72000,Credit Card,Delivered
+TXN100393,19-09-2025,CUST1825,Shray Tailor,Female,47,Mumbai,Maharashtra,HP Laptop,Electronics,Laptop,4,72000,Debit Card,Delivered
+TXN100394,2025/06/02,CUST1845,Eva Dube,Male,26,Kolkata,West Bengal,Samsung Galaxy S22,Electronics,Mobile,1,58000,Credit Card,Returned
+TXN100395,2025/05/16,CUST1719,Himmat Thaman,Female,51,Bengaluru,Karnataka,Nike Shoes,Fashion,Footwear,1,4500,UPI,Delivered
+TXN100396,2025/05/07,CUST1397,Amira Varghese,Female,46,Mumbai,Maharashtra,Wooden Table,Furniture,Table,5,12000,Credit Card,Delivered
+TXN100397,20-02-2025,CUST1728,Ahana  Khanna,Female,25,Bengaluru,Karnataka,Samsung Galaxy S22,Electronics,Mobile,5,58000,UPI,Returned
+TXN100398,18-12-2025,CUST1972,Yuvaan Bawa,Male,51,Chennai,Tamil Nadu,iPhone 14,Electronics,Mobile,5,65000,Cash,Returned
+TXN100399,2025/05/08,CUST1037,Alia Shah,Female,53,Mumbai,Maharashtra,Samsung Galaxy S22,Electronics,Mobile,1,58000,UPI,Returned
+TXN100400,18-07-2025,CUST1474,Renee Choudhry,Female,23,Bengaluru,Karnataka,Wooden Table,Furniture,Table,2,12000,UPI,Returned
+TXN100401,07-12-2025,CUST1668,Vivaan Handa,Female,31,Pune,Maharashtra,Sony Headphones,Electronics,Accessories,3,5000,Cash,Delivered
+TXN100402,2025/04/30,CUST1848,Kiaan Jain,Female,45,Kolkata,West Bengal,Wooden Table,Furniture,Table,2,12000,Credit Card,Cancelled
+TXN100403,2025/10/31,CUST1450,Arhaan Venkataraman,Female,49,Chennai,Tamil Nadu,HP Laptop,Electronics,Laptop,2,72000,Credit Card,Cancelled
+TXN100404,14-09-2025,CUST1054,Ayesha Dyal,Male,18,Kolkata,West Bengal,Wooden Table,Furniture,Table,4,12000,Credit Card,Cancelled
+TXN100405,04-06-2025,CUST1554,Mamooty Krishna,Male,47,Bengaluru,Karnataka,Adidas T-Shirt,Fashion,Clothing,2,1800,Cash,Delivered
+TXN100406,2025/06/07,CUST1100,Saira Koshy,Male,30,Hyderabad,Telangana,Samsung Galaxy S22,Electronics,Mobile,3,58000,Credit Card,Cancelled
+TXN100407,05-01-2025,CUST1113,Kabir Kala,Female,31,Mumbai,Maharashtra,Sony Headphones,Electronics,Accessories,4,5000,Credit Card,Returned
+TXN100408,2025/05/04,CUST1712,Vedika Reddy,Male,37,Delhi,Delhi,Samsung Galaxy S22,Electronics,Mobile,3,58000,Credit Card,Cancelled
+TXN100409,10-09-2025,CUST1857,Tushar Sandal,Female,56,Mumbai,Maharashtra,Samsung Galaxy S22,Electronics,Mobile,1,58000,UPI,Returned
+TXN100410,2025/08/24,CUST1337,Kavya Badami,Male,53,Hyderabad,Telangana,Nike Shoes,Fashion,Footwear,5,4500,UPI,Returned
+TXN100411,2025/01/06,CUST1666,Hiran Ganesan,Female,53,Mumbai,Maharashtra,Sony Headphones,Electronics,Accessories,5,5000,Cash,Returned
+TXN100412,2025/05/26,CUST1235,Lakshay Chakrabarti,Male,60,Pune,Maharashtra,HP Laptop,Electronics,Laptop,4,72000,Cash,Returned
+TXN100413,2025/01/09,CUST1439,Diya Varty,Female,53,Mumbai,Maharashtra,Sony Headphones,Electronics,Accessories,4,5000,UPI,Returned
+TXN100414,2025/02/11,CUST1201,Prerak Ben,Female,28,Mumbai,Maharashtra,Sony Headphones,Electronics,Accessories,5,5000,UPI,Returned
+TXN100415,2025/03/15,CUST1346,Jhanvi Kala,Female,44,Chennai,Tamil Nadu,iPhone 14,Electronics,Mobile,2,65000,UPI,Returned
+TXN100416,26-02-2025,CUST1059,Divij Rastogi,Female,32,Bengaluru,Karnataka,Sony Headphones,Electronics,Accessories,1,5000,Cash,Delivered
+TXN100417,12-09-2025,CUST1713,Jayan Sarkar,Female,47,Hyderabad,Telangana,Sony Headphones,Electronics,Accessories,3,5000,Credit Card,Returned
+TXN100418,2025/07/10,CUST1402,Taran Kar,Female,41,Pune,Maharashtra,iPhone 14,Electronics,Mobile,3,65000,UPI,Cancelled
+TXN100419,2025/01/18,CUST1130,Shalv Mandal,Male,27,Hyderabad,Telangana,HP Laptop,Electronics,Laptop,3,72000,Debit Card,Delivered
+TXN100420,2025/05/20,CUST1055,Kavya Kapoor,Female,51,Chennai,Tamil Nadu,Samsung Galaxy S22,Electronics,Mobile,4,58000,UPI,Returned
+TXN100421,2025/05/23,CUST1252,Pari Sarkar,Male,54,Pune,Maharashtra,iPhone 14,Electronics,Mobile,1,65000,Cash,Returned
+TXN100422,2025/09/06,CUST1103,Kaira Dayal,Male,53,Mumbai,Maharashtra,Samsung Galaxy S22,Electronics,Mobile,5,58000,Debit Card,Delivered
+TXN100423,2025/12/31,CUST1756,Zain Soman,Female,52,Kolkata,West Bengal,Sony Headphones,Electronics,Accessories,2,5000,UPI,Cancelled
+TXN100424,2025/06/01,CUST1278,Samar Trivedi,Female,56,Hyderabad,Telangana,iPhone 14,Electronics,Mobile,3,65000,Debit Card,Cancelled
+TXN100425,2025/09/09,CUST1705,Lakshay Hari,Male,34,Pune,Maharashtra,HP Laptop,Electronics,Laptop,1,72000,Cash,Delivered
+TXN100426,17-02-2025,CUST1574,Pihu Gera,Female,56,Delhi,Delhi,Adidas T-Shirt,Fashion,Clothing,1,1800,Credit Card,Returned
+TXN100427,2025/05/18,CUST1323,Umang Yohannan,Female,55,Pune,Maharashtra,iPhone 14,Electronics,Mobile,1,65000,Cash,Delivered
+TXN100428,05-07-2025,CUST1023,Shanaya Kapoor,Female,41,Hyderabad,Telangana,Nike Shoes,Fashion,Footwear,3,4500,Debit Card,Delivered
+TXN100429,10-12-2025,CUST1583,Sara Chanda,Female,40,Delhi,Delhi,Sony Headphones,Electronics,Accessories,2,5000,UPI,Delivered
+TXN100430,2025/11/08,CUST1929,Nirvaan Tata,Female,59,Mumbai,Maharashtra,Wooden Table,Furniture,Table,2,12000,UPI,Returned
+TXN100431,2025/12/08,CUST1481,Yashvi Jayaraman,Female,49,Pune,Maharashtra,Adidas T-Shirt,Fashion,Clothing,4,1800,Debit Card,Cancelled
+TXN100432,2025/12/09,CUST1500,Anay Vora,Female,49,Chennai,Tamil Nadu,HP Laptop,Electronics,Laptop,2,72000,UPI,Delivered
+TXN100433,04-09-2025,CUST1248,Eva Tank,Male,45,Mumbai,Maharashtra,Samsung Galaxy S22,Electronics,Mobile,3,58000,Cash,Cancelled
+TXN100434,16-07-2025,CUST1679,Ryan Chaudry,Female,51,Chennai,Tamil Nadu,iPhone 14,Electronics,Mobile,3,65000,UPI,Delivered
+TXN100435,01-11-2025,CUST1295,Arhaan Tiwari,Female,31,Mumbai,Maharashtra,HP Laptop,Electronics,Laptop,4,72000,Cash,Returned
+TXN100436,2025/05/12,CUST1456,Riaan Dhingra,Male,54,Bengaluru,Karnataka,HP Laptop,Electronics,Laptop,3,72000,Cash,Returned
+TXN100437,2025/05/09,CUST1982,Nirvaan Mani,Male,22,Hyderabad,Telangana,Wooden Table,Furniture,Table,1,12000,Credit Card,Returned
+TXN100438,21-09-2025,CUST1194,Yuvaan Hayer,Male,24,Kolkata,West Bengal,iPhone 14,Electronics,Mobile,5,65000,Cash,Delivered
+TXN100439,2025/12/31,CUST1873,Reyansh Dhawan,Male,58,Bengaluru,Karnataka,HP Laptop,Electronics,Laptop,1,72000,UPI,Returned
+TXN100440,2025/10/26,CUST1682,Inaaya  Chana,Male,42,Hyderabad,Telangana,Sony Headphones,Electronics,Accessories,5,5000,Debit Card,Returned
+TXN100441,01-06-2025,CUST1654,Dharmajan Sant,Male,55,Delhi,Delhi,Samsung Galaxy S22,Electronics,Mobile,5,58000,UPI,Returned
+TXN100442,2025/02/12,CUST1863,Himmat Madan,Male,28,Kolkata,West Bengal,Adidas T-Shirt,Fashion,Clothing,1,1800,Debit Card,Returned
+TXN100443,2025/05/27,CUST1566,Bhavin Dhar,Male,38,Bengaluru,Karnataka,Samsung Galaxy S22,Electronics,Mobile,1,58000,Cash,Cancelled
+TXN100444,16-01-2025,CUST1027,Eshani Gokhale,Male,57,Kolkata,West Bengal,Nike Shoes,Fashion,Footwear,1,4500,Cash,Returned
+TXN100445,2025/07/31,CUST1473,Gatik Bhandari,Male,44,Delhi,Delhi,HP Laptop,Electronics,Laptop,4,72000,Credit Card,Returned
+TXN100446,13-05-2025,CUST1112,Umang Gole,Female,50,Kolkata,West Bengal,Adidas T-Shirt,Fashion,Clothing,3,1800,UPI,Returned
+TXN100447,2025/11/29,CUST1266,Fateh Dugal,Male,31,Hyderabad,Telangana,HP Laptop,Electronics,Laptop,3,72000,UPI,Returned
+TXN100448,2025/12/07,CUST1510,Azad Aggarwal,Female,43,Hyderabad,Telangana,Sony Headphones,Electronics,Accessories,2,5000,UPI,Cancelled
+TXN100449,2025/07/23,CUST1962,Hridaan Ravel,Female,43,Hyderabad,Telangana,HP Laptop,Electronics,Laptop,3,72000,UPI,Returned
+TXN100450,26-02-2025,CUST1909,Riya Rau,Female,31,Kolkata,West Bengal,Nike Shoes,Fashion,Footwear,1,4500,UPI,Cancelled
+TXN100451,09-05-2025,CUST1003,Kismat Raj,Female,55,Kolkata,West Bengal,Adidas T-Shirt,Fashion,Clothing,4,1800,Cash,Delivered
+TXN100452,24-07-2025,CUST1016,Khushi Chanda,Female,38,Mumbai,Maharashtra,HP Laptop,Electronics,Laptop,5,72000,UPI,Cancelled
+TXN100453,16-09-2025,CUST1861,Darshit Banerjee,Male,44,Bengaluru,Karnataka,HP Laptop,Electronics,Laptop,4,72000,Credit Card,Delivered
+TXN100454,2025/04/11,CUST1917,Lakshay Karpe,Female,23,Mumbai,Maharashtra,HP Laptop,Electronics,Laptop,3,72000,Credit Card,Delivered
+TXN100455,2025/05/24,CUST1213,Anika Boase,Female,49,Pune,Maharashtra,Adidas T-Shirt,Fashion,Clothing,3,1800,UPI,Returned
+TXN100456,2025/12/04,CUST1622,Miraan Balakrishnan,Female,21,Mumbai,Maharashtra,Nike Shoes,Fashion,Footwear,2,4500,Cash,Returned
+TXN100457,2025/12/20,CUST1848,Khushi Garg,Female,57,Delhi,Delhi,iPhone 14,Electronics,Mobile,4,65000,Cash,Cancelled
+TXN100458,2025/02/01,CUST1781,Dharmajan Varkey,Male,50,Chennai,Tamil Nadu,HP Laptop,Electronics,Laptop,5,72000,Cash,Delivered
+TXN100459,21-05-2025,CUST1996,Ishaan Hayer,Female,46,Pune,Maharashtra,Samsung Galaxy S22,Electronics,Mobile,1,58000,Cash,Delivered
+TXN100460,2025/10/03,CUST1177,Pari Dara,Male,36,Hyderabad,Telangana,HP Laptop,Electronics,Laptop,5,72000,Debit Card,Returned
+TXN100461,2025/08/02,CUST1912,Pihu Choudhury,Female,46,Mumbai,Maharashtra,Sony Headphones,Electronics,Accessories,3,5000,UPI,Delivered
+TXN100462,2025/07/21,CUST1448,Mamooty Suri,Male,35,Bengaluru,Karnataka,Samsung Galaxy S22,Electronics,Mobile,1,58000,UPI,Delivered
+TXN100463,20-07-2025,CUST1883,Trisha Konda,Male,32,Hyderabad,Telangana,Wooden Table,Furniture,Table,2,12000,Debit Card,Returned
+TXN100464,2025/01/09,CUST1307,Hiran Golla,Male,50,Bengaluru,Karnataka,Adidas T-Shirt,Fashion,Clothing,3,1800,UPI,Returned
+TXN100465,2025/12/15,CUST1752,Baiju Saxena,Female,39,Delhi,Delhi,Samsung Galaxy S22,Electronics,Mobile,5,58000,Debit Card,Cancelled
+TXN100466,2025/11/04,CUST1540,Nirvi Srinivasan,Female,34,Kolkata,West Bengal,Samsung Galaxy S22,Electronics,Mobile,5,58000,UPI,Cancelled
+TXN100467,2025/10/17,CUST1260,Aarav Raja,Female,52,Bengaluru,Karnataka,Sony Headphones,Electronics,Accessories,3,5000,UPI,Returned
+TXN100468,01-02-2025,CUST1962,Ahana  Bedi,Female,18,Kolkata,West Bengal,Sony Headphones,Electronics,Accessories,4,5000,Debit Card,Returned
+TXN100469,13-10-2025,CUST1130,Vritika Rajagopal,Male,59,Bengaluru,Karnataka,Samsung Galaxy S22,Electronics,Mobile,3,58000,Cash,Cancelled
+TXN100470,2025/08/02,CUST1638,Ritvik Shukla,Female,30,Kolkata,West Bengal,Nike Shoes,Fashion,Footwear,5,4500,Cash,Cancelled
+TXN100471,04-11-2025,CUST1938,Elakshi Kothari,Male,53,Bengaluru,Karnataka,HP Laptop,Electronics,Laptop,1,72000,Credit Card,Returned
+TXN100472,14-11-2025,CUST1756,Eshani Badami,Male,28,Hyderabad,Telangana,iPhone 14,Electronics,Mobile,3,65000,Credit Card,Delivered
+TXN100473,2025/07/23,CUST1555,Vihaan Kaul,Female,43,Hyderabad,Telangana,HP Laptop,Electronics,Laptop,3,72000,UPI,Delivered
+TXN100474,2025/12/09,CUST1294,Raunak Bobal,Female,19,Kolkata,West Bengal,Samsung Galaxy S22,Electronics,Mobile,5,58000,UPI,Cancelled
+TXN100475,2025/01/26,CUST1975,Indranil Wali,Female,26,Chennai,Tamil Nadu,Samsung Galaxy S22,Electronics,Mobile,1,58000,Cash,Returned
+TXN100476,12-05-2025,CUST1983,Arnav Tata,Female,47,Delhi,Delhi,Nike Shoes,Fashion,Footwear,5,4500,Cash,Cancelled
+TXN100477,2025/03/04,CUST1726,Priyansh Dubey,Male,39,Pune,Maharashtra,HP Laptop,Electronics,Laptop,2,72000,Debit Card,Delivered
+TXN100478,2025/06/01,CUST1448,Devansh Bhatt,Female,59,Bengaluru,Karnataka,Samsung Galaxy S22,Electronics,Mobile,3,58000,Cash,Returned
+TXN100479,2025/09/05,CUST1443,Ishaan Rajagopal,Female,56,Kolkata,West Bengal,Nike Shoes,Fashion,Footwear,1,4500,Credit Card,Delivered
+TXN100480,11-04-2025,CUST1329,Sumer Iyer,Male,53,Chennai,Tamil Nadu,Samsung Galaxy S22,Electronics,Mobile,5,58000,Cash,Returned
+TXN100481,2025/09/10,CUST1101,Aayush Sagar,Female,45,Mumbai,Maharashtra,Adidas T-Shirt,Fashion,Clothing,1,1800,Debit Card,Delivered
+TXN100482,2025/04/22,CUST1692,Rania Rajan,Male,52,Kolkata,West Bengal,Wooden Table,Furniture,Table,1,12000,Cash,Cancelled
+TXN100483,22-06-2025,CUST1291,Eshani Master,Female,26,Pune,Maharashtra,Sony Headphones,Electronics,Accessories,2,5000,Credit Card,Returned
+TXN100484,14-05-2025,CUST1792,Vivaan Toor,Male,18,Delhi,Delhi,Samsung Galaxy S22,Electronics,Mobile,4,58000,Debit Card,Delivered
+TXN100485,19-02-2025,CUST1155,Ayesha Kapadia,Female,21,Kolkata,West Bengal,Samsung Galaxy S22,Electronics,Mobile,5,58000,Credit Card,Delivered
+TXN100486,2025/04/25,CUST1500,Aradhya Sabharwal,Female,22,Pune,Maharashtra,HP Laptop,Electronics,Laptop,3,72000,UPI,Delivered
+TXN100487,2025/06/28,CUST1062,Adah Gara,Female,29,Kolkata,West Bengal,iPhone 14,Electronics,Mobile,4,65000,UPI,Delivered
+TXN100488,27-07-2025,CUST1317,Prisha Deo,Female,28,Bengaluru,Karnataka,HP Laptop,Electronics,Laptop,3,72000,Credit Card,Delivered
+TXN100489,2025/01/08,CUST1538,Kashvi Bhardwaj,Female,51,Pune,Maharashtra,iPhone 14,Electronics,Mobile,1,65000,UPI,Returned
+TXN100490,22-07-2025,CUST1279,Kartik Toor,Male,46,Hyderabad,Telangana,Sony Headphones,Electronics,Accessories,4,5000,Debit Card,Delivered
+TXN100491,13-01-2025,CUST1523,Lakshay Bansal,Male,30,Delhi,Delhi,HP Laptop,Electronics,Laptop,5,72000,UPI,Cancelled
+TXN100492,19-04-2025,CUST1535,Advika Kuruvilla,Female,58,Delhi,Delhi,iPhone 14,Electronics,Mobile,1,65000,Credit Card,Returned
+TXN100493,12-09-2025,CUST1835,Hansh Toor,Female,59,Pune,Maharashtra,HP Laptop,Electronics,Laptop,2,72000,Cash,Returned
+TXN100494,2025/06/29,CUST1616,Tejas Som,Female,41,Hyderabad,Telangana,Adidas T-Shirt,Fashion,Clothing,1,1800,Cash,Cancelled
+TXN100495,17-07-2025,CUST1312,Hridaan Verma,Female,59,Mumbai,Maharashtra,Wooden Table,Furniture,Table,2,12000,UPI,Returned
+TXN100496,2025/05/17,CUST1328,Saanvi Bains,Female,23,Hyderabad,Telangana,Sony Headphones,Electronics,Accessories,3,5000,Cash,Returned
+TXN100497,24-12-2025,CUST1664,Vedika Sundaram,Female,32,Pune,Maharashtra,Samsung Galaxy S22,Electronics,Mobile,5,58000,Credit Card,Returned
+TXN100498,18-09-2025,CUST1488,Hazel Rama,Male,33,Chennai,Tamil Nadu,Wooden Table,Furniture,Table,5,12000,Debit Card,Cancelled
+TXN100499,2025/06/22,CUST1671,Eva Kohli,Female,52,Mumbai,Maharashtra,Sony Headphones,Electronics,Accessories,2,5000,Debit Card,Delivered
+TXN100500,21-02-2025,CUST1298,Aarush Lanka,Female,56,Chennai,Tamil Nadu,Samsung Galaxy S22,Electronics,Mobile,4,58000,Credit Card,Cancelled
+TXN100501,14-09-2025,CUST1906,Aniruddh Chawla,Female,48,Delhi,Delhi,HP Laptop,Electronics,Laptop,2,72000,Credit Card,Returned
+TXN100502,27-08-2025,CUST1373,Ritvik Shere,Male,27,Chennai,Tamil Nadu,Nike Shoes,Fashion,Footwear,4,4500,Debit Card,Delivered
+TXN100503,05-12-2025,CUST1910,Prerak Uppal,Male,53,Bengaluru,Karnataka,HP Laptop,Electronics,Laptop,5,72000,Cash,Returned
+TXN100504,16-09-2025,CUST1660,Ira Sharma,Male,51,Mumbai,Maharashtra,HP Laptop,Electronics,Laptop,2,72000,UPI,Delivered
+TXN100505,18-08-2025,CUST1091,Shlok Ratti,Female,22,Hyderabad,Telangana,Adidas T-Shirt,Fashion,Clothing,5,1800,UPI,Returned
+TXN100506,2025/04/19,CUST1183,Pari Mani,Male,28,Kolkata,West Bengal,Samsung Galaxy S22,Electronics,Mobile,1,58000,UPI,Delivered
+TXN100507,17-07-2025,CUST1590,Dhanush Chakrabarti,Male,27,Delhi,Delhi,Samsung Galaxy S22,Electronics,Mobile,2,58000,Cash,Returned
+TXN100508,2025/07/28,CUST1955,Zeeshan Tara,Male,33,Hyderabad,Telangana,Sony Headphones,Electronics,Accessories,1,5000,Debit Card,Delivered
+TXN100509,10-12-2025,CUST1474,Priyansh Manda,Female,32,Hyderabad,Telangana,Nike Shoes,Fashion,Footwear,1,4500,Cash,Cancelled
+TXN100510,2025/08/09,CUST1790,Trisha Aggarwal,Female,47,Bengaluru,Karnataka,Sony Headphones,Electronics,Accessories,1,5000,Debit Card,Cancelled
+TXN100511,12-01-2025,CUST1345,Sahil Goda,Male,23,Pune,Maharashtra,Sony Headphones,Electronics,Accessories,5,5000,UPI,Returned
+TXN100512,28-09-2025,CUST1577,Jayan Rattan,Male,28,Delhi,Delhi,HP Laptop,Electronics,Laptop,5,72000,Debit Card,Delivered
+TXN100513,2025/03/15,CUST1324,Kiaan Raju,Male,47,Delhi,Delhi,Nike Shoes,Fashion,Footwear,2,4500,Cash,Returned
+TXN100514,19-12-2025,CUST1690,Anya Varghese,Male,43,Hyderabad,Telangana,iPhone 14,Electronics,Mobile,5,65000,Credit Card,Delivered
+TXN100515,2025/07/16,CUST1794,Badal Bhatia,Male,43,Pune,Maharashtra,HP Laptop,Electronics,Laptop,4,72000,Cash,Cancelled
+TXN100516,2025/11/15,CUST1285,Kashvi Mandal,Female,40,Chennai,Tamil Nadu,HP Laptop,Electronics,Laptop,5,72000,Cash,Delivered
+TXN100517,2025/04/07,CUST1174,Ishita Hans,Male,50,Bengaluru,Karnataka,Sony Headphones,Electronics,Accessories,5,5000,UPI,Delivered
+TXN100518,30-01-2025,CUST1651,Jayesh Kata,Male,42,Mumbai,Maharashtra,Nike Shoes,Fashion,Footwear,2,4500,UPI,Delivered
+TXN100519,2025/02/17,CUST1096,Yuvraj  Dey,Female,34,Delhi,Delhi,Sony Headphones,Electronics,Accessories,2,5000,UPI,Cancelled
+TXN100520,2025/03/25,CUST1777,Renee Loke,Male,57,Mumbai,Maharashtra,Nike Shoes,Fashion,Footwear,2,4500,Debit Card,Cancelled
+TXN100521,2025/09/25,CUST1096,Saanvi Ahluwalia,Female,29,Delhi,Delhi,Nike Shoes,Fashion,Footwear,1,4500,Cash,Delivered
+TXN100522,2025/03/23,CUST1044,Diya Hegde,Male,47,Hyderabad,Telangana,Samsung Galaxy S22,Electronics,Mobile,5,58000,Credit Card,Returned
+TXN100523,2025/12/07,CUST1939,Nayantara Kohli,Female,30,Hyderabad,Telangana,HP Laptop,Electronics,Laptop,1,72000,UPI,Returned
+TXN100524,22-08-2025,CUST1605,Samiha Tella,Male,54,Delhi,Delhi,Adidas T-Shirt,Fashion,Clothing,4,1800,Cash,Delivered
+TXN100525,20-07-2025,CUST1314,Jayant Thaman,Female,34,Bengaluru,Karnataka,Sony Headphones,Electronics,Accessories,4,5000,Debit Card,Cancelled
+TXN100526,19-04-2025,CUST1975,Azad Dasgupta,Male,32,Pune,Maharashtra,HP Laptop,Electronics,Laptop,2,72000,Debit Card,Delivered
+TXN100527,2025/12/15,CUST1659,Shamik Cherian,Male,40,Delhi,Delhi,HP Laptop,Electronics,Laptop,3,72000,Credit Card,Cancelled
+TXN100528,2025/06/21,CUST1300,Urvi Varkey,Female,47,Delhi,Delhi,HP Laptop,Electronics,Laptop,2,72000,Debit Card,Returned
+TXN100529,2025/02/25,CUST1497,Rania Krishna,Female,53,Delhi,Delhi,Samsung Galaxy S22,Electronics,Mobile,4,58000,Cash,Cancelled
+TXN100530,2025/02/26,CUST1440,Ojas Savant,Female,28,Delhi,Delhi,Wooden Table,Furniture,Table,4,12000,Debit Card,Cancelled
+TXN100531,05-01-2025,CUST1728,Dhruv Gandhi,Female,28,Pune,Maharashtra,HP Laptop,Electronics,Laptop,2,72000,Cash,Returned
+TXN100532,2025/06/11,CUST1353,Jayesh Dave,Male,40,Hyderabad,Telangana,Adidas T-Shirt,Fashion,Clothing,5,1800,Cash,Cancelled
+TXN100533,23-12-2025,CUST1964,Darshit Soni,Female,42,Kolkata,West Bengal,Wooden Table,Furniture,Table,2,12000,UPI,Cancelled
+TXN100534,26-04-2025,CUST1308,Zain Sen,Female,29,Mumbai,Maharashtra,Nike Shoes,Fashion,Footwear,2,4500,Cash,Returned
+TXN100535,24-11-2025,CUST1618,Yuvraj  Bhalla,Male,42,Delhi,Delhi,Sony Headphones,Electronics,Accessories,3,5000,Cash,Delivered
+TXN100536,16-09-2025,CUST1590,Tarini Majumdar,Female,42,Chennai,Tamil Nadu,Adidas T-Shirt,Fashion,Clothing,3,1800,Debit Card,Returned
+TXN100537,2025/03/30,CUST1251,Aarush Mander,Male,20,Pune,Maharashtra,HP Laptop,Electronics,Laptop,2,72000,Debit Card,Cancelled
+TXN100538,2026/01/02,CUST1492,Tiya Shan,Female,19,Mumbai,Maharashtra,Wooden Table,Furniture,Table,1,12000,Debit Card,Delivered
+TXN100539,22-11-2025,CUST1425,Seher Varughese,Female,28,Bengaluru,Karnataka,Wooden Table,Furniture,Table,2,12000,Credit Card,Delivered
+TXN100540,2025/11/12,CUST1082,Samaira Chowdhury,Male,19,Kolkata,West Bengal,Wooden Table,Furniture,Table,5,12000,Credit Card,Cancelled
+TXN100541,2025/07/04,CUST1380,Raunak Dayal,Male,34,Hyderabad,Telangana,Sony Headphones,Electronics,Accessories,5,5000,Credit Card,Delivered
+TXN100542,2025/10/05,CUST1190,Madhup Kale,Male,24,Delhi,Delhi,HP Laptop,Electronics,Laptop,4,72000,UPI,Delivered
+TXN100543,05-03-2025,CUST1991,Eva Sharaf,Female,36,Bengaluru,Karnataka,Nike Shoes,Fashion,Footwear,1,4500,Cash,Cancelled
+TXN100544,23-03-2025,CUST1743,Samiha Toor,Male,32,Hyderabad,Telangana,Nike Shoes,Fashion,Footwear,4,4500,Credit Card,Returned
+TXN100545,13-11-2025,CUST1799,Stuvan Buch,Female,54,Bengaluru,Karnataka,iPhone 14,Electronics,Mobile,4,65000,Credit Card,Returned
+TXN100546,13-01-2025,CUST1996,Devansh Deo,Male,52,Chennai,Tamil Nadu,Adidas T-Shirt,Fashion,Clothing,5,1800,Cash,Returned
+TXN100547,22-08-2025,CUST1926,Raghav Sankaran,Male,30,Pune,Maharashtra,Nike Shoes,Fashion,Footwear,4,4500,Credit Card,Returned
+TXN100548,2025/03/17,CUST1039,Nehmat Sarin,Female,33,Pune,Maharashtra,Adidas T-Shirt,Fashion,Clothing,2,1800,Debit Card,Delivered
+TXN100549,08-10-2025,CUST1597,Ela Kalla,Female,47,Mumbai,Maharashtra,Sony Headphones,Electronics,Accessories,5,5000,Credit Card,Returned
+TXN100550,15-07-2025,CUST1366,Reyansh Banerjee,Female,48,Kolkata,West Bengal,Nike Shoes,Fashion,Footwear,5,4500,Credit Card,Delivered
+TXN100551,27-05-2025,CUST1227,Abram Talwar,Male,60,Chennai,Tamil Nadu,Adidas T-Shirt,Fashion,Clothing,4,1800,Debit Card,Returned
+TXN100552,2025/12/04,CUST1365,Amani Sem,Male,20,Pune,Maharashtra,HP Laptop,Electronics,Laptop,5,72000,Debit Card,Returned
+TXN100553,07-11-2025,CUST1008,Aarna Kibe,Male,59,Mumbai,Maharashtra,Adidas T-Shirt,Fashion,Clothing,2,1800,Cash,Cancelled
+TXN100554,2025/02/17,CUST1418,Purab Walla,Female,24,Pune,Maharashtra,Samsung Galaxy S22,Electronics,Mobile,5,58000,UPI,Cancelled
+TXN100555,2025/05/15,CUST1968,Heer Lala,Female,32,Bengaluru,Karnataka,Nike Shoes,Fashion,Footwear,1,4500,Cash,Returned
+TXN100556,2025/09/11,CUST1231,Indrajit Madan,Male,27,Chennai,Tamil Nadu,iPhone 14,Electronics,Mobile,3,65000,Debit Card,Returned
+TXN100557,04-09-2025,CUST1000,Alia Sundaram,Male,43,Kolkata,West Bengal,Adidas T-Shirt,Fashion,Clothing,2,1800,Credit Card,Delivered
+TXN100558,2025/05/06,CUST1621,Bhamini Bali,Male,54,Hyderabad,Telangana,Nike Shoes,Fashion,Footwear,2,4500,UPI,Delivered
+TXN100559,2025/05/26,CUST1385,Neelofar Deep,Female,27,Delhi,Delhi,Nike Shoes,Fashion,Footwear,2,4500,Credit Card,Delivered
+TXN100560,2026/01/04,CUST1706,Sahil Dewan,Male,39,Chennai,Tamil Nadu,Adidas T-Shirt,Fashion,Clothing,3,1800,Debit Card,Cancelled
+TXN100561,01-04-2025,CUST1275,Zaina Bhardwaj,Female,53,Mumbai,Maharashtra,iPhone 14,Electronics,Mobile,5,65000,UPI,Cancelled
+TXN100562,13-02-2025,CUST1339,Adah Raja,Male,21,Chennai,Tamil Nadu,iPhone 14,Electronics,Mobile,3,65000,Debit Card,Delivered
+TXN100563,2025/03/23,CUST1899,Bhamini Bhakta,Female,44,Delhi,Delhi,iPhone 14,Electronics,Mobile,5,65000,Debit Card,Returned
+TXN100564,28-09-2025,CUST1441,Mohanlal Rout,Male,20,Pune,Maharashtra,iPhone 14,Electronics,Mobile,2,65000,Cash,Returned
+TXN100565,20-04-2025,CUST1454,Anay Dada,Male,58,Hyderabad,Telangana,Sony Headphones,Electronics,Accessories,4,5000,Credit Card,Cancelled
+TXN100566,04-01-2026,CUST1210,Vaibhav Sundaram,Male,29,Pune,Maharashtra,HP Laptop,Electronics,Laptop,1,72000,Credit Card,Returned
+TXN100567,2025/03/09,CUST1247,Aarna Sachdev,Male,45,Hyderabad,Telangana,Nike Shoes,Fashion,Footwear,2,4500,UPI,Cancelled
+TXN100568,2025/10/02,CUST1348,Divyansh Behl,Male,38,Pune,Maharashtra,Samsung Galaxy S22,Electronics,Mobile,5,58000,Debit Card,Cancelled
+TXN100569,23-05-2025,CUST1319,Nakul Wagle,Male,31,Bengaluru,Karnataka,Samsung Galaxy S22,Electronics,Mobile,5,58000,Debit Card,Cancelled
+TXN100570,08-03-2025,CUST1295,Dhanuk Wagle,Male,22,Chennai,Tamil Nadu,Samsung Galaxy S22,Electronics,Mobile,1,58000,UPI,Delivered
+TXN100571,2025/10/17,CUST1326,Ritvik Iyer,Male,53,Hyderabad,Telangana,Wooden Table,Furniture,Table,4,12000,Debit Card,Delivered
+TXN100572,25-11-2025,CUST1385,Riaan Venkataraman,Male,30,Chennai,Tamil Nadu,iPhone 14,Electronics,Mobile,5,65000,Cash,Returned
+TXN100573,2025/11/18,CUST1145,Amira Bains,Female,25,Bengaluru,Karnataka,Adidas T-Shirt,Fashion,Clothing,5,1800,UPI,Cancelled
+TXN100574,10-07-2025,CUST1139,Kimaya Ganesh,Male,35,Kolkata,West Bengal,iPhone 14,Electronics,Mobile,1,65000,UPI,Returned
+TXN100575,10-04-2025,CUST1588,Mishti Dugar,Female,24,Chennai,Tamil Nadu,Wooden Table,Furniture,Table,3,12000,Debit Card,Cancelled
+TXN100576,28-11-2025,CUST1732,Shamik Viswanathan,Male,56,Hyderabad,Telangana,Sony Headphones,Electronics,Accessories,3,5000,Debit Card,Delivered
+TXN100577,20-04-2025,CUST1819,Amira Mandal,Female,58,Mumbai,Maharashtra,Nike Shoes,Fashion,Footwear,5,4500,Credit Card,Cancelled
+TXN100578,2025/07/19,CUST1033,Nirvaan Chada,Male,48,Delhi,Delhi,Nike Shoes,Fashion,Footwear,2,4500,Credit Card,Delivered
+TXN100579,2025/08/04,CUST1526,Adah Behl,Male,25,Bengaluru,Karnataka,iPhone 14,Electronics,Mobile,3,65000,UPI,Returned
+TXN100580,23-12-2025,CUST1528,Rasha Agrawal,Female,54,Chennai,Tamil Nadu,Adidas T-Shirt,Fashion,Clothing,4,1800,Debit Card,Delivered
+TXN100581,2025/10/23,CUST1737,Purab Goswami,Female,50,Pune,Maharashtra,Wooden Table,Furniture,Table,4,12000,Cash,Cancelled
+TXN100582,17-10-2025,CUST1352,Ryan Dixit,Male,28,Chennai,Tamil Nadu,Wooden Table,Furniture,Table,5,12000,Cash,Returned
+TXN100583,16-01-2025,CUST1577,Aarav Sridhar,Male,34,Pune,Maharashtra,Sony Headphones,Electronics,Accessories,1,5000,UPI,Delivered
+TXN100584,2025/03/15,CUST1950,Hridaan Andra,Female,58,Bengaluru,Karnataka,Wooden Table,Furniture,Table,4,12000,UPI,Delivered
+TXN100585,09-12-2025,CUST1636,Riaan Trivedi,Female,33,Chennai,Tamil Nadu,HP Laptop,Electronics,Laptop,4,72000,Debit Card,Delivered
+TXN100586,2026/01/02,CUST1454,Heer Sant,Female,56,Mumbai,Maharashtra,Wooden Table,Furniture,Table,4,12000,Cash,Cancelled
+TXN100587,13-02-2025,CUST1309,Eva Varghese,Male,40,Delhi,Delhi,iPhone 14,Electronics,Mobile,2,65000,Cash,Returned
+TXN100588,09-04-2025,CUST1283,Kiaan Basak,Female,28,Chennai,Tamil Nadu,Sony Headphones,Electronics,Accessories,5,5000,Credit Card,Cancelled
+TXN100589,24-06-2025,CUST1750,Amani Saha,Male,52,Bengaluru,Karnataka,Nike Shoes,Fashion,Footwear,3,4500,Credit Card,Returned
+TXN100590,15-11-2025,CUST1916,Faiyaz Bains,Female,38,Mumbai,Maharashtra,Sony Headphones,Electronics,Accessories,2,5000,UPI,Returned
+TXN100591,2025/03/29,CUST1438,Tiya Koshy,Male,48,Mumbai,Maharashtra,HP Laptop,Electronics,Laptop,4,72000,Cash,Returned
+TXN100592,2025/07/15,CUST1656,Stuvan Joshi,Male,51,Kolkata,West Bengal,Wooden Table,Furniture,Table,2,12000,UPI,Delivered
+TXN100593,04-05-2025,CUST1526,Eshani Bal,Male,47,Hyderabad,Telangana,Adidas T-Shirt,Fashion,Clothing,3,1800,Cash,Returned
+TXN100594,2025/01/26,CUST1761,Kavya Bajaj,Female,36,Pune,Maharashtra,iPhone 14,Electronics,Mobile,2,65000,Cash,Delivered
+TXN100595,11-11-2025,CUST1461,Sumer Bava,Female,42,Mumbai,Maharashtra,HP Laptop,Electronics,Laptop,5,72000,Credit Card,Returned
+TXN100596,2025/10/09,CUST1906,Riaan Kade,Male,32,Kolkata,West Bengal,Wooden Table,Furniture,Table,1,12000,Cash,Returned
+TXN100597,2025/04/24,CUST1642,Hansh Batra,Female,18,Mumbai,Maharashtra,iPhone 14,Electronics,Mobile,3,65000,Debit Card,Delivered
+TXN100598,01-11-2025,CUST1748,Amani Kurian,Female,29,Kolkata,West Bengal,HP Laptop,Electronics,Laptop,1,72000,UPI,Cancelled
+TXN100599,16-07-2025,CUST1200,Veer Kashyap,Male,47,Hyderabad,Telangana,Wooden Table,Furniture,Table,5,12000,Credit Card,Returned
+TXN100600,2025/01/08,CUST1843,Lavanya Kakar,Female,45,Pune,Maharashtra,Samsung Galaxy S22,Electronics,Mobile,5,58000,UPI,Cancelled
+TXN100601,2025/11/04,CUST1192,Tushar Dixit,Female,52,Chennai,Tamil Nadu,Adidas T-Shirt,Fashion,Clothing,1,1800,Cash,Cancelled
+TXN100602,2025/07/10,CUST1986,Yasmin Garde,Female,32,Hyderabad,Telangana,HP Laptop,Electronics,Laptop,1,72000,Cash,Cancelled
+TXN100603,29-09-2025,CUST1151,Devansh Choudhury,Female,56,Pune,Maharashtra,Sony Headphones,Electronics,Accessories,1,5000,Cash,Returned
+TXN100604,04-05-2025,CUST1413,Trisha Dada,Male,47,Chennai,Tamil Nadu,Nike Shoes,Fashion,Footwear,3,4500,Cash,Delivered
+TXN100605,2025/12/13,CUST1204,Jayan Dass,Female,25,Pune,Maharashtra,Samsung Galaxy S22,Electronics,Mobile,1,58000,UPI,Delivered
+TXN100606,2025/09/18,CUST1028,Drishya Butala,Female,39,Delhi,Delhi,Wooden Table,Furniture,Table,3,12000,UPI,Cancelled
+TXN100607,2025/09/22,CUST1057,Dhanuk Garde,Male,48,Mumbai,Maharashtra,Adidas T-Shirt,Fashion,Clothing,1,1800,UPI,Cancelled
+TXN100608,2025/08/30,CUST1449,Sahil Kala,Male,22,Chennai,Tamil Nadu,iPhone 14,Electronics,Mobile,5,65000,Cash,Delivered
+TXN100609,15-11-2025,CUST1855,Mahika Srinivas,Female,27,Hyderabad,Telangana,Samsung Galaxy S22,Electronics,Mobile,1,58000,Credit Card,Cancelled
+TXN100610,07-01-2025,CUST1147,Onkar Rama,Male,18,Chennai,Tamil Nadu,Sony Headphones,Electronics,Accessories,2,5000,Cash,Cancelled
+TXN100611,2025/04/19,CUST1376,Aaina Amble,Female,55,Pune,Maharashtra,Sony Headphones,Electronics,Accessories,2,5000,UPI,Returned
+TXN100612,25-03-2025,CUST1861,Ehsaan Uppal,Female,54,Kolkata,West Bengal,iPhone 14,Electronics,Mobile,3,65000,Cash,Cancelled
+TXN100613,02-10-2025,CUST1784,Kashvi Chakraborty,Female,32,Kolkata,West Bengal,Adidas T-Shirt,Fashion,Clothing,2,1800,Debit Card,Returned
+TXN100614,27-12-2025,CUST1744,Samar Subramaniam,Female,18,Kolkata,West Bengal,HP Laptop,Electronics,Laptop,3,72000,Debit Card,Cancelled
+TXN100615,26-05-2025,CUST1533,Drishya Dyal,Male,47,Chennai,Tamil Nadu,Wooden Table,Furniture,Table,5,12000,Cash,Delivered
+TXN100616,2025/03/16,CUST1904,Siya Ahluwalia,Male,44,Delhi,Delhi,Samsung Galaxy S22,Electronics,Mobile,3,58000,Credit Card,Cancelled
+TXN100617,2025/09/03,CUST1794,Elakshi Tripathi,Female,37,Chennai,Tamil Nadu,Adidas T-Shirt,Fashion,Clothing,2,1800,UPI,Returned
+TXN100618,30-10-2025,CUST1149,Inaaya  Bains,Male,60,Kolkata,West Bengal,HP Laptop,Electronics,Laptop,3,72000,UPI,Returned
+TXN100619,22-11-2025,CUST1185,Heer Batta,Female,34,Mumbai,Maharashtra,Samsung Galaxy S22,Electronics,Mobile,3,58000,UPI,Returned
+TXN100620,2025/01/21,CUST1119,Tejas Solanki,Male,56,Hyderabad,Telangana,HP Laptop,Electronics,Laptop,5,72000,Debit Card,Delivered
+TXN100621,30-04-2025,CUST1305,Yuvraj  Tak,Female,60,Pune,Maharashtra,Samsung Galaxy S22,Electronics,Mobile,5,58000,Cash,Cancelled
+TXN100622,24-03-2025,CUST1871,Trisha Chacko,Male,47,Kolkata,West Bengal,HP Laptop,Electronics,Laptop,4,72000,Debit Card,Delivered
+TXN100623,2025/08/19,CUST1145,Nehmat Banik,Female,28,Delhi,Delhi,Adidas T-Shirt,Fashion,Clothing,4,1800,Credit Card,Cancelled
+TXN100624,2025/05/23,CUST1089,Advik Lall,Male,52,Bengaluru,Karnataka,Nike Shoes,Fashion,Footwear,2,4500,UPI,Returned
+TXN100625,2025/01/11,CUST1382,Vihaan Sidhu,Female,34,Chennai,Tamil Nadu,Adidas T-Shirt,Fashion,Clothing,5,1800,Cash,Cancelled
+TXN100626,2025/02/24,CUST1846,Kismat Amble,Female,35,Hyderabad,Telangana,HP Laptop,Electronics,Laptop,4,72000,Cash,Delivered
+TXN100627,2025/02/02,CUST1932,Ryan Mander,Male,52,Mumbai,Maharashtra,iPhone 14,Electronics,Mobile,2,65000,Debit Card,Returned
+TXN100628,2025/07/02,CUST1264,Aarav Char,Male,29,Mumbai,Maharashtra,Adidas T-Shirt,Fashion,Clothing,4,1800,Cash,Delivered
+TXN100629,2025/07/30,CUST1561,Gatik Singhal,Male,54,Hyderabad,Telangana,Adidas T-Shirt,Fashion,Clothing,3,1800,UPI,Delivered
+TXN100630,29-11-2025,CUST1073,Mamooty Gala,Male,41,Hyderabad,Telangana,iPhone 14,Electronics,Mobile,4,65000,Debit Card,Returned
+TXN100631,11-06-2025,CUST1313,Vritika Sathe,Male,23,Mumbai,Maharashtra,iPhone 14,Electronics,Mobile,1,65000,Debit Card,Cancelled
+TXN100632,2025/01/16,CUST1375,Sahil Hayre,Male,31,Pune,Maharashtra,Wooden Table,Furniture,Table,1,12000,Cash,Cancelled
+TXN100633,10-04-2025,CUST1434,Ela Dhar,Female,53,Hyderabad,Telangana,Wooden Table,Furniture,Table,2,12000,Cash,Returned
+TXN100634,27-11-2025,CUST1714,Lakshit Ahluwalia,Male,38,Mumbai,Maharashtra,Wooden Table,Furniture,Table,1,12000,Cash,Cancelled
+TXN100635,06-03-2025,CUST1721,Shalv Dayal,Male,26,Mumbai,Maharashtra,Wooden Table,Furniture,Table,5,12000,Debit Card,Returned
+TXN100636,2025/09/12,CUST1588,Azad Ganesan,Female,35,Chennai,Tamil Nadu,Wooden Table,Furniture,Table,5,12000,Cash,Delivered
+TXN100637,23-04-2025,CUST1356,Himmat Shanker,Female,31,Mumbai,Maharashtra,Wooden Table,Furniture,Table,1,12000,UPI,Delivered
+TXN100638,26-05-2025,CUST1494,Arhaan Saha,Male,53,Bengaluru,Karnataka,Nike Shoes,Fashion,Footwear,1,4500,Credit Card,Cancelled
+TXN100639,2025/08/28,CUST1293,Jayant Saraf,Female,43,Kolkata,West Bengal,HP Laptop,Electronics,Laptop,5,72000,Credit Card,Cancelled
+TXN100640,04-08-2025,CUST1059,Ela Garg,Male,27,Mumbai,Maharashtra,Sony Headphones,Electronics,Accessories,4,5000,UPI,Delivered
+TXN100641,03-05-2025,CUST1708,Neelofar Aggarwal,Female,50,Mumbai,Maharashtra,HP Laptop,Electronics,Laptop,5,72000,Credit Card,Cancelled
+TXN100642,2025/07/10,CUST1980,Amani Soman,Female,52,Kolkata,West Bengal,HP Laptop,Electronics,Laptop,2,72000,Credit Card,Returned
+TXN100643,2025/01/27,CUST1617,Madhav Rattan,Female,55,Bengaluru,Karnataka,iPhone 14,Electronics,Mobile,2,65000,Credit Card,Returned
+TXN100644,2025/03/17,CUST1274,Baiju Ahluwalia,Male,38,Delhi,Delhi,Adidas T-Shirt,Fashion,Clothing,5,1800,Cash,Cancelled
+TXN100645,2025/08/24,CUST1276,Anahi Johal,Male,47,Delhi,Delhi,Nike Shoes,Fashion,Footwear,4,4500,UPI,Delivered
+TXN100646,2025/05/10,CUST1418,Diya Ben,Female,42,Kolkata,West Bengal,Samsung Galaxy S22,Electronics,Mobile,2,58000,UPI,Delivered
+TXN100647,2025/09/02,CUST1566,Ryan Suresh,Female,56,Pune,Maharashtra,Samsung Galaxy S22,Electronics,Mobile,3,58000,Credit Card,Delivered
+TXN100648,14-03-2025,CUST1150,Akarsh Batra,Female,24,Mumbai,Maharashtra,Samsung Galaxy S22,Electronics,Mobile,3,58000,Credit Card,Delivered
+TXN100649,2025/10/25,CUST1108,Umang Vig,Female,46,Chennai,Tamil Nadu,Wooden Table,Furniture,Table,1,12000,Debit Card,Cancelled
+TXN100650,2025/07/08,CUST1529,Amira Acharya,Male,51,Chennai,Tamil Nadu,Sony Headphones,Electronics,Accessories,4,5000,UPI,Returned
+TXN100651,2025/01/09,CUST1495,Ivana Cherian,Male,44,Pune,Maharashtra,Adidas T-Shirt,Fashion,Clothing,5,1800,Debit Card,Cancelled
+TXN100652,2025/07/22,CUST1297,Kiara Mane,Male,59,Chennai,Tamil Nadu,Nike Shoes,Fashion,Footwear,1,4500,Debit Card,Cancelled
+TXN100653,2025/02/23,CUST1312,Himmat Banerjee,Male,56,Delhi,Delhi,HP Laptop,Electronics,Laptop,3,72000,Debit Card,Returned
+TXN100654,28-04-2025,CUST1754,Lavanya Date,Female,41,Chennai,Tamil Nadu,Samsung Galaxy S22,Electronics,Mobile,3,58000,Cash,Delivered
+TXN100655,05-01-2025,CUST1276,Vihaan Kadakia,Male,21,Pune,Maharashtra,iPhone 14,Electronics,Mobile,4,65000,Credit Card,Delivered
+TXN100656,25-03-2025,CUST1611,Tarini Vyas,Female,25,Mumbai,Maharashtra,Samsung Galaxy S22,Electronics,Mobile,1,58000,Debit Card,Delivered
+TXN100657,2025/05/31,CUST1671,Baiju Sami,Male,23,Mumbai,Maharashtra,iPhone 14,Electronics,Mobile,5,65000,UPI,Delivered
+TXN100658,13-06-2025,CUST1985,Neelofar Cherian,Male,56,Pune,Maharashtra,Wooden Table,Furniture,Table,1,12000,Cash,Cancelled
+TXN100659,2025/06/16,CUST1913,Lavanya Balan,Male,52,Delhi,Delhi,Wooden Table,Furniture,Table,4,12000,Credit Card,Delivered
+TXN100660,12-04-2025,CUST1084,Shray Dar,Male,36,Bengaluru,Karnataka,Adidas T-Shirt,Fashion,Clothing,1,1800,Credit Card,Cancelled
+TXN100661,2025/05/22,CUST1968,Aarush Sani,Female,42,Bengaluru,Karnataka,Samsung Galaxy S22,Electronics,Mobile,5,58000,Debit Card,Cancelled
+TXN100662,2025/04/14,CUST1058,Madhav Toor,Female,20,Delhi,Delhi,HP Laptop,Electronics,Laptop,1,72000,Credit Card,Cancelled
+TXN100663,2025/04/30,CUST1115,Diya Sha,Male,34,Bengaluru,Karnataka,Sony Headphones,Electronics,Accessories,1,5000,UPI,Returned
+TXN100664,2025/04/12,CUST1172,Kashvi Amble,Male,36,Chennai,Tamil Nadu,iPhone 14,Electronics,Mobile,4,65000,Debit Card,Delivered
+TXN100665,05-10-2025,CUST1763,Damini Saxena,Male,38,Kolkata,West Bengal,Adidas T-Shirt,Fashion,Clothing,4,1800,Credit Card,Returned
+TXN100666,14-04-2025,CUST1236,Tanya Desai,Male,50,Hyderabad,Telangana,Adidas T-Shirt,Fashion,Clothing,4,1800,UPI,Returned
+TXN100667,31-10-2025,CUST1102,Devansh Sharaf,Male,36,Hyderabad,Telangana,Sony Headphones,Electronics,Accessories,3,5000,Cash,Delivered
+TXN100668,02-04-2025,CUST1056,Adira Majumdar,Male,23,Mumbai,Maharashtra,Samsung Galaxy S22,Electronics,Mobile,3,58000,Debit Card,Cancelled
+TXN100669,03-02-2025,CUST1555,Neysa Golla,Male,46,Chennai,Tamil Nadu,Sony Headphones,Electronics,Accessories,3,5000,Debit Card,Delivered
+TXN100670,23-04-2025,CUST1087,Ehsaan Sachdeva,Male,32,Kolkata,West Bengal,Samsung Galaxy S22,Electronics,Mobile,5,58000,UPI,Delivered
+TXN100671,2025/03/20,CUST1342,Lakshay Goswami,Female,24,Hyderabad,Telangana,Wooden Table,Furniture,Table,2,12000,Credit Card,Cancelled
+TXN100672,12-08-2025,CUST1220,Badal Keer,Male,37,Delhi,Delhi,Adidas T-Shirt,Fashion,Clothing,5,1800,Cash,Returned
+TXN100673,2025/10/07,CUST1595,Anika Dora,Male,29,Chennai,Tamil Nadu,Nike Shoes,Fashion,Footwear,5,4500,Cash,Cancelled
+TXN100674,2025/08/28,CUST1432,Shayak Chada,Female,52,Pune,Maharashtra,Nike Shoes,Fashion,Footwear,5,4500,Credit Card,Cancelled
+TXN100675,06-07-2025,CUST1247,Lakshit Chand,Male,22,Kolkata,West Bengal,Adidas T-Shirt,Fashion,Clothing,4,1800,Debit Card,Returned
+TXN100676,2025/06/28,CUST1788,Jayant Taneja,Female,32,Pune,Maharashtra,Adidas T-Shirt,Fashion,Clothing,3,1800,Cash,Cancelled
+TXN100677,19-09-2025,CUST1582,Uthkarsh Aurora,Female,45,Pune,Maharashtra,Sony Headphones,Electronics,Accessories,2,5000,Credit Card,Returned
+TXN100678,12-05-2025,CUST1766,Purab Sami,Female,55,Mumbai,Maharashtra,HP Laptop,Electronics,Laptop,3,72000,Cash,Cancelled
+TXN100679,2025/03/10,CUST1154,Alia Basu,Female,57,Kolkata,West Bengal,Adidas T-Shirt,Fashion,Clothing,1,1800,Cash,Delivered
+TXN100680,2025/04/29,CUST1543,Sumer Rege,Male,21,Kolkata,West Bengal,Sony Headphones,Electronics,Accessories,3,5000,UPI,Returned
+TXN100681,2025/10/11,CUST1922,Dhanush Hegde,Male,40,Pune,Maharashtra,Adidas T-Shirt,Fashion,Clothing,3,1800,Credit Card,Delivered
+TXN100682,07-09-2025,CUST1821,Ryan Sinha,Female,26,Mumbai,Maharashtra,Sony Headphones,Electronics,Accessories,4,5000,Credit Card,Cancelled
+TXN100683,12-02-2025,CUST1025,Raunak Bobal,Female,56,Chennai,Tamil Nadu,Sony Headphones,Electronics,Accessories,2,5000,Credit Card,Delivered
+TXN100684,10-09-2025,CUST1175,Zaina Saini,Female,36,Pune,Maharashtra,Sony Headphones,Electronics,Accessories,3,5000,Debit Card,Cancelled
+TXN100685,2025/08/15,CUST1617,Inaaya  Vyas,Male,50,Pune,Maharashtra,HP Laptop,Electronics,Laptop,4,72000,Cash,Cancelled
+TXN100686,30-12-2025,CUST1897,Biju Desai,Female,35,Pune,Maharashtra,iPhone 14,Electronics,Mobile,3,65000,Cash,Delivered
+TXN100687,06-12-2025,CUST1147,Vedika Shroff,Female,52,Mumbai,Maharashtra,HP Laptop,Electronics,Laptop,2,72000,UPI,Returned
+TXN100688,24-07-2025,CUST1379,Urvi Talwar,Male,56,Chennai,Tamil Nadu,iPhone 14,Electronics,Mobile,2,65000,UPI,Cancelled
+TXN100689,2025/09/09,CUST1542,Dharmajan Kar,Male,48,Bengaluru,Karnataka,Samsung Galaxy S22,Electronics,Mobile,1,58000,UPI,Delivered
+TXN100690,08-11-2025,CUST1705,Ishaan Mangal,Female,28,Mumbai,Maharashtra,HP Laptop,Electronics,Laptop,1,72000,Credit Card,Cancelled
+TXN100691,13-12-2025,CUST1910,Aarna Tella,Female,23,Pune,Maharashtra,Wooden Table,Furniture,Table,1,12000,UPI,Cancelled
+TXN100692,2025/06/20,CUST1040,Neysa Sridhar,Female,45,Kolkata,West Bengal,Sony Headphones,Electronics,Accessories,1,5000,Debit Card,Cancelled
+TXN100693,04-05-2025,CUST1952,Badal Dutta,Female,34,Delhi,Delhi,iPhone 14,Electronics,Mobile,3,65000,UPI,Cancelled
+TXN100694,17-01-2025,CUST1331,Aayush Dhaliwal,Female,22,Kolkata,West Bengal,iPhone 14,Electronics,Mobile,4,65000,Credit Card,Delivered
+TXN100695,2025/05/20,CUST1444,Diya Bhargava,Female,48,Mumbai,Maharashtra,Nike Shoes,Fashion,Footwear,1,4500,Debit Card,Returned
+TXN100696,24-11-2025,CUST1763,Shanaya Yadav,Female,33,Delhi,Delhi,Samsung Galaxy S22,Electronics,Mobile,3,58000,Debit Card,Cancelled
+TXN100697,27-12-2025,CUST1258,Rhea Mallick,Male,22,Delhi,Delhi,Adidas T-Shirt,Fashion,Clothing,4,1800,Credit Card,Cancelled
+TXN100698,2025/07/16,CUST1981,Indrajit Choudhry,Male,51,Chennai,Tamil Nadu,Wooden Table,Furniture,Table,4,12000,Debit Card,Returned
+TXN100699,2025/04/23,CUST1713,Vanya Shan,Female,55,Bengaluru,Karnataka,Wooden Table,Furniture,Table,5,12000,Credit Card,Cancelled
+TXN100700,2025/11/23,CUST1178,Badal Deol,Male,28,Hyderabad,Telangana,Samsung Galaxy S22,Electronics,Mobile,1,58000,Credit Card,Cancelled
+TXN100701,2025/05/11,CUST1392,Himmat Doctor,Male,33,Mumbai,Maharashtra,iPhone 14,Electronics,Mobile,2,65000,Credit Card,Cancelled
+TXN100702,2025/03/29,CUST1476,Dhanuk Sunder,Male,49,Pune,Maharashtra,Adidas T-Shirt,Fashion,Clothing,5,1800,Cash,Delivered
+TXN100703,07-05-2025,CUST1403,Saksham Kalla,Male,60,Kolkata,West Bengal,Adidas T-Shirt,Fashion,Clothing,4,1800,Debit Card,Delivered
+TXN100704,23-08-2025,CUST1418,Yakshit Bhagat,Male,60,Bengaluru,Karnataka,Samsung Galaxy S22,Electronics,Mobile,1,58000,Debit Card,Cancelled
+TXN100705,26-01-2025,CUST1599,Shamik Vohra,Female,38,Chennai,Tamil Nadu,Adidas T-Shirt,Fashion,Clothing,4,1800,Cash,Delivered
+TXN100706,03-02-2025,CUST1463,Indranil Lalla,Male,46,Chennai,Tamil Nadu,iPhone 14,Electronics,Mobile,5,65000,UPI,Cancelled
+TXN100707,2025/04/10,CUST1867,Biju Barad,Male,19,Kolkata,West Bengal,Nike Shoes,Fashion,Footwear,3,4500,UPI,Delivered
+TXN100708,01-08-2025,CUST1466,Aarna Singhal,Female,29,Pune,Maharashtra,Adidas T-Shirt,Fashion,Clothing,2,1800,Credit Card,Returned
+TXN100709,28-02-2025,CUST1210,Shayak Chada,Male,52,Mumbai,Maharashtra,HP Laptop,Electronics,Laptop,1,72000,Cash,Cancelled
+TXN100710,2025/12/07,CUST1222,Navya Rajagopal,Female,51,Delhi,Delhi,Sony Headphones,Electronics,Accessories,4,5000,Credit Card,Cancelled
+TXN100711,2025/05/07,CUST1228,Anya Comar,Male,28,Mumbai,Maharashtra,Nike Shoes,Fashion,Footwear,5,4500,Cash,Returned
+TXN100712,08-11-2025,CUST1322,Ryan Bail,Female,51,Chennai,Tamil Nadu,Samsung Galaxy S22,Electronics,Mobile,1,58000,Debit Card,Returned
+TXN100713,2025/04/23,CUST1326,Zara Wable,Male,49,Delhi,Delhi,Nike Shoes,Fashion,Footwear,4,4500,Credit Card,Cancelled
+TXN100714,2025/05/12,CUST1905,Dishani Batta,Female,45,Pune,Maharashtra,Wooden Table,Furniture,Table,2,12000,Debit Card,Returned
+TXN100715,2025/03/17,CUST1933,Dhanush Rajagopalan,Female,44,Mumbai,Maharashtra,Adidas T-Shirt,Fashion,Clothing,5,1800,Credit Card,Cancelled
+TXN100716,01-03-2025,CUST1542,Kashvi Krishnamurthy,Male,20,Mumbai,Maharashtra,Nike Shoes,Fashion,Footwear,5,4500,UPI,Cancelled
+TXN100717,2025/03/19,CUST1604,Eva Dube,Female,23,Bengaluru,Karnataka,iPhone 14,Electronics,Mobile,2,65000,Debit Card,Returned
+TXN100718,2025/12/18,CUST1824,Samar Sahni,Male,19,Bengaluru,Karnataka,iPhone 14,Electronics,Mobile,5,65000,Cash,Delivered
+TXN100719,22-08-2025,CUST1655,Anya Sarna,Female,53,Bengaluru,Karnataka,Adidas T-Shirt,Fashion,Clothing,2,1800,UPI,Cancelled
+TXN100720,2025/03/19,CUST1951,Indranil Jayaraman,Female,33,Pune,Maharashtra,Wooden Table,Furniture,Table,1,12000,UPI,Cancelled
+TXN100721,11-01-2025,CUST1708,Seher Sama,Female,49,Hyderabad,Telangana,Sony Headphones,Electronics,Accessories,3,5000,Credit Card,Returned
+TXN100722,2025/06/07,CUST1905,Vritika Ratti,Male,44,Delhi,Delhi,Adidas T-Shirt,Fashion,Clothing,5,1800,Cash,Returned
+TXN100723,2025/10/11,CUST1066,Fateh Contractor,Male,52,Kolkata,West Bengal,Nike Shoes,Fashion,Footwear,4,4500,UPI,Returned
+TXN100724,2025/09/11,CUST1073,Sara Karnik,Female,52,Kolkata,West Bengal,Sony Headphones,Electronics,Accessories,5,5000,Cash,Returned
+TXN100725,2025/03/22,CUST1019,Kabir Chaudhuri,Male,37,Chennai,Tamil Nadu,Nike Shoes,Fashion,Footwear,4,4500,Credit Card,Returned
+TXN100726,2025/03/20,CUST1549,Nakul Sem,Male,31,Mumbai,Maharashtra,Sony Headphones,Electronics,Accessories,2,5000,Cash,Returned
+TXN100727,2025/11/24,CUST1900,Ojas Bajwa,Female,21,Bengaluru,Karnataka,Samsung Galaxy S22,Electronics,Mobile,2,58000,Cash,Cancelled
+TXN100728,04-01-2025,CUST1947,Lavanya Apte,Female,52,Bengaluru,Karnataka,HP Laptop,Electronics,Laptop,1,72000,UPI,Delivered
+TXN100729,05-12-2025,CUST1729,Darshit Chaudhari,Male,31,Mumbai,Maharashtra,iPhone 14,Electronics,Mobile,5,65000,Credit Card,Cancelled
+TXN100730,03-03-2025,CUST1903,Pihu Lad,Male,57,Delhi,Delhi,Samsung Galaxy S22,Electronics,Mobile,2,58000,Cash,Returned
+TXN100731,2025/10/27,CUST1124,Prerak Lad,Female,60,Delhi,Delhi,Nike Shoes,Fashion,Footwear,3,4500,Debit Card,Cancelled
+TXN100732,2025/09/07,CUST1123,Lavanya Agate,Male,28,Delhi,Delhi,Sony Headphones,Electronics,Accessories,2,5000,Debit Card,Cancelled
+TXN100733,2025/08/22,CUST1742,Siya Soni,Male,33,Delhi,Delhi,iPhone 14,Electronics,Mobile,5,65000,Credit Card,Returned
+TXN100734,17-03-2025,CUST1659,Vaibhav Kurian,Female,22,Hyderabad,Telangana,iPhone 14,Electronics,Mobile,2,65000,Debit Card,Delivered
+TXN100735,26-08-2025,CUST1967,Anvi Kaur,Female,27,Kolkata,West Bengal,Sony Headphones,Electronics,Accessories,3,5000,Cash,Delivered
+TXN100736,2025/09/10,CUST1731,Indrans Kamdar,Male,41,Hyderabad,Telangana,Samsung Galaxy S22,Electronics,Mobile,4,58000,Credit Card,Returned
+TXN100737,17-07-2025,CUST1030,Neelofar Verma,Male,59,Kolkata,West Bengal,Samsung Galaxy S22,Electronics,Mobile,2,58000,Credit Card,Cancelled
+TXN100738,2025/05/21,CUST1983,Eva Raman,Male,30,Pune,Maharashtra,Nike Shoes,Fashion,Footwear,1,4500,UPI,Cancelled
+TXN100739,29-08-2025,CUST1574,Abram Banerjee,Female,33,Kolkata,West Bengal,iPhone 14,Electronics,Mobile,5,65000,Debit Card,Returned
+TXN100740,2025/01/16,CUST1051,Jhanvi Kuruvilla,Female,18,Hyderabad,Telangana,HP Laptop,Electronics,Laptop,3,72000,Cash,Delivered
+TXN100741,26-08-2025,CUST1517,Kiaan Kuruvilla,Male,51,Chennai,Tamil Nadu,Adidas T-Shirt,Fashion,Clothing,4,1800,UPI,Delivered
+TXN100742,2025/03/25,CUST1937,Diya Saha,Female,20,Pune,Maharashtra,Wooden Table,Furniture,Table,2,12000,Debit Card,Returned
+TXN100743,19-10-2025,CUST1071,Darshit Chacko,Male,51,Hyderabad,Telangana,Adidas T-Shirt,Fashion,Clothing,1,1800,Debit Card,Delivered
+TXN100744,02-04-2025,CUST1810,Hazel Barad,Female,47,Bengaluru,Karnataka,Wooden Table,Furniture,Table,5,12000,Credit Card,Returned
+TXN100745,10-06-2025,CUST1606,Renee Golla,Male,20,Delhi,Delhi,HP Laptop,Electronics,Laptop,1,72000,Debit Card,Delivered
+TXN100746,05-05-2025,CUST1510,Samarth Karnik,Female,38,Bengaluru,Karnataka,iPhone 14,Electronics,Mobile,5,65000,Cash,Cancelled
+TXN100747,12-11-2025,CUST1456,Drishya Sarkar,Male,46,Pune,Maharashtra,Samsung Galaxy S22,Electronics,Mobile,2,58000,UPI,Cancelled
+TXN100748,2025/12/19,CUST1419,Neelofar Atwal,Female,29,Mumbai,Maharashtra,Samsung Galaxy S22,Electronics,Mobile,3,58000,Credit Card,Returned
+TXN100749,2025/01/06,CUST1311,Ivana Ghose,Male,19,Hyderabad,Telangana,Sony Headphones,Electronics,Accessories,2,5000,Cash,Returned
+TXN100750,2025/07/29,CUST1013,Kimaya Basak,Male,46,Bengaluru,Karnataka,Nike Shoes,Fashion,Footwear,1,4500,Debit Card,Delivered
+TXN100751,16-06-2025,CUST1735,Nirvi Kakar,Female,32,Hyderabad,Telangana,iPhone 14,Electronics,Mobile,5,65000,Credit Card,Cancelled
+TXN100752,2025/11/16,CUST1355,Yuvaan Sibal,Female,28,Chennai,Tamil Nadu,iPhone 14,Electronics,Mobile,3,65000,UPI,Cancelled
+TXN100753,03-07-2025,CUST1861,Siya Trivedi,Female,19,Delhi,Delhi,Wooden Table,Furniture,Table,4,12000,Credit Card,Returned
+TXN100754,2025/10/19,CUST1557,Kiara Aggarwal,Male,44,Pune,Maharashtra,Adidas T-Shirt,Fashion,Clothing,4,1800,UPI,Delivered
+TXN100755,2025/03/29,CUST1127,Darshit Viswanathan,Female,42,Kolkata,West Bengal,Nike Shoes,Fashion,Footwear,1,4500,Credit Card,Returned
+TXN100756,2025/06/12,CUST1934,Armaan Walla,Female,58,Delhi,Delhi,Wooden Table,Furniture,Table,4,12000,Credit Card,Returned
+TXN100757,2025/01/17,CUST1960,Sahil Dora,Male,48,Mumbai,Maharashtra,Nike Shoes,Fashion,Footwear,1,4500,UPI,Returned
+TXN100758,2025/09/25,CUST1821,Charvi Sandal,Male,29,Chennai,Tamil Nadu,Nike Shoes,Fashion,Footwear,5,4500,Credit Card,Delivered
+TXN100759,2025/09/18,CUST1197,Misha Kota,Female,33,Hyderabad,Telangana,iPhone 14,Electronics,Mobile,4,65000,Credit Card,Cancelled
+TXN100760,2025/01/20,CUST1090,Advik Jha,Male,57,Chennai,Tamil Nadu,Adidas T-Shirt,Fashion,Clothing,3,1800,UPI,Cancelled
+TXN100761,14-03-2025,CUST1731,Madhup Kale,Female,37,Chennai,Tamil Nadu,Nike Shoes,Fashion,Footwear,3,4500,Credit Card,Returned
+TXN100762,21-06-2025,CUST1857,Yuvaan Comar,Male,52,Kolkata,West Bengal,Samsung Galaxy S22,Electronics,Mobile,4,58000,UPI,Delivered
+TXN100763,08-08-2025,CUST1899,Riaan Boase,Female,34,Mumbai,Maharashtra,Nike Shoes,Fashion,Footwear,2,4500,UPI,Cancelled
+TXN100764,2025/04/17,CUST1351,Stuvan Kulkarni,Female,58,Bengaluru,Karnataka,iPhone 14,Electronics,Mobile,1,65000,UPI,Returned
+TXN100765,2025/07/13,CUST1599,Anika Grewal,Male,25,Pune,Maharashtra,Wooden Table,Furniture,Table,1,12000,Cash,Delivered
+TXN100766,26-10-2025,CUST1182,Amira Choudhry,Male,25,Hyderabad,Telangana,Adidas T-Shirt,Fashion,Clothing,3,1800,Credit Card,Cancelled
+TXN100767,2025/11/28,CUST1558,Ojas Kunda,Female,23,Bengaluru,Karnataka,Wooden Table,Furniture,Table,4,12000,Cash,Cancelled
+TXN100768,09-05-2025,CUST1322,Navya Bhagat,Female,21,Chennai,Tamil Nadu,HP Laptop,Electronics,Laptop,4,72000,Debit Card,Delivered
+TXN100769,15-10-2025,CUST1855,Misha Dewan,Male,24,Hyderabad,Telangana,Adidas T-Shirt,Fashion,Clothing,3,1800,Debit Card,Cancelled
+TXN100770,28-12-2025,CUST1161,Tarini Hayre,Male,47,Pune,Maharashtra,Adidas T-Shirt,Fashion,Clothing,3,1800,Cash,Cancelled
+TXN100771,24-11-2025,CUST1209,Divit Boase,Female,39,Mumbai,Maharashtra,Samsung Galaxy S22,Electronics,Mobile,1,58000,Cash,Cancelled
+TXN100772,2025/10/12,CUST1838,Anay Bawa,Male,24,Hyderabad,Telangana,Adidas T-Shirt,Fashion,Clothing,4,1800,Debit Card,Cancelled
+TXN100773,2025/12/29,CUST1515,Nakul Sarkar,Female,32,Delhi,Delhi,Samsung Galaxy S22,Electronics,Mobile,4,58000,Credit Card,Delivered
+TXN100774,08-01-2025,CUST1046,Misha Chaudhary,Female,25,Bengaluru,Karnataka,Nike Shoes,Fashion,Footwear,1,4500,Credit Card,Delivered
+TXN100775,2025/10/13,CUST1700,Dhanuk Chanda,Male,21,Bengaluru,Karnataka,Adidas T-Shirt,Fashion,Clothing,3,1800,Credit Card,Cancelled
+TXN100776,20-09-2025,CUST1632,Dhanuk Toor,Female,23,Hyderabad,Telangana,iPhone 14,Electronics,Mobile,4,65000,UPI,Delivered
+TXN100777,2025/09/23,CUST1923,Jayesh Varty,Male,29,Mumbai,Maharashtra,Adidas T-Shirt,Fashion,Clothing,5,1800,Cash,Delivered
+TXN100778,2025/02/27,CUST1180,Ranbir Shenoy,Male,38,Pune,Maharashtra,Wooden Table,Furniture,Table,4,12000,Cash,Cancelled
+TXN100779,03-02-2025,CUST1861,Nirvaan Khare,Male,30,Kolkata,West Bengal,Sony Headphones,Electronics,Accessories,5,5000,UPI,Delivered
+TXN100780,21-05-2025,CUST1550,Lakshit Mane,Female,43,Chennai,Tamil Nadu,Sony Headphones,Electronics,Accessories,1,5000,UPI,Delivered
+TXN100781,2025/04/28,CUST1668,Romil Gill,Female,37,Bengaluru,Karnataka,Samsung Galaxy S22,Electronics,Mobile,2,58000,Debit Card,Cancelled
+TXN100782,03-07-2025,CUST1365,Vidur Subramaniam,Female,50,Delhi,Delhi,Sony Headphones,Electronics,Accessories,1,5000,UPI,Returned
+TXN100783,2025/03/22,CUST1006,Amani Ratta,Male,31,Kolkata,West Bengal,Nike Shoes,Fashion,Footwear,5,4500,Credit Card,Cancelled
+TXN100784,2025/09/11,CUST1989,Mamooty Chahal,Female,31,Chennai,Tamil Nadu,iPhone 14,Electronics,Mobile,4,65000,Cash,Returned
+TXN100785,18-01-2025,CUST1064,Jayan Lala,Male,33,Chennai,Tamil Nadu,Wooden Table,Furniture,Table,3,12000,UPI,Returned
+TXN100786,2025/09/22,CUST1589,Lakshit Chawla,Female,49,Kolkata,West Bengal,Nike Shoes,Fashion,Footwear,2,4500,Cash,Delivered
+TXN100787,11-01-2025,CUST1661,Aayush Lata,Female,54,Pune,Maharashtra,HP Laptop,Electronics,Laptop,2,72000,Debit Card,Cancelled
+TXN100788,31-08-2025,CUST1717,Adah Ahluwalia,Male,32,Delhi,Delhi,iPhone 14,Electronics,Mobile,1,65000,Credit Card,Cancelled
+TXN100789,2025/04/09,CUST1402,Vritika Bera,Female,58,Bengaluru,Karnataka,Samsung Galaxy S22,Electronics,Mobile,1,58000,Credit Card,Returned
+TXN100790,06-07-2025,CUST1623,Stuvan Mane,Female,34,Mumbai,Maharashtra,Sony Headphones,Electronics,Accessories,2,5000,Cash,Cancelled
+TXN100791,2025/08/15,CUST1553,Alia Mani,Male,28,Kolkata,West Bengal,iPhone 14,Electronics,Mobile,2,65000,Debit Card,Cancelled
+TXN100792,23-02-2025,CUST1976,Shalv Sarna,Male,39,Chennai,Tamil Nadu,Adidas T-Shirt,Fashion,Clothing,1,1800,Credit Card,Returned
+TXN100793,12-07-2025,CUST1063,Saira Bal,Female,58,Hyderabad,Telangana,Samsung Galaxy S22,Electronics,Mobile,1,58000,Credit Card,Cancelled
+TXN100794,2025/03/23,CUST1964,Ela Chhabra,Male,46,Hyderabad,Telangana,Wooden Table,Furniture,Table,3,12000,Cash,Cancelled
+TXN100795,10-05-2025,CUST1834,Raghav Sant,Male,36,Pune,Maharashtra,Nike Shoes,Fashion,Footwear,1,4500,Credit Card,Cancelled
+TXN100796,30-12-2025,CUST1093,Stuvan Kumar,Female,30,Pune,Maharashtra,Wooden Table,Furniture,Table,5,12000,Credit Card,Delivered
+TXN100797,2025/02/02,CUST1239,Yasmin Dar,Female,35,Pune,Maharashtra,Samsung Galaxy S22,Electronics,Mobile,3,58000,Debit Card,Cancelled
+TXN100798,31-10-2025,CUST1494,Purab Yadav,Male,58,Delhi,Delhi,HP Laptop,Electronics,Laptop,3,72000,Debit Card,Cancelled
+TXN100799,10-10-2025,CUST1418,Jhanvi Biswas,Female,27,Delhi,Delhi,Samsung Galaxy S22,Electronics,Mobile,5,58000,Cash,Delivered
+TXN100800,06-12-2025,CUST1347,Anaya Zacharia,Female,51,Kolkata,West Bengal,iPhone 14,Electronics,Mobile,3,65000,Credit Card,Delivered
+TXN100801,01-11-2025,CUST1555,Neysa Ram,Male,19,Mumbai,Maharashtra,Nike Shoes,Fashion,Footwear,1,4500,Debit Card,Cancelled
+TXN100802,2025/04/23,CUST1817,Aarush Srinivas,Female,35,Chennai,Tamil Nadu,Nike Shoes,Fashion,Footwear,5,4500,Credit Card,Delivered
+TXN100803,14-03-2025,CUST1715,Shaan Dixit,Female,47,Hyderabad,Telangana,iPhone 14,Electronics,Mobile,2,65000,Credit Card,Delivered
+TXN100804,16-05-2025,CUST1528,Tanya Sen,Male,26,Bengaluru,Karnataka,Samsung Galaxy S22,Electronics,Mobile,1,58000,Debit Card,Returned
+TXN100805,2025/04/29,CUST1888,Prisha Hayer,Male,28,Chennai,Tamil Nadu,Wooden Table,Furniture,Table,5,12000,Cash,Returned
+TXN100806,11-05-2025,CUST1990,Abram Master,Male,39,Mumbai,Maharashtra,HP Laptop,Electronics,Laptop,2,72000,UPI,Cancelled
+TXN100807,2025/08/05,CUST1170,Divyansh Dara,Female,40,Delhi,Delhi,Wooden Table,Furniture,Table,5,12000,Credit Card,Returned
+TXN100808,2025/08/02,CUST1826,Anika Dugar,Female,30,Kolkata,West Bengal,Nike Shoes,Fashion,Footwear,2,4500,Debit Card,Delivered
+TXN100809,2025/09/27,CUST1775,Taimur Bath,Female,43,Mumbai,Maharashtra,Wooden Table,Furniture,Table,1,12000,Debit Card,Cancelled
+TXN100810,2025/08/03,CUST1523,Sana Ghosh,Female,29,Mumbai,Maharashtra,Sony Headphones,Electronics,Accessories,1,5000,Cash,Returned
+TXN100811,18-07-2025,CUST1190,Vedika Ratti,Female,60,Mumbai,Maharashtra,Sony Headphones,Electronics,Accessories,4,5000,Cash,Returned
+TXN100812,02-11-2025,CUST1858,Misha Bhatt,Female,52,Chennai,Tamil Nadu,Sony Headphones,Electronics,Accessories,5,5000,Debit Card,Cancelled
+TXN100813,26-05-2025,CUST1280,Nehmat Kulkarni,Male,47,Kolkata,West Bengal,Nike Shoes,Fashion,Footwear,1,4500,Cash,Cancelled
+TXN100814,2025/10/18,CUST1055,Zaina Kara,Female,18,Hyderabad,Telangana,HP Laptop,Electronics,Laptop,2,72000,Debit Card,Delivered
+TXN100815,18-05-2025,CUST1910,Neelofar Soni,Male,51,Bengaluru,Karnataka,Samsung Galaxy S22,Electronics,Mobile,5,58000,Debit Card,Delivered
+TXN100816,2025/06/21,CUST1892,Alia Sarin,Female,52,Pune,Maharashtra,Samsung Galaxy S22,Electronics,Mobile,3,58000,UPI,Returned
+TXN100817,2025/12/07,CUST1325,Veer Karpe,Female,46,Bengaluru,Karnataka,Samsung Galaxy S22,Electronics,Mobile,2,58000,Debit Card,Cancelled
+TXN100818,2025/03/07,CUST1377,Tarini Joshi,Female,25,Mumbai,Maharashtra,Sony Headphones,Electronics,Accessories,5,5000,Credit Card,Delivered
+TXN100819,2025/06/18,CUST1410,Manikya Johal,Male,38,Hyderabad,Telangana,iPhone 14,Electronics,Mobile,5,65000,UPI,Returned
+TXN100820,2025/06/29,CUST1962,Anay Shankar,Female,32,Bengaluru,Karnataka,HP Laptop,Electronics,Laptop,1,72000,Cash,Returned
+TXN100821,2025/03/20,CUST1848,Mehul Dey,Female,30,Pune,Maharashtra,iPhone 14,Electronics,Mobile,5,65000,Debit Card,Cancelled
+TXN100822,2025/01/19,CUST1944,Tara Sha,Male,40,Delhi,Delhi,HP Laptop,Electronics,Laptop,1,72000,Debit Card,Returned
+TXN100823,27-06-2025,CUST1364,Miraan Vig,Female,43,Hyderabad,Telangana,Wooden Table,Furniture,Table,2,12000,Debit Card,Cancelled
+TXN100824,2025/01/09,CUST1176,Taimur Dalal,Male,58,Pune,Maharashtra,HP Laptop,Electronics,Laptop,3,72000,Debit Card,Cancelled
+TXN100825,19-03-2025,CUST1291,Mahika Raju,Male,47,Delhi,Delhi,Samsung Galaxy S22,Electronics,Mobile,4,58000,Debit Card,Delivered
+TXN100826,2025/12/03,CUST1275,Dhruv Sarkar,Male,35,Hyderabad,Telangana,iPhone 14,Electronics,Mobile,2,65000,UPI,Returned
+TXN100827,10-01-2025,CUST1218,Hazel Goswami,Male,32,Delhi,Delhi,iPhone 14,Electronics,Mobile,1,65000,UPI,Returned
+TXN100828,29-01-2025,CUST1789,Shayak Chaudhry,Female,49,Mumbai,Maharashtra,Samsung Galaxy S22,Electronics,Mobile,1,58000,Credit Card,Returned
+TXN100829,2025/05/02,CUST1408,Riaan Shenoy,Female,25,Kolkata,West Bengal,HP Laptop,Electronics,Laptop,4,72000,Debit Card,Delivered
+TXN100830,2025/05/17,CUST1321,Trisha Lal,Female,19,Delhi,Delhi,Adidas T-Shirt,Fashion,Clothing,4,1800,Debit Card,Delivered
+TXN100831,12-01-2025,CUST1019,Pranay Grewal,Male,49,Hyderabad,Telangana,Nike Shoes,Fashion,Footwear,5,4500,UPI,Delivered
+TXN100832,2025/11/19,CUST1640,Mahika Chaudhuri,Male,40,Chennai,Tamil Nadu,Wooden Table,Furniture,Table,3,12000,Cash,Cancelled
+TXN100833,25-12-2025,CUST1690,Uthkarsh Kari,Female,35,Chennai,Tamil Nadu,Adidas T-Shirt,Fashion,Clothing,5,1800,UPI,Returned
+TXN100834,26-06-2025,CUST1384,Inaaya  Dasgupta,Male,45,Chennai,Tamil Nadu,Wooden Table,Furniture,Table,3,12000,UPI,Cancelled
+TXN100835,2025/05/08,CUST1482,Raunak Sanghvi,Female,44,Pune,Maharashtra,Nike Shoes,Fashion,Footwear,1,4500,Credit Card,Delivered
+TXN100836,05-04-2025,CUST1077,Zaina Lala,Male,50,Pune,Maharashtra,Sony Headphones,Electronics,Accessories,3,5000,UPI,Returned
+TXN100837,10-02-2025,CUST1198,Badal Varma,Male,23,Chennai,Tamil Nadu,HP Laptop,Electronics,Laptop,3,72000,Credit Card,Cancelled
+TXN100838,2025/11/03,CUST1228,Manikya Chawla,Female,49,Kolkata,West Bengal,Samsung Galaxy S22,Electronics,Mobile,2,58000,UPI,Returned
+TXN100839,01-08-2025,CUST1136,Jiya Lanka,Male,19,Chennai,Tamil Nadu,Samsung Galaxy S22,Electronics,Mobile,3,58000,UPI,Delivered
+TXN100840,2025/09/13,CUST1209,Nehmat Sagar,Male,32,Bengaluru,Karnataka,HP Laptop,Electronics,Laptop,2,72000,Debit Card,Delivered
+TXN100841,2025/11/26,CUST1841,Lakshit Saha,Female,26,Hyderabad,Telangana,Nike Shoes,Fashion,Footwear,4,4500,UPI,Cancelled
+TXN100842,28-08-2025,CUST1769,Arnav Sastry,Female,40,Chennai,Tamil Nadu,Nike Shoes,Fashion,Footwear,4,4500,UPI,Delivered
+TXN100843,17-03-2025,CUST1738,Riaan Bhattacharyya,Female,46,Mumbai,Maharashtra,iPhone 14,Electronics,Mobile,1,65000,Cash,Delivered
+TXN100844,12-06-2025,CUST1838,Sana Sheth,Female,27,Kolkata,West Bengal,Adidas T-Shirt,Fashion,Clothing,5,1800,Debit Card,Cancelled
+TXN100845,2025/12/11,CUST1381,Kartik Sarkar,Female,31,Kolkata,West Bengal,Nike Shoes,Fashion,Footwear,2,4500,Credit Card,Returned
+TXN100846,10-09-2025,CUST1087,Hunar Sastry,Female,24,Delhi,Delhi,Nike Shoes,Fashion,Footwear,3,4500,Credit Card,Cancelled
+TXN100847,2025/05/31,CUST1757,Khushi Srinivas,Male,20,Pune,Maharashtra,iPhone 14,Electronics,Mobile,4,65000,UPI,Returned
+TXN100848,2025/02/06,CUST1535,Shray Das,Male,35,Mumbai,Maharashtra,Sony Headphones,Electronics,Accessories,2,5000,UPI,Cancelled
+TXN100849,2025/02/09,CUST1993,Aarush Tara,Female,56,Hyderabad,Telangana,HP Laptop,Electronics,Laptop,3,72000,Cash,Cancelled
+TXN100850,2025/05/29,CUST1302,Tanya Sachdeva,Female,22,Pune,Maharashtra,iPhone 14,Electronics,Mobile,2,65000,Debit Card,Delivered
+TXN100851,2025/08/18,CUST1516,Tejas Sodhi,Female,56,Pune,Maharashtra,iPhone 14,Electronics,Mobile,3,65000,UPI,Returned
+TXN100852,2025/08/27,CUST1756,Armaan Ganesan,Female,18,Delhi,Delhi,Adidas T-Shirt,Fashion,Clothing,2,1800,UPI,Delivered
+TXN100853,2025/12/27,CUST1150,Drishya Chokshi,Male,30,Delhi,Delhi,Sony Headphones,Electronics,Accessories,2,5000,Debit Card,Delivered
+TXN100854,2025/11/04,CUST1908,Madhav Boase,Female,37,Mumbai,Maharashtra,Sony Headphones,Electronics,Accessories,3,5000,Cash,Cancelled
+TXN100855,2025/06/26,CUST1020,Neelofar Tata,Female,57,Delhi,Delhi,HP Laptop,Electronics,Laptop,4,72000,Cash,Cancelled
+TXN100856,31-03-2025,CUST1497,Yuvraj  Bora,Female,32,Hyderabad,Telangana,Nike Shoes,Fashion,Footwear,1,4500,UPI,Returned
+TXN100857,2025/09/09,CUST1712,Heer Bahri,Male,32,Kolkata,West Bengal,HP Laptop,Electronics,Laptop,3,72000,Debit Card,Cancelled
+TXN100858,08-10-2025,CUST1262,Ryan Jain,Female,44,Bengaluru,Karnataka,Adidas T-Shirt,Fashion,Clothing,3,1800,Cash,Returned
+TXN100859,2025/08/25,CUST1469,Umang Tandon,Male,29,Kolkata,West Bengal,Nike Shoes,Fashion,Footwear,4,4500,Credit Card,Delivered
+TXN100860,06-08-2025,CUST1681,Tejas Mammen,Female,41,Bengaluru,Karnataka,Wooden Table,Furniture,Table,3,12000,Credit Card,Cancelled
+TXN100861,21-05-2025,CUST1604,Hiran D’Alia,Male,35,Kolkata,West Bengal,HP Laptop,Electronics,Laptop,3,72000,UPI,Delivered
+TXN100862,02-07-2025,CUST1912,Madhup Bhat,Female,26,Chennai,Tamil Nadu,Sony Headphones,Electronics,Accessories,5,5000,Credit Card,Cancelled
+TXN100863,26-03-2025,CUST1471,Kavya Bhalla,Male,50,Delhi,Delhi,Samsung Galaxy S22,Electronics,Mobile,3,58000,Debit Card,Cancelled
+TXN100864,22-02-2025,CUST1674,Hrishita Vora,Male,22,Bengaluru,Karnataka,Sony Headphones,Electronics,Accessories,2,5000,Credit Card,Delivered
+TXN100865,2025/01/14,CUST1679,Lavanya Cheema,Male,60,Mumbai,Maharashtra,Wooden Table,Furniture,Table,5,12000,UPI,Returned
+TXN100866,23-12-2025,CUST1490,Riya Walla,Male,50,Chennai,Tamil Nadu,Adidas T-Shirt,Fashion,Clothing,2,1800,Debit Card,Returned
+TXN100867,2025/01/26,CUST1029,Nehmat Badal,Male,45,Bengaluru,Karnataka,HP Laptop,Electronics,Laptop,4,72000,Cash,Returned
+TXN100868,2025/09/14,CUST1927,Yuvraj  Tripathi,Female,54,Mumbai,Maharashtra,Wooden Table,Furniture,Table,2,12000,Cash,Cancelled
+TXN100869,28-06-2025,CUST1273,Rati Badami,Male,50,Hyderabad,Telangana,Wooden Table,Furniture,Table,1,12000,Credit Card,Cancelled
+TXN100870,2025/11/24,CUST1904,Kimaya Agrawal,Female,47,Hyderabad,Telangana,Sony Headphones,Electronics,Accessories,1,5000,Cash,Returned
+TXN100871,02-03-2025,CUST1202,Kaira Khalsa,Female,58,Hyderabad,Telangana,HP Laptop,Electronics,Laptop,5,72000,Debit Card,Delivered
+TXN100872,2025/10/10,CUST1976,Ojas Magar,Male,60,Delhi,Delhi,iPhone 14,Electronics,Mobile,3,65000,UPI,Delivered
+TXN100873,2025/10/25,CUST1847,Myra Bava,Female,19,Mumbai,Maharashtra,Nike Shoes,Fashion,Footwear,1,4500,Credit Card,Returned
+TXN100874,2025/03/27,CUST1162,Anika Ravi,Female,36,Delhi,Delhi,HP Laptop,Electronics,Laptop,2,72000,Debit Card,Returned
+TXN100875,19-06-2025,CUST1180,Jayant Zachariah,Male,51,Kolkata,West Bengal,iPhone 14,Electronics,Mobile,4,65000,UPI,Cancelled
+TXN100876,04-05-2025,CUST1672,Shamik Kapur,Female,31,Bengaluru,Karnataka,Sony Headphones,Electronics,Accessories,4,5000,Credit Card,Cancelled
+TXN100877,06-07-2025,CUST1023,Eva Singhal,Male,57,Kolkata,West Bengal,Wooden Table,Furniture,Table,3,12000,Credit Card,Cancelled
+TXN100878,26-10-2025,CUST1915,Alia Halder,Male,35,Delhi,Delhi,Wooden Table,Furniture,Table,3,12000,Cash,Cancelled
+TXN100879,31-10-2025,CUST1452,Pari Sampath,Male,41,Pune,Maharashtra,iPhone 14,Electronics,Mobile,5,65000,Debit Card,Returned
+TXN100880,07-03-2025,CUST1073,Aayush Dixit,Female,56,Bengaluru,Karnataka,Adidas T-Shirt,Fashion,Clothing,5,1800,Credit Card,Returned
+TXN100881,2025/03/03,CUST1227,Eshani Kalla,Male,35,Kolkata,West Bengal,iPhone 14,Electronics,Mobile,4,65000,Debit Card,Returned
+TXN100882,2025/05/11,CUST1410,Dishani Tara,Male,53,Delhi,Delhi,Nike Shoes,Fashion,Footwear,2,4500,Credit Card,Delivered
+TXN100883,02-12-2025,CUST1433,Dharmajan Jhaveri,Male,38,Bengaluru,Karnataka,Samsung Galaxy S22,Electronics,Mobile,1,58000,UPI,Returned
+TXN100884,03-07-2025,CUST1817,Mannat Upadhyay,Male,43,Pune,Maharashtra,Sony Headphones,Electronics,Accessories,1,5000,Cash,Returned
+TXN100885,2025/05/19,CUST1914,Jiya Chopra,Male,52,Delhi,Delhi,Adidas T-Shirt,Fashion,Clothing,3,1800,Cash,Cancelled
+TXN100886,2025/11/05,CUST1292,Adira Chaudhuri,Male,36,Hyderabad,Telangana,Adidas T-Shirt,Fashion,Clothing,2,1800,UPI,Returned
+TXN100887,2025/11/30,CUST1076,Hrishita De,Male,48,Pune,Maharashtra,Wooden Table,Furniture,Table,1,12000,Cash,Delivered
+TXN100888,2025/02/02,CUST1263,Myra Dasgupta,Female,43,Pune,Maharashtra,Nike Shoes,Fashion,Footwear,4,4500,Credit Card,Cancelled
+TXN100889,01-05-2025,CUST1741,Shray Wali,Male,33,Chennai,Tamil Nadu,Adidas T-Shirt,Fashion,Clothing,2,1800,Debit Card,Returned
+TXN100890,14-01-2025,CUST1755,Drishya Sheth,Female,34,Hyderabad,Telangana,Adidas T-Shirt,Fashion,Clothing,1,1800,Cash,Delivered
+TXN100891,2025/01/09,CUST1617,Aayush Sahota,Male,59,Bengaluru,Karnataka,Wooden Table,Furniture,Table,4,12000,Credit Card,Returned
+TXN100892,2025/07/31,CUST1994,Romil Sachdeva,Male,52,Delhi,Delhi,Nike Shoes,Fashion,Footwear,3,4500,Cash,Cancelled
+TXN100893,2025/06/05,CUST1189,Misha Rout,Male,46,Pune,Maharashtra,Nike Shoes,Fashion,Footwear,3,4500,UPI,Returned
+TXN100894,2025/08/06,CUST1632,Fateh Tripathi,Male,27,Chennai,Tamil Nadu,Samsung Galaxy S22,Electronics,Mobile,5,58000,UPI,Delivered
+TXN100895,2025/12/06,CUST1375,Adah Chahal,Female,44,Delhi,Delhi,iPhone 14,Electronics,Mobile,5,65000,Credit Card,Returned
+TXN100896,2025/06/11,CUST1296,Biju Sinha,Male,28,Pune,Maharashtra,Adidas T-Shirt,Fashion,Clothing,5,1800,Debit Card,Cancelled
+TXN100897,2025/08/22,CUST1996,Oorja Lad,Female,38,Hyderabad,Telangana,Nike Shoes,Fashion,Footwear,2,4500,Credit Card,Returned
+TXN100898,2025/01/21,CUST1391,Kimaya Ganesh,Female,23,Chennai,Tamil Nadu,Adidas T-Shirt,Fashion,Clothing,4,1800,Cash,Returned
+TXN100899,2025/03/01,CUST1554,Anvi Hayer,Male,59,Kolkata,West Bengal,Samsung Galaxy S22,Electronics,Mobile,4,58000,UPI,Delivered
+TXN100900,2025/06/16,CUST1619,Dishani Rajagopalan,Female,45,Hyderabad,Telangana,Wooden Table,Furniture,Table,5,12000,UPI,Returned
+TXN100901,08-03-2025,CUST1513,Vihaan Ganguly,Male,28,Pune,Maharashtra,Nike Shoes,Fashion,Footwear,1,4500,Debit Card,Cancelled
+TXN100902,2025/09/06,CUST1269,Mishti Kannan,Female,43,Bengaluru,Karnataka,iPhone 14,Electronics,Mobile,2,65000,Cash,Returned
+TXN100903,2025/10/09,CUST1398,Sana Taneja,Male,32,Delhi,Delhi,Wooden Table,Furniture,Table,4,12000,Credit Card,Returned
+TXN100904,2025/06/25,CUST1548,Mahika Manne,Female,26,Hyderabad,Telangana,Samsung Galaxy S22,Electronics,Mobile,5,58000,Debit Card,Cancelled
+TXN100905,02-03-2025,CUST1527,Fateh Sehgal,Female,41,Pune,Maharashtra,HP Laptop,Electronics,Laptop,2,72000,Credit Card,Cancelled
+TXN100906,24-06-2025,CUST1517,Tara Reddy,Male,47,Bengaluru,Karnataka,Sony Headphones,Electronics,Accessories,1,5000,Credit Card,Delivered
+TXN100907,2025/07/26,CUST1543,Ryan Tak,Male,33,Pune,Maharashtra,Nike Shoes,Fashion,Footwear,3,4500,Cash,Delivered
+TXN100908,29-03-2025,CUST1343,Indrans Kant,Male,54,Chennai,Tamil Nadu,Sony Headphones,Electronics,Accessories,3,5000,Cash,Returned
+TXN100909,2025/04/18,CUST1947,Khushi Garg,Male,21,Hyderabad,Telangana,Samsung Galaxy S22,Electronics,Mobile,3,58000,UPI,Returned
+TXN100910,2025/05/18,CUST1449,Sahil Kala,Male,33,Bengaluru,Karnataka,Nike Shoes,Fashion,Footwear,2,4500,UPI,Returned
+TXN100911,2025/06/21,CUST1555,Kiaan Reddy,Male,41,Bengaluru,Karnataka,Adidas T-Shirt,Fashion,Clothing,3,1800,Cash,Returned
+TXN100912,2025/02/12,CUST1389,Anahi Dugar,Female,47,Chennai,Tamil Nadu,Wooden Table,Furniture,Table,1,12000,Cash,Cancelled
+TXN100913,21-01-2025,CUST1287,Saksham Tank,Female,30,Hyderabad,Telangana,Adidas T-Shirt,Fashion,Clothing,3,1800,Cash,Cancelled
+TXN100914,15-09-2025,CUST1355,Ahana  Tara,Male,27,Chennai,Tamil Nadu,iPhone 14,Electronics,Mobile,1,65000,Cash,Returned
+TXN100915,07-01-2025,CUST1447,Ranbir Chatterjee,Female,35,Chennai,Tamil Nadu,HP Laptop,Electronics,Laptop,2,72000,Cash,Delivered
+TXN100916,20-06-2025,CUST1444,Ira Karan,Male,20,Pune,Maharashtra,Nike Shoes,Fashion,Footwear,2,4500,Debit Card,Cancelled
+TXN100917,26-11-2025,CUST1093,Onkar Gour,Male,18,Hyderabad,Telangana,iPhone 14,Electronics,Mobile,3,65000,UPI,Delivered
+TXN100918,01-01-2026,CUST1566,Aarush Majumdar,Female,41,Hyderabad,Telangana,Sony Headphones,Electronics,Accessories,4,5000,Debit Card,Cancelled
+TXN100919,28-01-2025,CUST1332,Darshit Jha,Male,21,Kolkata,West Bengal,Sony Headphones,Electronics,Accessories,4,5000,Credit Card,Returned
+TXN100920,02-03-2025,CUST1361,Jayesh Dube,Female,60,Mumbai,Maharashtra,Samsung Galaxy S22,Electronics,Mobile,3,58000,Debit Card,Delivered
+TXN100921,15-10-2025,CUST1091,Nitara Sami,Female,52,Delhi,Delhi,HP Laptop,Electronics,Laptop,5,72000,Debit Card,Cancelled
+TXN100922,18-05-2025,CUST1713,Rohan Dhaliwal,Female,34,Pune,Maharashtra,Adidas T-Shirt,Fashion,Clothing,1,1800,UPI,Delivered
+TXN100923,14-12-2025,CUST1005,Vivaan Tata,Male,57,Chennai,Tamil Nadu,Sony Headphones,Electronics,Accessories,1,5000,Credit Card,Cancelled
+TXN100924,27-11-2025,CUST1662,Zeeshan Raja,Female,23,Hyderabad,Telangana,iPhone 14,Electronics,Mobile,3,65000,Cash,Cancelled
+TXN100925,29-05-2025,CUST1793,Vaibhav Konda,Male,52,Kolkata,West Bengal,Samsung Galaxy S22,Electronics,Mobile,4,58000,UPI,Returned
+TXN100926,2025/05/25,CUST1789,Saanvi Sachar,Female,60,Kolkata,West Bengal,Sony Headphones,Electronics,Accessories,1,5000,Cash,Returned
+TXN100927,2025/07/15,CUST1031,Arnav Yogi,Male,58,Pune,Maharashtra,Samsung Galaxy S22,Electronics,Mobile,5,58000,Debit Card,Cancelled
+TXN100928,2025/12/07,CUST1204,Tara Agarwal,Female,39,Kolkata,West Bengal,iPhone 14,Electronics,Mobile,2,65000,Debit Card,Cancelled
+TXN100929,04-11-2025,CUST1848,Manjari Ramesh,Female,48,Chennai,Tamil Nadu,iPhone 14,Electronics,Mobile,4,65000,Debit Card,Returned
+TXN100930,30-03-2025,CUST1034,Jayesh Luthra,Male,58,Kolkata,West Bengal,iPhone 14,Electronics,Mobile,2,65000,Debit Card,Delivered
+TXN100931,22-05-2025,CUST1129,Sumer Garde,Male,29,Bengaluru,Karnataka,Wooden Table,Furniture,Table,4,12000,UPI,Returned
+TXN100932,2025/08/11,CUST1909,Umang Hari,Female,51,Mumbai,Maharashtra,Nike Shoes,Fashion,Footwear,4,4500,UPI,Cancelled
+TXN100933,2025/12/05,CUST1044,Devansh Kade,Male,46,Hyderabad,Telangana,Adidas T-Shirt,Fashion,Clothing,4,1800,Cash,Returned
+TXN100934,2025/04/16,CUST1467,Hridaan Sarna,Male,54,Pune,Maharashtra,Wooden Table,Furniture,Table,3,12000,Credit Card,Returned
+TXN100935,23-10-2025,CUST1387,Oorja Mannan,Male,44,Hyderabad,Telangana,Samsung Galaxy S22,Electronics,Mobile,1,58000,UPI,Delivered
+TXN100936,2025/05/03,CUST1460,Hazel Dhaliwal,Female,34,Mumbai,Maharashtra,HP Laptop,Electronics,Laptop,1,72000,UPI,Delivered
+TXN100937,14-03-2025,CUST1525,Parinaaz Bhalla,Male,50,Hyderabad,Telangana,Sony Headphones,Electronics,Accessories,4,5000,UPI,Cancelled
+TXN100938,2025/05/02,CUST1492,Kartik Chandra,Male,55,Kolkata,West Bengal,Nike Shoes,Fashion,Footwear,5,4500,Debit Card,Cancelled
+TXN100939,2025/04/12,CUST1677,Yakshit Sastry,Male,34,Hyderabad,Telangana,Samsung Galaxy S22,Electronics,Mobile,2,58000,UPI,Cancelled
+TXN100940,2026/01/03,CUST1777,Pihu Badami,Male,40,Kolkata,West Bengal,Adidas T-Shirt,Fashion,Clothing,5,1800,UPI,Returned
+TXN100941,2025/08/07,CUST1659,Hridaan Jayaraman,Female,29,Pune,Maharashtra,Nike Shoes,Fashion,Footwear,5,4500,Debit Card,Cancelled
+TXN100942,2025/09/18,CUST1812,Vivaan Chadha,Male,57,Bengaluru,Karnataka,Sony Headphones,Electronics,Accessories,1,5000,Cash,Delivered
+TXN100943,23-07-2025,CUST1850,Prisha Mangal,Male,35,Mumbai,Maharashtra,HP Laptop,Electronics,Laptop,5,72000,Debit Card,Returned
+TXN100944,02-01-2026,CUST1907,Jayant Ganguly,Male,35,Kolkata,West Bengal,Samsung Galaxy S22,Electronics,Mobile,4,58000,Credit Card,Delivered
+TXN100945,2025/06/21,CUST1512,Jivin Amble,Female,51,Pune,Maharashtra,Adidas T-Shirt,Fashion,Clothing,5,1800,UPI,Returned
+TXN100946,01-11-2025,CUST1779,Samar Varkey,Female,52,Kolkata,West Bengal,Wooden Table,Furniture,Table,1,12000,Credit Card,Returned
+TXN100947,2025/01/29,CUST1255,Nirvi Rout,Female,37,Kolkata,West Bengal,Adidas T-Shirt,Fashion,Clothing,5,1800,Cash,Delivered
+TXN100948,2025/07/05,CUST1907,Tanya Bala,Male,52,Mumbai,Maharashtra,Wooden Table,Furniture,Table,2,12000,Cash,Cancelled
+TXN100949,2025/02/25,CUST1934,Hiran Roy,Male,45,Hyderabad,Telangana,Adidas T-Shirt,Fashion,Clothing,3,1800,UPI,Cancelled
+TXN100950,28-11-2025,CUST1395,Shanaya Kothari,Female,50,Mumbai,Maharashtra,Samsung Galaxy S22,Electronics,Mobile,4,58000,Credit Card,Returned
+TXN100951,14-08-2025,CUST1889,Bhamini Dalal,Male,46,Pune,Maharashtra,Nike Shoes,Fashion,Footwear,4,4500,UPI,Returned
+TXN100952,2025/08/19,CUST1636,Aarav Aurora,Female,58,Chennai,Tamil Nadu,Adidas T-Shirt,Fashion,Clothing,3,1800,Cash,Delivered
+TXN100953,12-06-2025,CUST1219,Shayak Sani,Female,53,Pune,Maharashtra,Adidas T-Shirt,Fashion,Clothing,2,1800,Credit Card,Cancelled
+TXN100954,2025/05/19,CUST1440,Veer Som,Female,51,Kolkata,West Bengal,Nike Shoes,Fashion,Footwear,2,4500,Cash,Returned
+TXN100955,19-08-2025,CUST1760,Fateh Kohli,Female,45,Kolkata,West Bengal,Nike Shoes,Fashion,Footwear,3,4500,Credit Card,Returned
+TXN100956,2025/04/25,CUST1202,Kismat Swaminathan,Female,40,Bengaluru,Karnataka,Samsung Galaxy S22,Electronics,Mobile,1,58000,Debit Card,Delivered
+TXN100957,19-02-2025,CUST1148,Sana Buch,Male,45,Delhi,Delhi,Samsung Galaxy S22,Electronics,Mobile,2,58000,Debit Card,Returned
+TXN100958,22-03-2025,CUST1091,Dharmajan Handa,Female,47,Pune,Maharashtra,HP Laptop,Electronics,Laptop,1,72000,Cash,Cancelled
+TXN100959,19-12-2025,CUST1729,Zaina Saxena,Female,54,Bengaluru,Karnataka,Nike Shoes,Fashion,Footwear,4,4500,UPI,Returned
+TXN100960,2025/04/17,CUST1717,Yashvi Chahal,Male,18,Chennai,Tamil Nadu,Samsung Galaxy S22,Electronics,Mobile,5,58000,UPI,Cancelled
+TXN100961,2025/09/14,CUST1050,Reyansh D’Alia,Female,46,Bengaluru,Karnataka,iPhone 14,Electronics,Mobile,4,65000,Cash,Delivered
+TXN100962,2025/05/06,CUST1202,Samiha Thaman,Male,46,Kolkata,West Bengal,Adidas T-Shirt,Fashion,Clothing,2,1800,Debit Card,Returned
+TXN100963,2025/02/19,CUST1384,Elakshi Atwal,Male,57,Kolkata,West Bengal,Sony Headphones,Electronics,Accessories,5,5000,Credit Card,Cancelled
+TXN100964,2025/11/04,CUST1239,Shamik Ravel,Male,29,Delhi,Delhi,iPhone 14,Electronics,Mobile,1,65000,UPI,Returned
+TXN100965,2025/05/04,CUST1354,Prerak Kaur,Female,43,Pune,Maharashtra,Wooden Table,Furniture,Table,4,12000,Credit Card,Cancelled
+TXN100966,2025/12/17,CUST1406,Pari Dyal,Male,56,Hyderabad,Telangana,iPhone 14,Electronics,Mobile,5,65000,UPI,Cancelled
+TXN100967,2025/11/27,CUST1233,Indrajit Sidhu,Female,31,Pune,Maharashtra,Nike Shoes,Fashion,Footwear,4,4500,Credit Card,Cancelled
+TXN100968,2025/06/19,CUST1167,Romil Dasgupta,Female,52,Hyderabad,Telangana,Nike Shoes,Fashion,Footwear,2,4500,UPI,Cancelled
+TXN100969,27-02-2025,CUST1078,Armaan Dhaliwal,Female,32,Chennai,Tamil Nadu,Sony Headphones,Electronics,Accessories,1,5000,Cash,Cancelled
+TXN100970,2025/03/28,CUST1780,Jayan Bajwa,Male,54,Bengaluru,Karnataka,Adidas T-Shirt,Fashion,Clothing,2,1800,Credit Card,Delivered
+TXN100971,03-07-2025,CUST1132,Sahil Tripathi,Female,29,Chennai,Tamil Nadu,Samsung Galaxy S22,Electronics,Mobile,1,58000,Credit Card,Delivered
+TXN100972,19-11-2025,CUST1239,Amani Contractor,Female,39,Chennai,Tamil Nadu,Samsung Galaxy S22,Electronics,Mobile,4,58000,Debit Card,Returned
+TXN100973,2025/01/27,CUST1181,Drishya Samra,Female,54,Mumbai,Maharashtra,Wooden Table,Furniture,Table,5,12000,Credit Card,Returned
+TXN100974,2025/05/16,CUST1896,Suhana Dugar,Male,33,Hyderabad,Telangana,Sony Headphones,Electronics,Accessories,3,5000,Credit Card,Delivered
+TXN100975,2025/02/24,CUST1364,Dharmajan Chakraborty,Male,50,Bengaluru,Karnataka,iPhone 14,Electronics,Mobile,4,65000,UPI,Cancelled
+TXN100976,2025/10/05,CUST1275,Mishti Shenoy,Male,57,Delhi,Delhi,Samsung Galaxy S22,Electronics,Mobile,5,58000,Debit Card,Cancelled
+TXN100977,2025/07/05,CUST1496,Vivaan Dayal,Female,57,Mumbai,Maharashtra,HP Laptop,Electronics,Laptop,1,72000,Cash,Returned
+TXN100978,2025/10/12,CUST1636,Tara Sengupta,Female,35,Mumbai,Maharashtra,Samsung Galaxy S22,Electronics,Mobile,4,58000,Cash,Cancelled
+TXN100979,10-12-2025,CUST1663,Umang Sarraf,Male,59,Hyderabad,Telangana,Wooden Table,Furniture,Table,1,12000,Debit Card,Returned
+TXN100980,31-03-2025,CUST1893,Piya Sem,Male,41,Chennai,Tamil Nadu,Adidas T-Shirt,Fashion,Clothing,2,1800,Credit Card,Returned
+TXN100981,23-09-2025,CUST1208,Taran Wali,Male,23,Chennai,Tamil Nadu,Samsung Galaxy S22,Electronics,Mobile,1,58000,Cash,Delivered
+TXN100982,20-06-2025,CUST1459,Eshani Shukla,Male,37,Bengaluru,Karnataka,Sony Headphones,Electronics,Accessories,3,5000,Cash,Returned
+TXN100983,06-02-2025,CUST1950,Advik Contractor,Female,60,Kolkata,West Bengal,Wooden Table,Furniture,Table,3,12000,Cash,Returned
+TXN100984,2025/11/03,CUST1123,Saanvi Bir,Female,31,Delhi,Delhi,Sony Headphones,Electronics,Accessories,1,5000,Debit Card,Returned
+TXN100985,21-10-2025,CUST1630,Rohan Iyengar,Male,38,Chennai,Tamil Nadu,Sony Headphones,Electronics,Accessories,1,5000,Credit Card,Returned
+TXN100986,22-03-2025,CUST1132,Raghav Bose,Female,30,Chennai,Tamil Nadu,Wooden Table,Furniture,Table,5,12000,UPI,Cancelled
+TXN100987,2025/05/04,CUST1679,Anahita Chad,Male,57,Chennai,Tamil Nadu,Adidas T-Shirt,Fashion,Clothing,4,1800,Cash,Returned
+TXN100988,09-05-2025,CUST1198,Alisha Aggarwal,Male,44,Mumbai,Maharashtra,Wooden Table,Furniture,Table,3,12000,Debit Card,Returned
+TXN100989,25-07-2025,CUST1531,Arhaan Saran,Male,34,Chennai,Tamil Nadu,Samsung Galaxy S22,Electronics,Mobile,2,58000,Cash,Delivered
+TXN100990,09-06-2025,CUST1421,Bhavin Ramakrishnan,Female,59,Delhi,Delhi,Wooden Table,Furniture,Table,2,12000,Debit Card,Cancelled
+TXN100991,2025/11/11,CUST1101,Hunar Devan,Female,28,Chennai,Tamil Nadu,Nike Shoes,Fashion,Footwear,4,4500,Debit Card,Returned
+TXN100992,13-10-2025,CUST1307,Hrishita Upadhyay,Female,47,Pune,Maharashtra,Nike Shoes,Fashion,Footwear,4,4500,UPI,Cancelled
+TXN100993,2025/05/11,CUST1128,Shanaya Kadakia,Male,55,Mumbai,Maharashtra,Samsung Galaxy S22,Electronics,Mobile,2,58000,Credit Card,Delivered
+TXN100994,2025/07/20,CUST1084,Vedika Gola,Female,56,Pune,Maharashtra,HP Laptop,Electronics,Laptop,4,72000,UPI,Delivered
+TXN100995,22-04-2025,CUST1259,Piya Agrawal,Female,41,Chennai,Tamil Nadu,iPhone 14,Electronics,Mobile,1,65000,Debit Card,Delivered
+TXN100996,29-09-2025,CUST1346,Vedika Lall,Female,24,Bengaluru,Karnataka,Sony Headphones,Electronics,Accessories,3,5000,Cash,Returned
+TXN100997,11-06-2025,CUST1872,Devansh Bhalla,Female,35,Mumbai,Maharashtra,Nike Shoes,Fashion,Footwear,3,4500,Credit Card,Cancelled
+TXN100998,27-06-2025,CUST1255,Jhanvi Handa,Female,30,Hyderabad,Telangana,HP Laptop,Electronics,Laptop,4,72000,Cash,Cancelled
+TXN100999,2025/12/17,CUST1788,Azad Sami,Female,54,Kolkata,West Bengal,Samsung Galaxy S22,Electronics,Mobile,3,58000,Debit Card,Cancelled
+TXN101000,2025/02/06,CUST1885,Jivika Agate,Male,33,Pune,Maharashtra,iPhone 14,Electronics,Mobile,4,65000,Cash,Returned
+TXN101001,2025/04/07,CUST1689,Divij D’Alia,Male,37,Mumbai,Maharashtra,Samsung Galaxy S22,Electronics,Mobile,3,58000,Debit Card,Delivered
+TXN101002,07-12-2025,CUST1263,Raghav Ben,Male,50,Hyderabad,Telangana,HP Laptop,Electronics,Laptop,4,72000,UPI,Cancelled
+TXN101003,21-05-2025,CUST1515,Amira Tripathi,Male,21,Delhi,Delhi,Sony Headphones,Electronics,Accessories,2,5000,Cash,Delivered
+TXN101004,2025/10/20,CUST1135,Adah Baria,Female,58,Mumbai,Maharashtra,Adidas T-Shirt,Fashion,Clothing,5,1800,Cash,Returned
+TXN101005,2025/05/25,CUST1755,Farhan Manne,Female,26,Pune,Maharashtra,Nike Shoes,Fashion,Footwear,3,4500,Credit Card,Returned
+TXN101006,23-05-2025,CUST1696,Armaan Dani,Male,49,Pune,Maharashtra,HP Laptop,Electronics,Laptop,3,72000,UPI,Cancelled
+TXN101007,08-02-2025,CUST1126,Samarth Iyer,Male,22,Bengaluru,Karnataka,Sony Headphones,Electronics,Accessories,3,5000,Cash,Cancelled
+TXN101008,2025/03/11,CUST1368,Zeeshan Gara,Female,48,Bengaluru,Karnataka,Wooden Table,Furniture,Table,1,12000,UPI,Delivered
+TXN101009,26-08-2025,CUST1072,Pari Dyal,Female,24,Bengaluru,Karnataka,Samsung Galaxy S22,Electronics,Mobile,3,58000,Cash,Cancelled
+TXN101010,11-11-2025,CUST1834,Ryan Sagar,Female,27,Mumbai,Maharashtra,Adidas T-Shirt,Fashion,Clothing,4,1800,Debit Card,Returned
+TXN101011,11-05-2025,CUST1086,Elakshi Yohannan,Male,39,Mumbai,Maharashtra,Adidas T-Shirt,Fashion,Clothing,5,1800,Credit Card,Returned
+TXN101012,25-03-2025,CUST1040,Abram Suresh,Male,42,Bengaluru,Karnataka,Wooden Table,Furniture,Table,1,12000,Cash,Returned
+TXN101013,2025/01/14,CUST1909,Inaaya  Chakrabarti,Male,34,Hyderabad,Telangana,Samsung Galaxy S22,Electronics,Mobile,2,58000,Cash,Delivered
+TXN101014,02-01-2026,CUST1456,Armaan Vyas,Female,49,Bengaluru,Karnataka,iPhone 14,Electronics,Mobile,4,65000,Credit Card,Returned
+TXN101015,23-04-2025,CUST1200,Urvi Sachdeva,Female,21,Kolkata,West Bengal,Wooden Table,Furniture,Table,2,12000,Credit Card,Delivered
+TXN101016,19-12-2025,CUST1946,Navya Kara,Male,18,Delhi,Delhi,Adidas T-Shirt,Fashion,Clothing,4,1800,Credit Card,Cancelled
+TXN101017,2025/10/19,CUST1981,Vanya Sodhi,Male,60,Delhi,Delhi,Wooden Table,Furniture,Table,4,12000,Cash,Cancelled
+TXN101018,21-12-2025,CUST1102,Ahana  Loyal,Male,55,Bengaluru,Karnataka,Samsung Galaxy S22,Electronics,Mobile,3,58000,UPI,Cancelled
+TXN101019,2025/10/15,CUST1529,Onkar Swaminathan,Male,59,Bengaluru,Karnataka,Wooden Table,Furniture,Table,1,12000,Cash,Cancelled
+TXN101020,2025/12/25,CUST1421,Kimaya Krish,Female,47,Mumbai,Maharashtra,iPhone 14,Electronics,Mobile,3,65000,Debit Card,Delivered
+TXN101021,17-04-2025,CUST1163,Zeeshan Saini,Male,34,Bengaluru,Karnataka,Nike Shoes,Fashion,Footwear,5,4500,Debit Card,Delivered
+TXN101022,2025/12/17,CUST1057,Saksham Gopal,Female,22,Mumbai,Maharashtra,Wooden Table,Furniture,Table,4,12000,Credit Card,Returned
+TXN101023,02-12-2025,CUST1925,Ishaan Salvi,Male,31,Kolkata,West Bengal,Sony Headphones,Electronics,Accessories,3,5000,Credit Card,Delivered
+TXN101024,2025/05/31,CUST1734,Manikya Bhatia,Male,27,Pune,Maharashtra,Sony Headphones,Electronics,Accessories,1,5000,Debit Card,Returned
+TXN101025,06-06-2025,CUST1871,Rati Goel,Male,32,Hyderabad,Telangana,Adidas T-Shirt,Fashion,Clothing,2,1800,UPI,Returned
+TXN101026,20-09-2025,CUST1689,Vanya Ray,Male,55,Kolkata,West Bengal,Wooden Table,Furniture,Table,3,12000,Credit Card,Returned
+TXN101027,25-12-2025,CUST1885,Abram Tailor,Female,48,Chennai,Tamil Nadu,HP Laptop,Electronics,Laptop,4,72000,UPI,Delivered
+TXN101028,2025/10/18,CUST1128,Yuvraj  Khosla,Male,54,Pune,Maharashtra,Samsung Galaxy S22,Electronics,Mobile,2,58000,Debit Card,Delivered
+TXN101029,02-03-2025,CUST1269,Amani Virk,Male,24,Delhi,Delhi,Sony Headphones,Electronics,Accessories,2,5000,UPI,Delivered
+TXN101030,2025/03/19,CUST1823,Keya Bahl,Female,47,Mumbai,Maharashtra,iPhone 14,Electronics,Mobile,4,65000,Cash,Returned
+TXN101031,2025/10/13,CUST1458,Yuvaan Dixit,Male,46,Bengaluru,Karnataka,Wooden Table,Furniture,Table,4,12000,Debit Card,Returned
+TXN101032,02-07-2025,CUST1788,Advik Bassi,Male,21,Bengaluru,Karnataka,Nike Shoes,Fashion,Footwear,4,4500,UPI,Delivered
+TXN101033,17-01-2025,CUST1233,Tejas Ganesan,Male,32,Mumbai,Maharashtra,Wooden Table,Furniture,Table,3,12000,Debit Card,Returned
+TXN101034,2025/01/10,CUST1589,Madhup Shroff,Female,23,Delhi,Delhi,Adidas T-Shirt,Fashion,Clothing,4,1800,Cash,Delivered
+TXN101035,23-01-2025,CUST1745,Umang Bhardwaj,Female,45,Kolkata,West Bengal,Adidas T-Shirt,Fashion,Clothing,3,1800,Credit Card,Returned
+TXN101036,07-06-2025,CUST1407,Anahita Kale,Female,37,Delhi,Delhi,Sony Headphones,Electronics,Accessories,3,5000,Cash,Returned
+TXN101037,2025/10/21,CUST1558,Anaya Shroff,Female,32,Bengaluru,Karnataka,Adidas T-Shirt,Fashion,Clothing,5,1800,Debit Card,Cancelled
+TXN101038,2025/10/30,CUST1059,Kabir Thakkar,Male,46,Kolkata,West Bengal,HP Laptop,Electronics,Laptop,5,72000,Cash,Cancelled
+TXN101039,2025/12/28,CUST1223,Dhanuk Deo,Male,53,Delhi,Delhi,iPhone 14,Electronics,Mobile,1,65000,Cash,Delivered
+TXN101040,04-03-2025,CUST1897,Anahi Sankar,Female,50,Kolkata,West Bengal,Nike Shoes,Fashion,Footwear,5,4500,Credit Card,Cancelled
+TXN101041,2025/05/13,CUST1407,Lakshit Gulati,Female,25,Kolkata,West Bengal,HP Laptop,Electronics,Laptop,1,72000,Debit Card,Delivered
+TXN101042,2025/05/19,CUST1715,Yuvaan Dayal,Male,23,Delhi,Delhi,Wooden Table,Furniture,Table,1,12000,Debit Card,Cancelled
+TXN101043,04-08-2025,CUST1881,Anay Ganesan,Female,40,Pune,Maharashtra,HP Laptop,Electronics,Laptop,5,72000,Credit Card,Returned
+TXN101044,05-04-2025,CUST1279,Kaira Ahluwalia,Male,22,Mumbai,Maharashtra,HP Laptop,Electronics,Laptop,1,72000,Debit Card,Delivered
+TXN101045,2025/05/02,CUST1417,Charvi Rege,Male,27,Delhi,Delhi,iPhone 14,Electronics,Mobile,4,65000,Cash,Returned
+TXN101046,01-03-2025,CUST1828,Jayant Dugar,Male,23,Delhi,Delhi,Samsung Galaxy S22,Electronics,Mobile,2,58000,Credit Card,Cancelled
+TXN101047,29-03-2025,CUST1681,Vivaan Agarwal,Male,57,Pune,Maharashtra,Adidas T-Shirt,Fashion,Clothing,4,1800,Cash,Returned
+TXN101048,20-05-2025,CUST1047,Kabir Krishna,Female,33,Chennai,Tamil Nadu,iPhone 14,Electronics,Mobile,3,65000,Debit Card,Cancelled
+TXN101049,2025/01/06,CUST1293,Arhaan Trivedi,Female,53,Mumbai,Maharashtra,Wooden Table,Furniture,Table,2,12000,Debit Card,Delivered
+TXN101050,2025/07/01,CUST1991,Vivaan Wagle,Female,36,Mumbai,Maharashtra,Wooden Table,Furniture,Table,5,12000,Credit Card,Cancelled
+TXN101051,21-09-2025,CUST1866,Onkar Setty,Female,35,Kolkata,West Bengal,Nike Shoes,Fashion,Footwear,4,4500,Cash,Cancelled
+TXN101052,02-03-2025,CUST1993,Ritvik Ganesan,Male,38,Delhi,Delhi,Nike Shoes,Fashion,Footwear,4,4500,Debit Card,Cancelled
+TXN101053,2025/12/15,CUST1873,Drishya Lall,Male,50,Hyderabad,Telangana,Nike Shoes,Fashion,Footwear,1,4500,Credit Card,Cancelled
+TXN101054,23-11-2025,CUST1763,Heer Dugal,Female,56,Pune,Maharashtra,Nike Shoes,Fashion,Footwear,3,4500,Cash,Returned
+TXN101055,2025/08/09,CUST1914,Neelofar Verma,Female,25,Pune,Maharashtra,HP Laptop,Electronics,Laptop,5,72000,Cash,Cancelled
+TXN101056,2025/09/15,CUST1309,Nitya Chanda,Female,31,Kolkata,West Bengal,Samsung Galaxy S22,Electronics,Mobile,5,58000,Credit Card,Delivered
+TXN101057,03-10-2025,CUST1701,Purab Choudhry,Female,49,Kolkata,West Bengal,HP Laptop,Electronics,Laptop,4,72000,Credit Card,Cancelled
+TXN101058,21-05-2025,CUST1620,Advik Anne,Male,32,Bengaluru,Karnataka,iPhone 14,Electronics,Mobile,1,65000,UPI,Delivered
+TXN101059,16-02-2025,CUST1228,Yuvraj  Raj,Male,26,Bengaluru,Karnataka,iPhone 14,Electronics,Mobile,5,65000,Debit Card,Returned
+TXN101060,2025/05/05,CUST1303,Zara Mand,Female,42,Hyderabad,Telangana,iPhone 14,Electronics,Mobile,5,65000,Credit Card,Returned
+TXN101061,2025/04/18,CUST1265,Purab Mand,Male,42,Kolkata,West Bengal,Wooden Table,Furniture,Table,2,12000,UPI,Delivered
+TXN101062,2025/07/25,CUST1064,Kashvi Mand,Male,49,Pune,Maharashtra,iPhone 14,Electronics,Mobile,5,65000,UPI,Returned
+TXN101063,26-07-2025,CUST1276,Mishti Bhasin,Female,34,Hyderabad,Telangana,Sony Headphones,Electronics,Accessories,2,5000,Debit Card,Returned
+TXN101064,2025/12/03,CUST1583,Kaira Sekhon,Male,54,Hyderabad,Telangana,iPhone 14,Electronics,Mobile,1,65000,UPI,Cancelled
+TXN101065,29-05-2025,CUST1761,Kanav Karan,Male,38,Pune,Maharashtra,HP Laptop,Electronics,Laptop,2,72000,Debit Card,Cancelled
+TXN101066,28-01-2025,CUST1236,Ryan Jha,Female,34,Chennai,Tamil Nadu,Nike Shoes,Fashion,Footwear,4,4500,Credit Card,Returned
+TXN101067,2025/10/11,CUST1574,Samar Choudhary,Male,57,Hyderabad,Telangana,iPhone 14,Electronics,Mobile,3,65000,UPI,Cancelled
+TXN101068,2025/12/23,CUST1011,Zoya Kaul,Female,49,Pune,Maharashtra,iPhone 14,Electronics,Mobile,3,65000,UPI,Cancelled
+TXN101069,27-10-2025,CUST1880,Gokul Dass,Female,30,Hyderabad,Telangana,Nike Shoes,Fashion,Footwear,4,4500,Debit Card,Delivered
+TXN101070,2025/05/10,CUST1912,Amira Dara,Female,30,Delhi,Delhi,Wooden Table,Furniture,Table,3,12000,Credit Card,Returned
+TXN101071,06-08-2025,CUST1381,Rhea Borde,Male,55,Kolkata,West Bengal,HP Laptop,Electronics,Laptop,2,72000,Cash,Returned
+TXN101072,18-11-2025,CUST1341,Sumer Dhar,Male,21,Pune,Maharashtra,HP Laptop,Electronics,Laptop,5,72000,UPI,Returned
+TXN101073,2025/06/25,CUST1423,Pihu Chada,Female,39,Delhi,Delhi,Nike Shoes,Fashion,Footwear,1,4500,Debit Card,Returned
+TXN101074,23-07-2025,CUST1402,Lakshay Kuruvilla,Female,42,Kolkata,West Bengal,Adidas T-Shirt,Fashion,Clothing,2,1800,Cash,Delivered
+TXN101075,26-04-2025,CUST1872,Parinaaz Seshadri,Male,52,Chennai,Tamil Nadu,Wooden Table,Furniture,Table,5,12000,Debit Card,Delivered
+TXN101076,16-05-2025,CUST1498,Abram Kale,Male,33,Delhi,Delhi,iPhone 14,Electronics,Mobile,1,65000,Credit Card,Delivered
+TXN101077,2025/02/26,CUST1618,Hrishita Das,Female,30,Mumbai,Maharashtra,Adidas T-Shirt,Fashion,Clothing,5,1800,Credit Card,Cancelled
+TXN101078,2025/03/28,CUST1609,Ishaan Lall,Female,46,Chennai,Tamil Nadu,Nike Shoes,Fashion,Footwear,3,4500,Credit Card,Cancelled
+TXN101079,12-11-2025,CUST1419,Akarsh Dutt,Male,40,Bengaluru,Karnataka,Sony Headphones,Electronics,Accessories,3,5000,UPI,Cancelled
+TXN101080,29-09-2025,CUST1102,Zoya Randhawa,Male,50,Bengaluru,Karnataka,iPhone 14,Electronics,Mobile,5,65000,Cash,Cancelled
+TXN101081,28-12-2025,CUST1872,Indrans Dutt,Female,39,Delhi,Delhi,Samsung Galaxy S22,Electronics,Mobile,4,58000,Debit Card,Returned
+TXN101082,2025/01/21,CUST1432,Arnav Saini,Female,49,Chennai,Tamil Nadu,Nike Shoes,Fashion,Footwear,2,4500,Cash,Returned
+TXN101083,14-04-2025,CUST1946,Mannat Bains,Female,40,Hyderabad,Telangana,Sony Headphones,Electronics,Accessories,1,5000,Credit Card,Delivered
+TXN101084,2025/10/07,CUST1363,Krish Sura,Male,32,Bengaluru,Karnataka,Samsung Galaxy S22,Electronics,Mobile,1,58000,Credit Card,Delivered
+TXN101085,2025/12/11,CUST1490,Rohan Bhargava,Female,32,Hyderabad,Telangana,HP Laptop,Electronics,Laptop,2,72000,Cash,Cancelled
+TXN101086,29-06-2025,CUST1089,Zara Date,Male,58,Kolkata,West Bengal,Nike Shoes,Fashion,Footwear,5,4500,Debit Card,Returned
+TXN101087,24-06-2025,CUST1500,Ishita Kalita,Female,49,Bengaluru,Karnataka,Samsung Galaxy S22,Electronics,Mobile,3,58000,Debit Card,Delivered
+TXN101088,2025/04/22,CUST1965,Hiran Virk,Male,37,Pune,Maharashtra,Adidas T-Shirt,Fashion,Clothing,1,1800,Credit Card,Returned
+TXN101089,2025/02/21,CUST1565,Dhruv Kant,Male,28,Mumbai,Maharashtra,HP Laptop,Electronics,Laptop,5,72000,Cash,Cancelled
+TXN101090,17-01-2025,CUST1240,Seher Bhattacharyya,Female,35,Chennai,Tamil Nadu,Nike Shoes,Fashion,Footwear,1,4500,UPI,Cancelled
+TXN101091,15-09-2025,CUST1053,Kaira Samra,Female,57,Delhi,Delhi,Samsung Galaxy S22,Electronics,Mobile,2,58000,UPI,Delivered
+TXN101092,06-01-2025,CUST1618,Samar Toor,Female,45,Kolkata,West Bengal,Nike Shoes,Fashion,Footwear,3,4500,Credit Card,Delivered
+TXN101093,30-05-2025,CUST1761,Indranil Kaul,Female,35,Pune,Maharashtra,iPhone 14,Electronics,Mobile,3,65000,Cash,Cancelled
+TXN101094,2025/03/28,CUST1455,Dhruv Warrior,Male,36,Mumbai,Maharashtra,iPhone 14,Electronics,Mobile,5,65000,Debit Card,Delivered
+TXN101095,28-06-2025,CUST1370,Sahil Dhar,Female,21,Pune,Maharashtra,HP Laptop,Electronics,Laptop,1,72000,Cash,Cancelled
+TXN101096,10-11-2025,CUST1528,Rati Rattan,Male,29,Chennai,Tamil Nadu,Wooden Table,Furniture,Table,3,12000,Credit Card,Delivered
+TXN101097,30-01-2025,CUST1706,Darshit Khatri,Male,21,Kolkata,West Bengal,Adidas T-Shirt,Fashion,Clothing,2,1800,UPI,Delivered
+TXN101098,2025/06/20,CUST1127,Mamooty Lalla,Female,47,Mumbai,Maharashtra,Samsung Galaxy S22,Electronics,Mobile,1,58000,Cash,Delivered
+TXN101099,25-01-2025,CUST1170,Anvi Chana,Female,53,Delhi,Delhi,Adidas T-Shirt,Fashion,Clothing,1,1800,Credit Card,Delivered
+TXN101100,21-07-2025,CUST1774,Charvi Bobal,Female,50,Delhi,Delhi,Sony Headphones,Electronics,Accessories,5,5000,UPI,Returned
+TXN101101,01-08-2025,CUST1194,Himmat Dara,Female,57,Hyderabad,Telangana,Nike Shoes,Fashion,Footwear,4,4500,Cash,Delivered
+TXN101102,2025/04/12,CUST1450,Anahita Dyal,Female,42,Kolkata,West Bengal,Samsung Galaxy S22,Electronics,Mobile,3,58000,Cash,Delivered
+TXN101103,2025/11/29,CUST1595,Navya Aurora,Female,50,Kolkata,West Bengal,iPhone 14,Electronics,Mobile,5,65000,Cash,Returned
+TXN101104,2025/10/19,CUST1252,Lakshit Mander,Male,47,Kolkata,West Bengal,iPhone 14,Electronics,Mobile,1,65000,Cash,Cancelled
+TXN101105,2025/09/03,CUST1679,Hrishita Shroff,Female,31,Bengaluru,Karnataka,iPhone 14,Electronics,Mobile,2,65000,UPI,Cancelled
+TXN101106,2025/03/03,CUST1228,Tarini Sen,Female,52,Hyderabad,Telangana,Wooden Table,Furniture,Table,5,12000,Cash,Cancelled
+TXN101107,17-08-2025,CUST1276,Divij Grover,Female,49,Pune,Maharashtra,Adidas T-Shirt,Fashion,Clothing,5,1800,Credit Card,Returned
+TXN101108,29-01-2025,CUST1137,Faiyaz Venkatesh,Male,42,Hyderabad,Telangana,Wooden Table,Furniture,Table,1,12000,UPI,Cancelled
+TXN101109,2025/11/19,CUST1242,Khushi Comar,Male,32,Hyderabad,Telangana,Wooden Table,Furniture,Table,3,12000,Debit Card,Delivered
+TXN101110,01-11-2025,CUST1244,Anaya Hari,Male,24,Bengaluru,Karnataka,iPhone 14,Electronics,Mobile,5,65000,Credit Card,Returned
+TXN101111,21-09-2025,CUST1158,Biju Ratta,Female,25,Hyderabad,Telangana,Samsung Galaxy S22,Electronics,Mobile,4,58000,Cash,Cancelled
+TXN101112,2025/01/13,CUST1996,Dharmajan Wable,Female,40,Chennai,Tamil Nadu,iPhone 14,Electronics,Mobile,4,65000,Debit Card,Cancelled
+TXN101113,20-04-2025,CUST1986,Anika Kale,Male,56,Pune,Maharashtra,Wooden Table,Furniture,Table,5,12000,Credit Card,Returned
+TXN101114,08-01-2025,CUST1788,Manjari Goyal,Female,19,Kolkata,West Bengal,Adidas T-Shirt,Fashion,Clothing,3,1800,Debit Card,Cancelled
+TXN101115,2025/11/24,CUST1131,Trisha Kashyap,Female,32,Chennai,Tamil Nadu,Nike Shoes,Fashion,Footwear,5,4500,UPI,Delivered
+TXN101116,2025/08/23,CUST1941,Lagan Kala,Male,38,Pune,Maharashtra,Adidas T-Shirt,Fashion,Clothing,4,1800,UPI,Delivered
+TXN101117,11-08-2025,CUST1797,Indranil Kamdar,Female,24,Chennai,Tamil Nadu,Samsung Galaxy S22,Electronics,Mobile,2,58000,Credit Card,Cancelled
+TXN101118,29-07-2025,CUST1163,Jivika Sinha,Female,58,Bengaluru,Karnataka,Nike Shoes,Fashion,Footwear,5,4500,Cash,Delivered
+TXN101119,30-05-2025,CUST1116,Ehsaan Walia,Female,27,Kolkata,West Bengal,Sony Headphones,Electronics,Accessories,4,5000,UPI,Returned
+TXN101120,10-06-2025,CUST1684,Jivin Jha,Female,43,Chennai,Tamil Nadu,iPhone 14,Electronics,Mobile,3,65000,UPI,Delivered
+TXN101121,13-12-2025,CUST1131,Umang Vora,Female,50,Pune,Maharashtra,Samsung Galaxy S22,Electronics,Mobile,3,58000,Credit Card,Cancelled
+TXN101122,2026/01/01,CUST1476,Pari Balan,Male,53,Mumbai,Maharashtra,Sony Headphones,Electronics,Accessories,2,5000,Credit Card,Returned
+TXN101123,2025/05/11,CUST1247,Ryan Bassi,Male,37,Bengaluru,Karnataka,Nike Shoes,Fashion,Footwear,2,4500,Credit Card,Returned
+TXN101124,02-10-2025,CUST1891,Nehmat Subramanian,Female,39,Bengaluru,Karnataka,HP Laptop,Electronics,Laptop,5,72000,Debit Card,Delivered
+TXN101125,25-12-2025,CUST1532,Mehul Kata,Female,42,Bengaluru,Karnataka,Samsung Galaxy S22,Electronics,Mobile,2,58000,Credit Card,Cancelled
+TXN101126,2025/03/06,CUST1881,Vaibhav Sachdeva,Male,43,Kolkata,West Bengal,Nike Shoes,Fashion,Footwear,5,4500,Credit Card,Cancelled
+TXN101127,18-06-2025,CUST1976,Navya Dixit,Male,35,Hyderabad,Telangana,Nike Shoes,Fashion,Footwear,4,4500,Cash,Cancelled
+TXN101128,10-01-2025,CUST1774,Yashvi Choudhry,Male,19,Delhi,Delhi,Wooden Table,Furniture,Table,1,12000,Cash,Delivered
+TXN101129,2025/06/28,CUST1841,Shalv Majumdar,Male,23,Kolkata,West Bengal,Sony Headphones,Electronics,Accessories,4,5000,Credit Card,Delivered
+TXN101130,2025/03/05,CUST1732,Tushar Agarwal,Male,27,Mumbai,Maharashtra,Adidas T-Shirt,Fashion,Clothing,4,1800,UPI,Returned
+TXN101131,04-05-2025,CUST1896,Charvi Kala,Male,25,Hyderabad,Telangana,HP Laptop,Electronics,Laptop,3,72000,Credit Card,Returned
+TXN101132,08-06-2025,CUST1691,Divit Iyer,Male,34,Kolkata,West Bengal,Wooden Table,Furniture,Table,2,12000,Credit Card,Delivered
+TXN101133,10-09-2025,CUST1160,Kiaan Bajaj,Female,48,Chennai,Tamil Nadu,Samsung Galaxy S22,Electronics,Mobile,1,58000,Cash,Cancelled
+TXN101134,2025/05/26,CUST1596,Mehul Divan,Female,38,Pune,Maharashtra,Sony Headphones,Electronics,Accessories,1,5000,Debit Card,Cancelled
+TXN101135,28-06-2025,CUST1855,Piya Johal,Male,37,Delhi,Delhi,Nike Shoes,Fashion,Footwear,2,4500,Cash,Cancelled
+TXN101136,2025/12/10,CUST1652,Sumer Lall,Male,43,Kolkata,West Bengal,Adidas T-Shirt,Fashion,Clothing,3,1800,Cash,Delivered
+TXN101137,2025/07/24,CUST1828,Lagan Reddy,Female,47,Bengaluru,Karnataka,Sony Headphones,Electronics,Accessories,5,5000,Debit Card,Delivered
+TXN101138,2025/04/18,CUST1015,Bhavin Thaman,Male,21,Pune,Maharashtra,Nike Shoes,Fashion,Footwear,3,4500,Cash,Returned
+TXN101139,2025/12/07,CUST1939,Badal Joshi,Female,57,Kolkata,West Bengal,Samsung Galaxy S22,Electronics,Mobile,5,58000,Cash,Cancelled
+TXN101140,29-05-2025,CUST1321,Eshani Rau,Male,46,Hyderabad,Telangana,Nike Shoes,Fashion,Footwear,3,4500,UPI,Returned
+TXN101141,2025/09/16,CUST1362,Shayak Thaker,Female,39,Bengaluru,Karnataka,Samsung Galaxy S22,Electronics,Mobile,1,58000,UPI,Cancelled
+TXN101142,2025/06/09,CUST1174,Zeeshan Jani,Male,58,Delhi,Delhi,Nike Shoes,Fashion,Footwear,5,4500,UPI,Cancelled
+TXN101143,15-11-2025,CUST1434,Himmat Lala,Female,31,Mumbai,Maharashtra,Nike Shoes,Fashion,Footwear,5,4500,Cash,Cancelled
+TXN101144,2025/02/01,CUST1713,Madhav Buch,Female,24,Pune,Maharashtra,Nike Shoes,Fashion,Footwear,1,4500,UPI,Cancelled
+TXN101145,2025/11/02,CUST1004,Misha Bakshi,Male,33,Chennai,Tamil Nadu,Sony Headphones,Electronics,Accessories,4,5000,Debit Card,Cancelled
+TXN101146,2025/11/04,CUST1028,Samar Ahluwalia,Female,32,Chennai,Tamil Nadu,Adidas T-Shirt,Fashion,Clothing,5,1800,Credit Card,Delivered
+TXN101147,2025/12/13,CUST1109,Zain Kohli,Male,51,Chennai,Tamil Nadu,iPhone 14,Electronics,Mobile,4,65000,UPI,Delivered
+TXN101148,2025/06/07,CUST1561,Hazel Kalita,Female,26,Pune,Maharashtra,Wooden Table,Furniture,Table,5,12000,Debit Card,Delivered
+TXN101149,28-10-2025,CUST1195,Khushi Ravi,Male,19,Mumbai,Maharashtra,iPhone 14,Electronics,Mobile,2,65000,Debit Card,Returned
+TXN101150,2025/10/31,CUST1000,Nitya Guha,Female,35,Hyderabad,Telangana,Wooden Table,Furniture,Table,1,12000,Cash,Returned
+TXN101151,11-01-2025,CUST1851,Kiara Guha,Female,41,Hyderabad,Telangana,Samsung Galaxy S22,Electronics,Mobile,2,58000,UPI,Returned
+TXN101152,15-03-2025,CUST1458,Neelofar Barad,Male,53,Bengaluru,Karnataka,Wooden Table,Furniture,Table,1,12000,Cash,Cancelled
+TXN101153,2025/03/02,CUST1410,Shaan Dhawan,Male,55,Delhi,Delhi,Adidas T-Shirt,Fashion,Clothing,3,1800,Debit Card,Delivered
+TXN101154,29-04-2025,CUST1397,Kanav Samra,Male,35,Pune,Maharashtra,Adidas T-Shirt,Fashion,Clothing,5,1800,UPI,Returned
+TXN101155,2025/11/24,CUST1886,Kanav Tella,Male,33,Delhi,Delhi,Sony Headphones,Electronics,Accessories,4,5000,UPI,Returned
+TXN101156,10-04-2025,CUST1011,Jayesh Dhar,Female,52,Pune,Maharashtra,Samsung Galaxy S22,Electronics,Mobile,3,58000,Cash,Delivered
+TXN101157,2025/08/28,CUST1274,Advika Balay,Female,54,Delhi,Delhi,Nike Shoes,Fashion,Footwear,5,4500,Cash,Returned
+TXN101158,2025/09/15,CUST1013,Siya Jain,Female,35,Kolkata,West Bengal,Nike Shoes,Fashion,Footwear,3,4500,UPI,Cancelled
+TXN101159,14-09-2025,CUST1875,Adah Verma,Female,59,Chennai,Tamil Nadu,Sony Headphones,Electronics,Accessories,1,5000,Debit Card,Returned
+TXN101160,2025/06/28,CUST1575,Dhruv Ravel,Female,31,Hyderabad,Telangana,Samsung Galaxy S22,Electronics,Mobile,5,58000,Credit Card,Cancelled
+TXN101161,2025/05/07,CUST1589,Himmat Dutt,Female,30,Chennai,Tamil Nadu,iPhone 14,Electronics,Mobile,5,65000,Cash,Cancelled
+TXN101162,2025/11/03,CUST1597,Tara Das,Male,28,Chennai,Tamil Nadu,Adidas T-Shirt,Fashion,Clothing,3,1800,Credit Card,Cancelled
+TXN101163,29-08-2025,CUST1762,Priyansh Sani,Male,27,Delhi,Delhi,Wooden Table,Furniture,Table,5,12000,Credit Card,Cancelled
+TXN101164,15-03-2025,CUST1866,Khushi Kohli,Male,60,Bengaluru,Karnataka,Wooden Table,Furniture,Table,4,12000,Credit Card,Returned
+TXN101165,2025/07/08,CUST1232,Taimur Vig,Female,40,Bengaluru,Karnataka,Adidas T-Shirt,Fashion,Clothing,3,1800,UPI,Cancelled
+TXN101166,2025/02/15,CUST1975,Suhana Dey,Female,24,Pune,Maharashtra,iPhone 14,Electronics,Mobile,5,65000,Cash,Cancelled
+TXN101167,2025/06/05,CUST1689,Keya Malhotra,Female,39,Bengaluru,Karnataka,HP Laptop,Electronics,Laptop,3,72000,Credit Card,Delivered
+TXN101168,04-06-2025,CUST1608,Zoya Ganesan,Female,44,Mumbai,Maharashtra,Wooden Table,Furniture,Table,2,12000,Cash,Returned
+TXN101169,2025/04/17,CUST1188,Nitya Tara,Male,22,Mumbai,Maharashtra,Samsung Galaxy S22,Electronics,Mobile,2,58000,Cash,Cancelled
+TXN101170,2025/04/03,CUST1486,Aarush Barman,Female,38,Mumbai,Maharashtra,Wooden Table,Furniture,Table,3,12000,Credit Card,Returned
+TXN101171,11-08-2025,CUST1424,Ivana Sen,Female,49,Mumbai,Maharashtra,iPhone 14,Electronics,Mobile,1,65000,Credit Card,Returned
+TXN101172,2025/11/17,CUST1566,Oorja Jayaraman,Female,20,Delhi,Delhi,Samsung Galaxy S22,Electronics,Mobile,4,58000,Debit Card,Delivered
+TXN101173,03-12-2025,CUST1493,Myra Shenoy,Male,45,Pune,Maharashtra,iPhone 14,Electronics,Mobile,3,65000,UPI,Cancelled
+TXN101174,29-06-2025,CUST1544,Baiju Karpe,Male,20,Delhi,Delhi,Samsung Galaxy S22,Electronics,Mobile,1,58000,UPI,Cancelled
+TXN101175,26-02-2025,CUST1203,Mishti Halder,Male,48,Chennai,Tamil Nadu,Sony Headphones,Electronics,Accessories,2,5000,UPI,Returned
+TXN101176,16-06-2025,CUST1314,Yuvraj  Raval,Female,40,Kolkata,West Bengal,HP Laptop,Electronics,Laptop,2,72000,UPI,Returned
+TXN101177,21-10-2025,CUST1230,Ishaan Ramachandran,Male,27,Chennai,Tamil Nadu,Sony Headphones,Electronics,Accessories,3,5000,Cash,Returned
+TXN101178,01-01-2026,CUST1807,Parinaaz Setty,Female,54,Hyderabad,Telangana,Wooden Table,Furniture,Table,4,12000,UPI,Cancelled
+TXN101179,2025/04/11,CUST1863,Urvi Kothari,Male,54,Bengaluru,Karnataka,HP Laptop,Electronics,Laptop,5,72000,Credit Card,Returned
+TXN101180,2025/04/01,CUST1532,Gokul Bhagat,Female,50,Hyderabad,Telangana,iPhone 14,Electronics,Mobile,2,65000,Credit Card,Cancelled
+TXN101181,2025/11/29,CUST1142,Kimaya Sharma,Female,48,Kolkata,West Bengal,HP Laptop,Electronics,Laptop,3,72000,Cash,Delivered
+TXN101182,2025/01/11,CUST1942,Nehmat Vig,Female,57,Chennai,Tamil Nadu,Wooden Table,Furniture,Table,3,12000,Debit Card,Cancelled
+TXN101183,2025/06/22,CUST1417,Miraya Bawa,Male,48,Delhi,Delhi,Nike Shoes,Fashion,Footwear,3,4500,Debit Card,Delivered
+TXN101184,2025/06/10,CUST1034,Seher Sathe,Female,46,Bengaluru,Karnataka,Samsung Galaxy S22,Electronics,Mobile,2,58000,Debit Card,Cancelled
+TXN101185,02-06-2025,CUST1154,Tiya Goswami,Male,29,Kolkata,West Bengal,Wooden Table,Furniture,Table,4,12000,Debit Card,Returned
+TXN101186,07-10-2025,CUST1010,Krish Chaudhry,Male,47,Chennai,Tamil Nadu,Adidas T-Shirt,Fashion,Clothing,5,1800,Credit Card,Delivered
+TXN101187,2025/07/06,CUST1547,Sara Dhingra,Female,48,Delhi,Delhi,iPhone 14,Electronics,Mobile,3,65000,Debit Card,Returned
+TXN101188,27-02-2025,CUST1827,Lagan Lata,Male,30,Chennai,Tamil Nadu,HP Laptop,Electronics,Laptop,3,72000,UPI,Returned
+TXN101189,15-04-2025,CUST1222,Abram Shroff,Female,57,Hyderabad,Telangana,iPhone 14,Electronics,Mobile,1,65000,UPI,Cancelled
+TXN101190,15-01-2025,CUST1833,Saira Kaul,Male,46,Bengaluru,Karnataka,Sony Headphones,Electronics,Accessories,3,5000,Debit Card,Cancelled
+TXN101191,01-05-2025,CUST1967,Ahana  Shukla,Male,58,Hyderabad,Telangana,Wooden Table,Furniture,Table,1,12000,Cash,Cancelled
+TXN101192,23-01-2025,CUST1264,Mamooty Kata,Female,33,Kolkata,West Bengal,Nike Shoes,Fashion,Footwear,3,4500,Cash,Delivered
+TXN101193,13-01-2025,CUST1617,Shaan Saini,Female,32,Hyderabad,Telangana,Samsung Galaxy S22,Electronics,Mobile,1,58000,Credit Card,Delivered
+TXN101194,07-10-2025,CUST1681,Mehul Chana,Male,59,Chennai,Tamil Nadu,iPhone 14,Electronics,Mobile,2,65000,UPI,Cancelled
+TXN101195,2025/05/17,CUST1775,Myra Wagle,Male,49,Delhi,Delhi,iPhone 14,Electronics,Mobile,3,65000,UPI,Delivered
+TXN101196,2025/11/21,CUST1386,Divit Tiwari,Male,59,Chennai,Tamil Nadu,Adidas T-Shirt,Fashion,Clothing,2,1800,Debit Card,Returned
+TXN101197,21-01-2025,CUST1523,Ehsaan Ganguly,Female,32,Kolkata,West Bengal,HP Laptop,Electronics,Laptop,4,72000,Credit Card,Cancelled
+TXN101198,11-06-2025,CUST1157,Saksham Dave,Female,51,Hyderabad,Telangana,Wooden Table,Furniture,Table,1,12000,UPI,Returned
+TXN101199,26-05-2025,CUST1912,Amani Krishnamurthy,Female,55,Delhi,Delhi,Nike Shoes,Fashion,Footwear,5,4500,UPI,Cancelled
